@@ -7,13 +7,17 @@
 	- Sam's tv
 	- Big desks for us both
 	- Bookshelves
-	- Chair for sam like the one we has already
+	- Chair for Sam like the one we has already
 - PS3 games (hunt ebay)
+
 # Medium Term Attainable
 - Games consoles
 	- Xbox
 	- Wii
 	- PS5
+
 # Long Term Attainable
 - Bari sax
+- fancy coffee setup
+
 # ...like... if we win the lottery?
