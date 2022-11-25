@@ -20,11 +20,13 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 #### Incident 1
 
-#### Incident 2
+#### Incident 2 — 20-25th June 2022
 
-A late scheduling confirmation for orchestral rehearsals meant that rehearsals were scheduled in such a way that clashed with my teaching obligations for non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal. 
+A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the week beginning 21st June were scheduled in such a way that clashed with my teaching obligations for non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal. 
 
-Knowing how Mr Rosina was liable to react to my being unable to attend part of the re
+Knowing how Mr Rosina was liable to react to my being unable to attend part of the rehearsal caused me a great deal of stress. Panicked, I called Gavin Allsop, and left a voicemail, to see what could be done. Gavin replied promptly, and in the email chain that followed he proposed a very reasonable solution to the predicament; a compromise in which 
+
+### The Effects of this Bullying
 
 ## Victimisation
 
