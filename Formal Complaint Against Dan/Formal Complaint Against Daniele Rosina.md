@@ -22,7 +22,9 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 #### Incident 2
 
-A late scheduling confirmation 
+A late scheduling confirmation for orchestral rehearsals meant that rehearsals were scheduled in such a way that clashed with my teaching obligations for non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal. 
+
+Knowing how Mr Rosina was liable to react to my being unable to attend part of the re
 
 ## Victimisation
 
