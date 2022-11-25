@@ -1,2 +1,4 @@
 I am herein making a formal complaint against Mr Daneile Rosina, Director of Orchestral Studies and conductor within the University of Birmingham Music Society, wherein he holds several positions of leadership and authority. This complaint is made on the grounds of **bullying**, **harassment**, and **victimisation**, experienced most severely during the previous academic year (2021-2022), especially during interactions as a member of the Philharmonic Orchestra which he conducts, and as described within the University of Birmingham's *Harassment and Bullying Policy*, which is attached to this complaint. To contextualise my grievances with the conduct of Mr Rosina within the framework of this policy, I will refer to section headings of this document throughout. 
 
+# Rationale for Formal Complaint
+As described in §11.2, in the first instance 
