@@ -14,6 +14,10 @@ It is notable that there has been a notable gap of time between my last problema
 
 Given the profound effect that these grievances have had on my personal wellbeing and professional opportunities as a postgraduate member of the University, I am following the guidance according to [[University of Birmingham bullying.pdf#page=12|§13.4]] and submitting the **Concern Review form** attached.
 
+# Important Background Information
+
+It is important context for the purposes of this discussion 
+
 # The Grievances
 
 ## Bullying
@@ -24,7 +28,7 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the **week beginning 21st June** were scheduled in such a way that clashed with my teaching obligations for non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal in order to meet this commitment to The Brilliant Club, and indeed to the students I was teaching. 
 
-Knowing how Mr Rosina was liable to react to my being unable to attend part of the rehearsal caused me a great deal of stress. Panicked, I called Gavin Allsop, and left a voicemail, to see what could be done. Gavin replied promptly, and in the email chain that followed (attached) he proposed a very reasonable solution to the predicament; a compromise in which 
+Knowing how Mr Rosina was liable to react to my being unable to attend part of the rehearsal caused me a great deal of stress. Panicked, I called Gavin Allsop, and left a voicemail, to see what could be done. Gavin replied promptly, and in the email chain that followed (attached) he proposed a very reasonable solution to the predicament; a compromise in which I would complete my teaching obligations in one of the "Nooks" in LG of the Bramall, mere feet away from the rehearsal space to minimise time between me finishing and being able to attend rehearsal, and 
 
 ### The Effects of this Bullying
 
