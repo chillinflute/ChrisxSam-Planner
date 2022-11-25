@@ -6,9 +6,9 @@ As described in [[University of Birmingham bullying.pdf#page=9|§11.2]], in the 
 
 I acknowledge the various informal courses of action documented within [[University of Birmingham bullying.pdf#page=9|§12]], however have concluded (as is my prerogative by [[University of Birmingham bullying.pdf#page=9|§12.1]]) that these would be inappropriate to my situation. Indeed, I have been informally advised by staff that directly engaging with Mr Rosina in order to discuss this would likely only make the situation worse. 
 
-It is notable that there has been a notable gap of time between my last problemative encounter with Mr Rosina and my submission of this complaint. The reasons for which are as follows:
+It is notable that there has been a notable gap of time between my last problematic encounter with Mr Rosina and my submission of this complaint. The reasons for which are as follows:
 
-1. I was concerned about potential repercussions for me should I submit this complaint. Despite reassurances in [[University of Birmingham bullying.pdf#page=9||§11.1]], Mr Rosina is, as one online article puts it, 
+1. I was concerned about potential repercussions for me should I submit this complaint. Despite reassurances in [[University of Birmingham bullying.pdf#page=9||§11.1]], Mr Rosina is, as one online article puts it, a man ["blessed with important musical contacts"](https://www.thefreelibrary.com/When+Daniele%27s+not+working+he%27s+networking%3B+Conductor+Daniele+Rosina...-a0166020245). I am not a confrontational person generally, and relevant staff will attest to how nervous I was when first coming forward about what I was experiencing. Advancing to the degree of making a formal complaint is an undertaking I make with great reluctance, however given 
 
 Given the profound effect that these grievances have had on my personal wellbeing and professional opportunities as a postgraduate member of the University, I am following the guidance according to [[University of Birmingham bullying.pdf#page=12|§13.4]] and submitting the **Concern Review form** attached.
 
