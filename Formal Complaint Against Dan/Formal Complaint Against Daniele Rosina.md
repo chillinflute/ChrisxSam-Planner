@@ -4,7 +4,7 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 
 As described in [[University of Birmingham bullying.pdf#page=9|§11.2]], in the first instance of being subject to the grievances described below I attempted to seek informal routes of resolution. As per [[University of Birmingham bullying.pdf#page=9|§11.3]], I consulted with members of the Music Office, including Gavin Allsop, Rachel Gibson, and Jo Sweet. My primary point of contact at the time was Rachel Gibson, who is no longer an employee of the University. In conversations with her, and in accordance with [[University of Birmingham bullying.pdf#page=9|§11.3]], I described the events that had taken place, often within an hour of them occurring. These accounts were recorded on pen and paper and kept, to the best of my knowledge, according to [[University of Birmingham bullying.pdf#page=9|§11.3]]. I was advised to make a formal complaint should I see fit. 
 
-I acknowledge the various informal courses of action documented within [[University of Birmingham bullying.pdf#page=9|§12]]. Indeed, measures in line with [[University of Birmingham bullying.pdf#page=10|§12.3]] were undertaken in one particular occasion detailed below, however the resolution of those steps did not result in a satisfactory conclusion. However, due to Mr Rosina's exceptionally confrontational behaviour in past encounters, (indeed, I have been informally advised by staff that directly engaging with Mr Rosina in order to discuss this would likely only make the situation worse), I have concluded (as is my prerogative by [[University of Birmingham bullying.pdf#page=9|§12.1]]) that these avenues would be inappropriate to my situation at this point. 
+I acknowledge the various informal courses of action documented within [[University of Birmingham bullying.pdf#page=9|§12]]. Indeed, measures in line with [[University of Birmingham bullying.pdf#page=10|§12.3]] were undertaken in one particular occasion detailed below, however the resolution of those steps did not result in a satisfactory conclusion. However, due to Mr Rosina's exceptionally confrontational behaviour in past encounters — indeed, I have been informally advised by staff that directly engaging with Mr Rosina in order to discuss this would likely only make the situation worse — I have concluded (as is my prerogative by [[University of Birmingham bullying.pdf#page=9|§12.1]]) that these avenues would be inappropriate to my situation at this point. 
 
 It is notable that there has been a notable gap of time between my last problematic encounter with Mr Rosina and my submission of this complaint. The reasons for which are as follows:
 
@@ -18,6 +18,12 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 ## Bullying
 
+#### Incident 1
+
+#### Incident 2
+
 ## Victimisation
+
+#### Incident
 
 ### The Effects of this Victimisation
