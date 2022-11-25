@@ -16,7 +16,9 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 # Important Background Information
 
-It is important context for the purposes of this discussion 
+It is important context for the purposes of this discussion to be aware of two pieces of personal background information about myself. Both of these pieces of information are on UoB systems as I included them in my application and registration processes.
+
+Firstly, I am diagnosed with severe migraines, for which I am prescribed Sumatriptan (GP letter available on request). These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress.  
 
 # The Grievances
 
