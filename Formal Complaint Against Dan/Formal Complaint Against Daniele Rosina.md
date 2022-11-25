@@ -18,7 +18,9 @@ Given the profound effect that these grievances have had on my personal wellbein
 
 It is important context for the purposes of this discussion to be aware of two pieces of personal background information about myself. Both of these pieces of information are on UoB systems as I included them in my application and registration processes.
 
-Firstly, I am diagnosed with severe migraines, for which I am prescribed Sumatriptan (GP letter available on request). These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress. I could not say for complete certainty if Mr Rosina is aware of this, however I have had migraine episodes in rehearsal previously and indeed had to take my medication for them in order to continue playing. I recall 
+Firstly, I am diagnosed with severe migraines, for which I am prescribed Sumatriptan (GP letter available on request). These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress. I could not say for complete certainty if Mr Rosina is aware of this, however I have had migraine episodes in rehearsal previously and indeed had to take my medication for them in order to continue playing. I recall him asking after me during one of these events and my explaining the condition.
+
+Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organisational difficulties, and some motor coordination defficiencies, for which I was assigned a Reason. I know for certain that Mr Rosina is aware of this, as it was discussed to some degree at a Philharmonic Orchestra Principals' Meeting, where Mr Rosina and I spoke about differing experiences of the condition
 
 # The Grievances
 
