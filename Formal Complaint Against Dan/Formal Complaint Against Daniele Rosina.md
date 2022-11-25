@@ -4,4 +4,4 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 
 As described in §11.2, in the first instance of being subject to the grievances described below I attempted to seek informal routes of resolution. As per §11.3, I consulted with members of the Music Office, including Gavin Allsop, Rachel Gibson, and Jo Sweet. My primary point of contact at the time was Rachel Gibson, who is no longer an employee of the University. In conversations with her, and in accordance with §11.3, I described the events that had taken place, often within an hour of them occurring. These accounts were recorded on pen and paper and kept, to the best of my knowledge, according to §11.3. I was advised to make a formal complaint should I see fit. 
 
-I acknowledge the various informal courses of action documented 
+I acknowledge the various informal courses of action documented within §12, however have concluded (as is my prerogative by §12.1) that these would be inappropriate to my situation. Indeed, I have been informally advised by staff that directly engaging with Mr Rosina in order to discuss this would likely only make the situation worse. 
