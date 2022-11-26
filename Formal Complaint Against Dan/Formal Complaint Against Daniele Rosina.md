@@ -26,9 +26,11 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 ## Bullying
 
-#### Incident 1
+#### Incident 1 — 
 
-#### Incident 2 — 20-25th June 2022
+#### Incident 2 — 6th June 2022
+
+#### Incident 3 — 20-25th June 2022
 
 A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the **week beginning 21st June** were scheduled in such a way that clashed with my teaching obligations for non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal in order to meet this commitment to The Brilliant Club, and indeed to the students I was teaching. 
 
