@@ -34,13 +34,13 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the **week beginning 21st June** were scheduled in such a way that clashed with my teaching obligations for the non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal in order to meet this commitment to The Brilliant Club, and indeed to the students I was teaching. 
 
-N.B.: I was not required for the full repertoire being performed for the Summer Festival Orchestra concert that season, as I was only performing in one of the three p
+N.B.: I was not required for the full repertoire being performed for the Summer Festival Orchestra concert that season, as I was only performing in one of the three pieces being performed: The Prokofiev *Symphony № 5*. 
 
 Knowing how Mr Rosina was liable to react to my being unable to attend part of the rehearsal caused me a great deal of stress. Panicked, I called Gavin Allsop, and left a voicemail, to see what could be done. Gavin replied promptly, and in the **email chain that followed** ([[RE_ This week schedule (Jun22).eml|attached]]) he proposed a very reasonable solution to the predicament; a compromise in which I would complete my teaching obligations in one of the "Nooks" in the LG of the Bramall building, mere feet away from the rehearsal space to minimise time between me finishing and being able to attend rehearsal. **Mr Rosina was copied into this email chain by Gavin**. He sent no acknowledgment of its contents. 
 
 On the Monday (20th), the schedule fell such that my teaching was scheduled for the first hour of the rehearsal. I arrived on campus in good time and, finding a free Nook to use, conducted my lesson as agreed with Gavin. I finished the lesson a little early in order to keep my agreement of being absent for only an hour, giving myself time to move up to The Dome for the remainder of the rehearsal. I was not communicated with by Mr Rosina directly beyond the usual proceedings of the rehearsal, but subsequently found out that **passive-aggressive comments** had been made about my absence by Mr Rosina **to the ensemble** at large during the earlier part of the rehearsal. 
 
-On the Friday (24th), the day of the [Summer Festival Orchestra concert](https://www.birmingham.ac.uk/schools/lcahm/departments/music/events/2022/summer-22/summer-festival-orchestra.aspx), my teaching meant instead
+On the Friday (24th), the day of the [Summer Festival Orchestra concert](https://www.birmingham.ac.uk/schools/lcahm/departments/music/events/2022/summer-22/summer-festival-orchestra.aspx), my teaching meant instead of arriving late to the rehearsal I would have to leave early. 
 
 ### The Effects of this Bullying
 
