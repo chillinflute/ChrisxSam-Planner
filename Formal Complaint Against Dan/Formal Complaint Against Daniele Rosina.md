@@ -36,7 +36,9 @@ A late scheduling confirmation for orchestral rehearsals meant that rehearsals f
 
 Knowing how Mr Rosina was liable to react to my being unable to attend part of the rehearsal caused me a great deal of stress. Panicked, I called Gavin Allsop, and left a voicemail, to see what could be done. Gavin replied promptly, and in the **email chain that followed** ([[RE_ This week schedule (Jun22).eml|attached]]) he proposed a very reasonable solution to the predicament; a compromise in which I would complete my teaching obligations in one of the "Nooks" in the LG of the Bramall building, mere feet away from the rehearsal space to minimise time between me finishing and being able to attend rehearsal. Mr Rosina was copied into this email chain. He sent no acknowledgment of its contents. 
 
-On the Monday (20th), the schedule fell such that my teaching was scheduled for the first hour of the rehearsal. I arrived on campus in good time and, finding a free Nook to use, conducted my lesson as agreed with Gavin. I finished the lesson a little early in order to keep my agreement of being absent for only an hour, giving myself time to move up to The Dome for the remainder of the rehearsal. I was not communicated with by Mr Rosina, but later found out that passive aggressive 
+On the Monday (20th), the schedule fell such that my teaching was scheduled for the first hour of the rehearsal. I arrived on campus in good time and, finding a free Nook to use, conducted my lesson as agreed with Gavin. I finished the lesson a little early in order to keep my agreement of being absent for only an hour, giving myself time to move up to The Dome for the remainder of the rehearsal. I was not communicated with by Mr Rosina directly beyond the usual proceedings of the rehearsal, but subsequently found out that **passive-aggressive comments** had been made about my absence by Mr Rosina **to the ensemble** at large during the earlier part of the rehearsal. 
+
+On the Friday (25th), 
 
 ### The Effects of this Bullying
 
