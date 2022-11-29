@@ -14,10 +14,13 @@
 - Games consoles
 	- Xbox
 	- Wii
+	- PS2
 	- PS5
 
 # Long Term Attainable
 - Bari sax
 - fancy coffee setup
+- clarinet upgrade
 
 # ...like... if we win the lottery?
+- mansion
