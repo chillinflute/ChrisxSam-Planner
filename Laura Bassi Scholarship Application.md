@@ -33,10 +33,14 @@ In this way, the research aims to examine patterns that are distinct to the fiel
 
 ### Secondary 
 
-- Loughborough Grammar School - Repton School  
-- Trent College (A levels: A*A*AB)
-- University of Oxford, reading Music at undergraduate level  
-- University of Birmingham, reading Music (Open Pathway with Performance) at masters level
+- Loughborough Grammar School 
+- Repton School  
+- Trent College (A levels: A\*A\*AB)
+
+### Higher 
+
+- University of Oxford, BA Music
+- University of Birmingham, MA Music (Open Pathway with Performance)
 - University of Birmingham, PhD Candidate in Music Performance Practice
 
 ### Other
