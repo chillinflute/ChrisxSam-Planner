@@ -29,47 +29,34 @@ In this way, the research aims to examine patterns that are distinct to the fiel
 
 ### Christopher Hill MA BA(Oxon) FNCM FLCM FVCM LTCL DipABRSM FGMS
 
-Education
+## Education
 
-- Secondary:  
-- Loughborough Grammar School - Repton School  
-- Trent College (A levels: A*A*AB) Higher:  
--  
--
+- University of Oxford, reading Music at undergraduate level  
+- University of Birmingham, reading Music (Open Pathway with Performance) at masters level
+- University of Birmingham, PhD Candidate in Music Performance Practice
 
-- -
+### Other
 
-University of Oxford, reading Music at undergraduate level  
-University of Birmingham, reading Music (Open Pathway with Performance) at mas- ters level
+- Royal College of Music Junior Department
+- Royal Northern College of Music Junior Department
+- Was an Aldeburgh Young Musician
 
-Other
+### Qualifications
 
--   -  Royal College of Music Junior Department
-    
--   -  Royal Northern College of Music Junior Department
-    
--   -  Was an Aldeburgh Young Musician
-    
+- MA Music Performance
+- BA(oxon) Music
+- FLCM performance diploma in flute
+- FNCM performance diploma in flute
+- LTCL performance diplomas in classical and jazz flute
+- DipABRSM performance diploma in flute
+- ATCL performance diploma in classical saxophone (alto and soprano)
+- Grade 8 (ABRSM) in voice (tenor)
+- Grade 8 (Rockschool) in drum kit
+- Gold Arts Award
 
-Qualifications
+## Conference Activity
 
--   -  MA Music Performance
-    
--   -  BA(oxon) Music
-    
--   -  FTCL performance diploma in flute
-    
--   -  LTCL performance diplomas in classical and jazz flute
-    
--   -  DipABRSM performance diploma in flute
-    
--   -  ATCL performance diploma in classical saxophone (alto and soprano)
-    
--   -  Grade 8 (ABRSM) in voice (tenor)
-    
--   -  Grade 8 (Rockschool) in drum kit
-    
--   -  GoldArtsAward
+- 
 
 # Relevant Information
 
