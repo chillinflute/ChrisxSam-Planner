@@ -1,7 +1,7 @@
 # Checklist
 
-- [ ] Questions for Application Form
-	- [ ] Abstract
+- [x] Questions for Application Form
+	- [x] Abstract
 	- [x] Justification
 - [ ] CV
 
@@ -25,6 +25,51 @@ This research poses that, since composers often stay within similar game genres 
 
 In this way, the research aims to examine patterns that are distinct to the field of videogame music, whilst drawing upon observations from older multimedia art traditions to understand how sonic identities establish themselves, and how those identities inform the evolution of a genre's soundworlds. 
 
+# Curriculum Vitæ
+
+### Christopher Hill MA BA(Oxon) FNCM FLCM FVCM LTCL DipABRSM FGMS
+
+Education
+
+- Secondary:  
+- Loughborough Grammar School - Repton School  
+- Trent College (A levels: A*A*AB) Higher:  
+-  
+-
+
+- -
+
+University of Oxford, reading Music at undergraduate level  
+University of Birmingham, reading Music (Open Pathway with Performance) at mas- ters level
+
+Other
+
+-   -  Royal College of Music Junior Department
+    
+-   -  Royal Northern College of Music Junior Department
+    
+-   -  Was an Aldeburgh Young Musician
+    
+
+Qualifications
+
+-   -  MA Music Performance
+    
+-   -  BA(oxon) Music
+    
+-   -  FTCL performance diploma in flute
+    
+-   -  LTCL performance diplomas in classical and jazz flute
+    
+-   -  DipABRSM performance diploma in flute
+    
+-   -  ATCL performance diploma in classical saxophone (alto and soprano)
+    
+-   -  Grade 8 (ABRSM) in voice (tenor)
+    
+-   -  Grade 8 (Rockschool) in drum kit
+    
+-   -  GoldArtsAward
 
 # Relevant Information
 
