@@ -31,8 +31,8 @@ In this way, the research aims to examine patterns that are distinct to the fiel
 
 ## Education
 
-- University of Oxford, reading Music at undergraduate level  
-- University of Birmingham, reading Music (Open Pathway with Performance) at masters level
+- University of Oxford, reading BA Music
+- University of Birmingham, reading MA Music (Open Pathway with Performance)
 - University of Birmingham, PhD Candidate in Music Performance Practice
 
 ### Other
