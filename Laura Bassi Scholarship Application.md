@@ -17,7 +17,7 @@ Now games are reaching an age where multiple generations of game designers and c
 
 This research poses that, since composers often stay within similar game genres across their creative output, these factors lay the foundation for musical identities to crystalise around the ludic genres that a succession of composers work within. It will argue that this is especially true within niche genres — where tight-knit creative communities form — and indie development environments — where often only a handful of composers will have influence, often (e.g. Toby Fox, Eric Barone) the game designers/developers themselves.
 
-In this way, the research aims to examine patterns that are distinct to the field of videogame music, whilst drawing upon observations from older multimedia art traditions to understand how sonic identities establish themselves
+In this way, the research aims to examine patterns that are distinct to the field of videogame music, whilst drawing upon observations from older multimedia art traditions to understand how sonic identities establish themselves, and how those identities inform the evolution of a genre's soundworlds. 
 
 # Relevant Information
 
