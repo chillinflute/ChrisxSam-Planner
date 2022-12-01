@@ -1,4 +1,4 @@
-# Curriculum Vitæ 
+# Curriculum Vitæ
 
 ### Christopher Hill MA BA(Oxon) <sub>FNCM FLCM FVCM LTCL DipABRSM FGMS</sub>
 
