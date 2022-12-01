@@ -56,7 +56,7 @@ In this way, the research aims to examine patterns that are distinct to the fiel
 
 ## Conference Activity
 
-### Ludo2022, Royal Holloway, University of London
+### [Ludo2022, Royal Holloway, University of London](https://www.ludomusicology.org/ludo2022/ludo22-programme-and-schedule/)
 
 #### Mythological Narrative and Aesthetic in the Music of Hades
 
@@ -68,7 +68,11 @@ Secondly, how the specific example of Orpheus — perhaps mythology’s most fam
 
 Finally, there will be a discussion of the use of wider soundtrack to support the gameplay loop and the theme attempting (and often failing) to ascend out of Hades. Primarily this will involve an examination of the use of the “No Escape” leitmotif, and how its melody, instrumentation, and implementation in-game enforces a sense of hopelessness and futility in the escape effort, simultaneously challenging the player to defiantly succeed in their mission.
 
-## Other Academic
+## Editorial
+
+### JSMG Guest Editor
+
+Currently co-editing an edition of the *Journal of Sound and Music in Games* on the music of Supergiant Games' *Hades* alongside Stephanie Lind, Demetrius Shahmehri, and Silvia Mantilla-Wright. [Call for papers](https://www.sssmg.org/wp/2022/11/08/call-for-proposals-hades-special-issue-for-jsmg/) is currently out. 
 
 # Relevant Information
 
