@@ -11,7 +11,7 @@
 
 Chris Sawyer's *Transport Tycoon* (1994) was a critical success for the business management genre of games, and perhaps is only relegated to comparative obscurity due to the meteoric rise of his *Rollercoaster Tycoon* which was to follow (1999). It single-handedly created a new subgenre of management game, the transport management sim, which has maintained a passionate community of players and developers, with new releases like *Transport Fever 2* (2019) and *OpenTTD* (2004), an ongoing fan-maintained/modified open-source distibution of Sawyer's original game, continuing to pioneer the concept. 
 
-With such a tight-knit community emerging around these games, a similarly 
+With such a tight-knit community emerging around these games, a similarly close group of composers have formed to contribute to the soundtracks. John Broomhall and 
 
 ## In 250 words or less, describe how your field of study stands to benefit from your research.
 
