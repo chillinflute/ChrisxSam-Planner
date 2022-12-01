@@ -25,12 +25,16 @@ This research poses that, since composers often stay within similar game genres 
 
 In this way, the research aims to examine patterns that are distinct to the field of videogame music, whilst drawing upon observations from older multimedia art traditions to understand how sonic identities establish themselves, and how those identities inform the evolution of a genre's soundworlds. 
 
-# Curriculum Vitæ
+# Curriculum Vitæ 
 
-### Christopher Hill MA BA(Oxon) FNCM FLCM FVCM LTCL DipABRSM FGMS
+### Christopher Hill MA BA(Oxon) <sub>FNCM FLCM FVCM LTCL DipABRSM FGMS</sub>
 
 ## Education
 
+### Secondary 
+
+- Loughborough Grammar School - Repton School  
+- Trent College (A levels: A*A*AB)
 - University of Oxford, reading Music at undergraduate level  
 - University of Birmingham, reading Music (Open Pathway with Performance) at masters level
 - University of Birmingham, PhD Candidate in Music Performance Practice
@@ -44,7 +48,7 @@ In this way, the research aims to examine patterns that are distinct to the fiel
 ### Qualifications
 
 - MA Music Performance
-- BA(oxon) Music
+- BA<sub>oxon</sub> Music
 - FLCM performance diploma in flute
 - FNCM performance diploma in flute
 - LTCL performance diplomas in classical and jazz flute
