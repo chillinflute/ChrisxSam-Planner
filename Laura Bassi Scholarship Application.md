@@ -13,7 +13,7 @@
 
 Ludomusicology is a field that often tries to position itself as a field in relation to both traditional musical multimedia works, and also in its role within digital audiovisual works. Work by Tim Summers, Stephanie Lind, and Mark Sweeney have explored encounters between games and other musical forms, and musical identities with their themes in relation to how those themes are handled in other audiovisual media. 
 
-Now games are 
+Now games are reaching an age where multiple generations of game designers and composers have had the chance to establish their creative identity, they raise the question of how those identities have influenced each other, and what inspiration composers have taken from their forebears in the creation of their soundtracks. Similarly, where individual composers
 
 # Relevant Information
 
