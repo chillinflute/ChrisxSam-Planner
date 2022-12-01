@@ -11,7 +11,9 @@
 
 Chris Sawyer's *Transport Tycoon*[^1] (1994) was a critical success for the business management genre of games, and perhaps is only relegated to comparative obscurity due to the meteoric rise of his *Rollercoaster Tycoon* which was to follow (1999). It single-handedly created a new subgenre of management game, the transport management sim, which has maintained a passionate community of players and developers, with new releases like *Transport Fever 2* (2019) and *OpenTTD* (2004), an ongoing fan-maintained/modified open-source distibution of Sawyer's original game, continuing to pioneer the concept. 
 
-With such a tight-knit community emerging around these games, a similarly close group of composers have formed to contribute to the soundtracks. John Broomhall and Allistair Brimble contributed the lion's share to *TT* and *Locomotion* (2004), with Brimble staying on
+With such a tight-knit community emerging around these games, a similarly close group of composers have formed to contribute to the soundtracks. John Broomhall and Allistair Brimble contributed the lion's share to *Transport Tycoon* and *Locomotion* (2004), with Brimble also composing for *Train Fever* (2014) and *Transport Fever* (2016), joined by Admiral James T. (aka. David Langhard). Langhard would compose solo for *Transport Fever 2*. 
+
+
 
 ## In 250 words or less, describe how your field of study stands to benefit from your research.
 
@@ -23,8 +25,6 @@ This research poses that, since composers often stay within similar game genres 
 
 In this way, the research aims to examine patterns that are distinct to the field of videogame music, whilst drawing upon observations from older multimedia art traditions to understand how sonic identities establish themselves, and how those identities inform the evolution of a genre's soundworlds. 
 
-
-[^1]: Hereon *"TT"* or *"TTD"* (for the deluxe edition)
 
 # Relevant Information
 
