@@ -113,5 +113,10 @@ I feel it important to note that, despite all that has been said above, my exper
 # Conclusions and Recourse
 
 I hope that through the course of this document I have:
-1. Displayed the scope, duration, and severity of Mr Rosina's actions towards me
-2. Introduced the fact that his actions did not target me alone, and that multiple students past and present
+
+1. Displayed the scope, duration, and severity of Mr Rosina's actions towards me.
+2. Introduced the fact that his actions did not target me alone, and that multiple students past and present have experienced similar mistreatment at the hands of Mr Rosina.
+3. That Mr Rosina's conduct threatens the wellbeing of students and members of the University of Birmingham Music Society.
+4. That Mr Rosina's conduct has posed, and continues to pose, a substantial threat to the good name and reputation of the University of Birmingham.
+
+As such, I reiterate my two primary 
