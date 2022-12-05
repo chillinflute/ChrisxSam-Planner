@@ -34,7 +34,7 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 #### Incident 1 — circa 4-8th November 2021
 
-As a keen recitalist, I was eager to engage with the Society's Soloist Competition. 
+As a keen recitalist, I was eager to engage with the Society's Soloist Competition. It represents a rare and valuable opportunity to perform a large-scale concerto-style work with an advanced orchestra and would be an invaluable professional experience. Communication errors had meant my first application to engage with the competition in the 2019-2020 academic was frustrated, so I was keen to engage with the process as early as possible this time around. Knowing that appropriateness of repertoire was an important factor in deciding participants for the compe
 
 #### Incident 2 — 28th February 2022
 
