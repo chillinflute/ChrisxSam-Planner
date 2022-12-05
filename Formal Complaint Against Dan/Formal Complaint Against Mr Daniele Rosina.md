@@ -119,4 +119,9 @@ I hope that through the course of this document I have:
 3. That Mr Rosina's conduct threatens the wellbeing of students and members of the University of Birmingham Music Society.
 4. That Mr Rosina's conduct has posed, and continues to pose, a substantial threat to the good name and reputation of the University of Birmingham.
 
-As such, I reiterate my two primary 
+As such, I reiterate my two primary desired elements of recourse, which are also expressed in the [[Concern Review Form.docx|Concern Review Form]] to which this complaint is attached:
+
+1. For a formal investigation into Mr Rosina's conduct in his capacity as Director of Orchestral studies, and in his various roles within the University of Birmingham Music Society and...
+2. Should such an investigation find Mr Rosina to have acted in an unacceptable manner, that appropriate and swift action be taken against him so that his conduct will not continue to threaten the wellbeing of students and Music Society members.
+
+I approve any evidence attached into this complaint be used in the course of any such investigation. Evidence supplied
