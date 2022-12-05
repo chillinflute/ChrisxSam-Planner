@@ -34,7 +34,7 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 #### Incident 1 — circa 4-8th November 2021
 
-As a keen recitalist, I was eager to 
+As a keen recitalist, I was eager to engage with the Society's Soloist Competition. 
 
 #### Incident 2 — 28th February 2022
 
