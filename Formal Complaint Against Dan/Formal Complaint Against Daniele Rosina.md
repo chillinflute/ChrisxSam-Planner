@@ -2,8 +2,9 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 1. To create an account of a number of interactions I have had with Mr Rosina whilst a member of the University of Birmingham Music Society, to serve as exemplary interactions highlighting the character of my broader experience with Mr Rosina throughout my time at the University of Birmingham.  
 2. To show that these accounts reveal Mr Rosina's actions to constitute both **bullying** and **victimisation** of myself, according to the [[University of Birmingham bullying.pdf|Harassment and Bullying Policy]], supported by specific passages of that document in each instance but broadly looking to show that his actions meet the criteria described in [[University of Birmingham bullying.pdf#page=6|§6.1]] and [[University of Birmingham bullying.pdf#page=7|§8.2]].
 3. To show that these interactions were witnessed by other students, in addition to other third parties.
-	1. In the latter case demonstrating that Mr Rosina's behaviour stands to threaten the good name of the University of Birmingham.
-4. To reveal that other students have suffered similar behaviour
+	1. The latter case demonstrating that Mr Rosina's behaviour stands to threaten the good name of the University of Birmingham.
+4. To reveal that other students have suffered similar behaviour from Mr Rosina.
+5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is neccessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the music society and the university at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
 
 # Rationale for Formal Complaint as Course of Action
 
