@@ -32,7 +32,7 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 During a rehearsal on the 6th of June, I had a very short window of time between the end of orchestral rehearsal to then get straight to the CBSO Centre for a rehearsal with the CBSO Chorus, with whom I had a scholarship. Conscious of the time (and knowing the clock in the rehearsal hall was consistently wrong), I discreetly checked my phone for the time. Admittedly, I was in the wrong for having my phone out in a rehearsal here, and if my watch had been charged I'd have simply used that instead. I was immediately singled out by Mr Rosina, and chastised for doing so. Rather than a simple and brief reprimand though, Mr Rosina protracted the interaction, holding up the rehearsal for a significant moment, and pressing the issue like he was expecting a response from me beyond the quick apology I'd already given. 
 
-He was clearly 
+He was clearly holding me to a different standard to other members of the ensemble. I remember him specifically and deridingly saying "Really Chris? You should know better?", the intent of which was clearly to belittle me in front of the ensemble. I'm sure Mr Rosina would argue that, as a section principle, it is right that I be held to a higher standard, and perhaps in spirit I would agree. However, that logic was not being upheld in this situation on his part. Part of the reason I thought to check my phone in the first place was that multiple people in the ensemebles 
 
 #### Incident 3 — 20-25th June 2022
 
