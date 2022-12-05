@@ -26,9 +26,11 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 ## Bullying
 
-#### Incident 1 — 
+#### Incident 1 — 28th February 2022
 
+Whilst not a uniquely egregious example of Mr Rosina's abuse, I hope this particular incident illucidates the various ways his actions impacted me emotionally and physically. 
 
+On the way into rehearsal I had a minor scrape on my bike and grazed my face. In this instance Mr Rosina was perfectly amiable and saw to it that I went to see Gavin to clean the wound and allow me to be ready to play. However, in 
 
 #### Incident 2 — 6th June 2022
 
