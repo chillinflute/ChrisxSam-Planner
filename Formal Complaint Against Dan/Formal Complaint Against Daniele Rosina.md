@@ -1,4 +1,4 @@
-I am herein making a formal complaint against Mr Daniele Rosina, Director of Orchestral Studies and conductor within the University of Birmingham Music Society, wherein he holds several positions of leadership and authority. This complaint is made on the grounds of **bullying**, and **victimisation**, experienced most severely during the previous academic year (2021-2022), especially during interactions as a member of the Philharmonic Orchestra and Summer Festival Orchestra which he conducts, and as described within the University of Birmingham's *[[University of Birmingham bullying.pdf|Harassment and Bullying Policy]]*, which is attached to this complaint. To contextualise my grievances with the conduct of Mr Rosina within the framework of this policy, I will refer to section headings of this document throughout. 
+I am herein making a formal complaint against Mr Daniele Rosina, Director of Orchestral Studies and conductor within the University of Birmingham Music Society, wherein he holds several positions of leadership and authority. This complaint is made on the grounds of **bullying**, and **victimisation**, experienced most severely during the previous academic year (2021-2022), especially during interactions as a member of the Philharmonic Orchestra and Summer Festival Orchestra which he conducts, and as described within the University of Birmingham's *[[University of Birmingham bullying.pdf|Harassment and Bullying Policy]]*, which is attached to this complaint. To contextualise my grievances with the conduct of Mr Rosina within the framework of this policy, I will refer to section headings of this document throughout. My primary purpose in the 
 
 # Rationale for Formal Complaint as Course of Action
 
@@ -58,7 +58,7 @@ To add insult to injury: 6th June just so happened to be my birthday. To my know
 
 The following day I went into the Music Office and had a conversation with Rachel, accounting the events of the previous day. She was especially taken aback by Mr Rosina's choice to re-engage me once I had asked him to relent and follow the conversation up at another time in private. She advised that I, to the best of my ability, avoid engaging with Mr Rosina, and took notes of the events relayed and our conversation. 
 
-Mr Rosina and I never did have that follow-up conversation. It is my understanding that he was spoken to subsequent 
+Mr Rosina and I never did have that follow-up conversation. It is my understanding that he was spoken to subsequent to my conversation with Rachel. His attitude and behaviour towards me remained unchanged. 
 
 These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
 
