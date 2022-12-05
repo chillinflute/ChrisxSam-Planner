@@ -32,9 +32,9 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 ## Bullying
 
-#### Incident 1 — 8th November 2021
+#### Incident 1 — circa 4-8th November 2021
 
-
+As a keen recitalist, I was eager to 
 
 #### Incident 2 — 28th February 2022
 
