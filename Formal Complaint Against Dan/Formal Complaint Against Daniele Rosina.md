@@ -30,7 +30,7 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 #### Incident 2 — 6th June 2022
 
-During a rehearsal on the 6th of June, I had a very short 
+During a rehearsal on the 6th of June, I had a very short window of time between the end of orchestral rehearsal to then get straight to the CBSO Centre for a rehearsal with the CBSO Chorus, with whom I had a scholarship. Conscious of the time (and knowing the clock in the rehearsal hall was consistently wrong), I discreetly checked my phone for the time. Admittedly, I was in the wrong for having my phone out in a rehearsal here, and if my watch had been charged I'd have simply used that instead. I was immediately singled out by Mr Rosina, and chastised 
 
 #### Incident 3 — 20-25th June 2022
 
