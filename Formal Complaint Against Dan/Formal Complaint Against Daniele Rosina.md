@@ -36,9 +36,9 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 As a keen recitalist, I was eager to engage with the Society's Soloist Competition. It represents a rare and valuable opportunity to perform a large-scale concerto-style work with an advanced orchestra and would be an invaluable professional experience. Communication errors had meant my first application to engage with the competition in the 2019-2020 academic was frustrated, so I was keen to engage with the process as early as possible this time around. Knowing that appropriateness of repertoire was an important factor in deciding participants for the competition, I attempted to communicate with Mr Rosina — as the judge  and the person with whom applicants were actively encouraged to speak with regarding repertoire choices for the competition, being the conductor of the orchestra — at the earliest possibility. 
 
-I attempted to engage Mr Rosina in conversation after an orchestra rehearsal about the piece I wished to perform. He directed me to email him with my queries so he could reply to them at a later time. I did so, sending an email to his university address on the 4th November. This remained unanswered for a number of days, so I asked next I saw him if he had received the email. He told me to instead send the email to his personal gmail account, which seemed odd. I forwarded my original message to that account on the 8th November. This, too, would remain unanswered, despite my again asking to see if he'd read it and him reassuring he would get back to me. This lack of communication left me completely unable to rehearse for the audition, as I had no idea what piece I was supposed to be preparing, and had no time to find — or indeed piece to give — an accompanist. **I felt completely fobbed off**, so eventually I elected not to formally submit my application to the competition, knowing it would only see a repeat of two years ago. 
+I attempted to engage Mr Rosina in conversation after an orchestra rehearsal about the piece I wished to perform. He directed me to email him with my queries so he could reply to them at a later time. I did so, sending an email to his university address on the 4th November. This remained unanswered for a number of days, so I asked next I saw him if he had received the email. He told me to instead send the email to his personal gmail account, which seemed odd. I forwarded my original message to that account on the 8th November. This, too, would remain unanswered, despite my again asking to see if he'd read it and him reassuring he would get back to me. This lack of communication left me completely unable to rehearse for the audition, as I had no idea what piece I was supposed to be preparing, and had no time to find — or indeed, piece to give to — an accompanist. **I felt completely fobbed off**, so eventually I elected not to formally submit my application to the competition, knowing it would only see a repeat of two years ago. 
 
-These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.4 and 5]]. 
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•3]]. 
 
 #### Incident 2 — 28th February 2022
 
@@ -48,7 +48,7 @@ I was upset; this felt not like an isolated incident but yet another example of 
 
 Emotionally and physically traumatised, I went back to my parent's home in Nottingham to seek treatment with the dentist I am registered with there. I communicated that I would necessarily be absent for rehearsals for the next week or so due to the nature of the injury making playing a wind-instrument nigh-impossible. I got some lovely emails from members of the music team wishing me well, but nothing from Mr Rosina who would have been informed by way of Gavin Allsop. The only thing he was concerned with was getting me back to rehearsals as soon as possible and making me organise deps. I heard from friends in the ensemble that **Mr Rosina was planning on replacing me for the upcoming concert**, so attended the rehearsal on Wednesday 9th March against my dentist's advice for fear he would use the opportunity of my absence to oust me from the ensemble entirely. 
 
-These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.4 and 5]]. 
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•4 and •5]]. 
 
 #### Incident 3 — 6th June 2022
 
@@ -70,7 +70,7 @@ The following day I went into the Music Office and had a conversation with Rache
 
 Mr Rosina and I never did have that follow-up conversation. It is my understanding that he was spoken to subsequent to my conversation with Rachel. His attitude and behaviour towards me remained unchanged. 
 
-These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•1, •2, •4, •5 and •6]]. 
 
 #### Incident 4 — 20-25th June 2022
 
@@ -88,7 +88,7 @@ On the **Friday (24th)**, the day of the [Summer Festival Orchestra concert](htt
 
 I sought out Rachel Gibson after this and relayed what had transpired to her. She advised me to avoid contact with Mr Rosina for the rest of the day, especially if I was alone. "If he gets in a lift with you: get out. Just don't engage him". The interaction had left me deeply unwilling to do the concert that evening. Only my desire not to let down my fellow musicians caused me to perform that evening. It is my understanding that Gavin Allsop later spoke to Mr Rosina, specifically highlighting that he had, in fact, been informed about the abscences described in the email, contrary to his claims. Despite this, I **never received an apology** from Mr Rosina for his words, formally or otherwise. 
 
-These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]].
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•1, •2, •4, •5 and •6]].
 
 ## Victimisation
 
