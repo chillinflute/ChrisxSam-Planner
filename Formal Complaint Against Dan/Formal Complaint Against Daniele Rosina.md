@@ -68,6 +68,8 @@ I sought out Rachel Gibson after this and relayed what had transpired to her. Sh
 
 ### The Effects of this Bullying
 
+1. Mr Rosina's behaviour to be has caused me deep emotional distress. In the aftermath of these incidents, and the many others than I cannot recall in enough detail to commit to a formal document, I have even been left shaking and crying. My confidence as a member of a the community, society, and university at large, has been profoundly shaken. I have had depressive episodes in the aftermath of these incidents. I have questioned whether or 
+
 ## Victimisation
 
 
