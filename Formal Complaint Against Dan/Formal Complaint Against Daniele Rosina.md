@@ -92,7 +92,9 @@ These actions can be considered bullying under the [[University of Birmingham bu
 
 ## Victimisation
 
-Drawing to attention the events described in [[#Incident 3 — 6th June 2022]]
+Drawing to attention the events described in [[#Incident 3 — 6th June 2022]], it is worth following the chain of logic in the argument that occurred, as I believe in this incident Mr Rosina was engaging not only in bullying, but also in **harrassment** by means of **victimisation**.
+
+In response to his comments, I pointed out that I felt unfairly singled out, considering the widespread — and much more flagrant — usage of phones throughout the rehearsal. He replied that I had simply been unlucky and that he hadn't noticed anyone else using their phones. I pointed out how strange that was, again, considering how obvious such phone usage was to a reasonable observer over the considerable amount of time it was occurring. He demands to know if I am accusing him of favouritism which, I reiterate, at the time I was not. 
 
 # The Effects of these Grievances
 
