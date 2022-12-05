@@ -26,7 +26,11 @@ Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraph
 
 ## Bullying
 
-#### Incident 1 — 28th February 2022
+#### INcident 1 — 8th November 2021
+
+
+
+#### Incident 2 — 28th February 2022
 
 On the way into rehearsal I had a minor scrape on my bike and grazed my face. In this instance Mr Rosina was perfectly amiable and saw to it that I went to see Gavin to clean the wound and allow me to be ready to play. However, in the break I went up to Mr Rosina to discuss a neccessary absence from an upcoming rehearsal. Despite this being well in advance, he was highly irritable about the request and accused me of **not being committed enough to the ensemble**. During the second half of that rehearsal, I was constantly picked out by Mr Rosina; perceived mistakes or errors that would, in the normal course of a rehearsal, be left to individuals to correct, he stopped the entire ensemble for. Nothing I could do and no manner in which I could play would satisfy him and I felt thoroughly picked out. This treatment for the rest of the rehearsal felt like a direct result of the conversation we had in the break and, against a backdrop of feeling unfairly persecuted by Mr Rosina, the constant picking apart of my playing when there were far greater rehearsal matters to attend to **felt like a targeted act**. 
 
@@ -36,7 +40,7 @@ Emotionally and physically traumatised, I went back to my parent's home in Notti
 
 These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.4 and 5]]. 
 
-#### Incident 2 — 6th June 2022
+#### Incident 3 — 6th June 2022
 
 During a rehearsal on the 6th of June, I had a very short window of time between the end of orchestral rehearsal to then get straight to the CBSO Centre for a rehearsal with the CBSO Chorus, with whom I had a scholarship. Conscious of the time (and knowing the clock in the rehearsal hall was consistently wrong), I discreetly checked my phone for the time. Admittedly, I was in the wrong for having my phone out in a rehearsal here, and if my watch had been charged I'd have simply used that instead. I was immediately singled out by Mr Rosina, and chastised for doing so. Rather than a simple and brief reprimand though, Mr Rosina protracted the interaction, holding up the rehearsal for a significant moment, and pressing the issue like he was expecting a response from me beyond the quick apology I'd already given. 
 
@@ -54,7 +58,7 @@ To add insult to injury: 6th June just so happened to be my birthday. Mr Rosina 
 
 These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
 
-#### Incident 3 — 20-25th June 2022
+#### Incident 4 — 20-25th June 2022
 
 A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the **week beginning 21st June** were scheduled in such a way that clashed with my teaching obligations for the non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal in order to meet this commitment to The Brilliant Club, and indeed to the students I was teaching. 
 
