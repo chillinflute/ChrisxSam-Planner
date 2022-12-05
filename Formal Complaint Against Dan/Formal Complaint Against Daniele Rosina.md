@@ -56,7 +56,9 @@ As I left the hall, **multiple members of the orchestra** came up to me afterwar
 
 To add insult to injury: 6th June just so happened to be my birthday. To my knowledge, Mr Rosina was aware of this throughout the encounter. 
 
-The following day I went into the Music Office and had a conversation with Rachel, accounting the events of the previous day. She was especially taken aback by Mr Rosina's choice to re-engage me once 
+The following day I went into the Music Office and had a conversation with Rachel, accounting the events of the previous day. She was especially taken aback by Mr Rosina's choice to re-engage me once I had asked him to relent and follow the conversation up at another time in private. She advised that I, to the best of my ability, avoid engaging with Mr Rosina, and took notes of the events relayed and our conversation. 
+
+Mr Rosina and I never did have that follow-up conversation. It is my understanding that he was spoken to subsequent 
 
 These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
 
