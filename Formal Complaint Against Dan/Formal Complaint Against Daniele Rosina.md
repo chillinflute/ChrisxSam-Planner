@@ -20,13 +20,17 @@ It is important context for the purposes of this discussion to be aware of two p
 
 Firstly, I am diagnosed with severe migraines, for which I am prescribed Sumatriptan (GP letter available on request). These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress. I could not say for complete certainty if Mr Rosina is aware of this, however I have had migraine episodes in rehearsal previously and indeed had to take my medication for them in order to continue playing. I recall him asking after me during one of these events and my explaining the condition.
 
-Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organisational difficulties, and some motor coordination defficiencies, for which I was allocated a **Reasonable Adjustment Plan** ([[Chris Hill Reasonable Adjustment Plan.pdf|attached]]). I know for certain that Mr Rosina is aware of this, as it was discussed to at a Orchestra Principals' Meeting, where Mr Rosina and I spoke about our differing experiences of the condition. It was at this meeting that I objected to the insinuation that members of the orchestra be harassed into using a pencil to mark down scores during rehearsals, pointing out that people with various neurodivergences can find reading visually. 
+Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organisational difficulties, and some motor coordination defficiencies, for which I was allocated a **Reasonable Adjustment Plan** ([[Chris Hill Reasonable Adjustment Plan.pdf|attached]]). I know for certain that Mr Rosina is aware of this, as it was discussed to at a Orchestra Principals' Meeting, where Mr Rosina and I spoke about our differing experiences of the condition. It was at this meeting that I objected to the insinuation that members of the orchestra be harassed into using a pencil to mark down scores during rehearsals, pointing out that people with various neurodivergences can find reading visually. A cursory glance through the medical literature will show a litany of evidence that there is a direct causal link between stress and anxiety with the severity, frequency, and triggering of migraine attacks. 
 
 # The Grievances
 
 ## Bullying
 
-#### Incident 1 — 28th February 2022
+#### INcident 1 — 8th November 2021
+
+
+
+#### Incident 2 — 28th February 2022
 
 On the way into rehearsal I had a minor scrape on my bike and grazed my face. In this instance Mr Rosina was perfectly amiable and saw to it that I went to see Gavin to clean the wound and allow me to be ready to play. However, in the break I went up to Mr Rosina to discuss a neccessary absence from an upcoming rehearsal. Despite this being well in advance, he was highly irritable about the request and accused me of **not being committed enough to the ensemble**. During the second half of that rehearsal, I was constantly picked out by Mr Rosina; perceived mistakes or errors that would, in the normal course of a rehearsal, be left to individuals to correct, he stopped the entire ensemble for. Nothing I could do and no manner in which I could play would satisfy him and I felt thoroughly picked out. This treatment for the rest of the rehearsal felt like a direct result of the conversation we had in the break and, against a backdrop of feeling unfairly persecuted by Mr Rosina, the constant picking apart of my playing when there were far greater rehearsal matters to attend to **felt like a targeted act**. 
 
@@ -34,7 +38,9 @@ I was upset; this felt not like an isolated incident but yet another example of 
 
 Emotionally and physically traumatised, I went back to my parent's home in Nottingham to seek treatment with the dentist I am registered with there. I communicated that I would neccessarily be absent for rehearsals for the next week or so due to the nature of the injury making playing a wind-instrument nigh-impossible. I got some lovely emails from members of the music team wishing me well, but nothing from Mr Rosina who would have been informed by way of Gavin Allsop. The only thing he was concerned with was getting me back to rehearsals as soon as possible and making me organise deps. I heard from friends in the ensemble that Mr Rosina was planning on replacing me for the upcoming concert, so attended the rehearsal on Wednesday 9th March against my dentist's advice for fear he would use the opportunity of my absence to oust me from the ensemble entirely. 
 
-#### Incident 2 — 6th June 2022
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.4 and 5]]. 
+
+#### Incident 3 — 6th June 2022
 
 During a rehearsal on the 6th of June, I had a very short window of time between the end of orchestral rehearsal to then get straight to the CBSO Centre for a rehearsal with the CBSO Chorus, with whom I had a scholarship. Conscious of the time (and knowing the clock in the rehearsal hall was consistently wrong), I discreetly checked my phone for the time. Admittedly, I was in the wrong for having my phone out in a rehearsal here, and if my watch had been charged I'd have simply used that instead. I was immediately singled out by Mr Rosina, and chastised for doing so. Rather than a simple and brief reprimand though, Mr Rosina protracted the interaction, holding up the rehearsal for a significant moment, and pressing the issue like he was expecting a response from me beyond the quick apology I'd already given. 
 
@@ -50,7 +56,9 @@ As I left the hall, **multiple members of the orchestra** came up to me afterwar
 
 To add insult to injury: 6th June just so happened to be my birthday. Mr Rosina was aware of this throughout the encounter. 
 
-#### Incident 3 — 20-25th June 2022
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
+
+#### Incident 4 — 20-25th June 2022
 
 A late scheduling confirmation for orchestral rehearsals meant that rehearsals for the **week beginning 21st June** were scheduled in such a way that clashed with my teaching obligations for the non-profit organisation [The Brilliant Club](https://thebrilliantclub.org), with whom I was employed as a part-time tutor. I was being paid to teach online lessons to GCSE-year students, and in this instance I was helping prepare students for their GCSE Maths exams. With national exams so imminent, and having to work within a busy school timetable, these lessons could not be moved. I knew I would have to miss a portion of the orchestral rehearsal in order to meet this commitment to The Brilliant Club, and indeed to the students I was teaching. 
 
@@ -66,13 +74,14 @@ On the **Friday (24th)**, the day of the [Summer Festival Orchestra concert](htt
 
 I sought out Rachel Gibson after this and relayed what had transpired to her. She advised me to avoid contact with Mr Rosina for the rest of the day, especially if I was alone. "If he gets in a lift with you: get out. Just don't engage him". The interaction had left me deeply unwilling to do the concert that evening. Only my desire not to let down my fellow musicians caused me to perform that evening. It is my understanding that Gavin Allsop later spoke to Mr Rosina, specifically highlighting that he had, in fact, been informed about the abscences described in the email, contrary to his claims. Despite this, I **never received an apology** from Mr Rosina for his words, formally or otherwise. 
 
-### The Effects of this Bullying
-
-1. Mr Rosina's behaviour to be has caused me deep emotional distress. In the aftermath of these incidents, and the many others than I cannot recall in enough detail to commit to a formal document, I have even been left shaking and crying. My confidence as a member of a the community, society, and university at large, has been profoundly shaken. I have had depressive episodes in the aftermath of these incidents. The enormous commitment I have made to contributing my skills and experience to the music society has felt completely unappreciated, and — as an individual — feel completely unvalued. 
-2. My physical wellbeing has also profoundly been impacted by Mr Rosina's conduct, beyond the indirect contribution of the physicological distress he has caused me to my accident of the 28th and it's lifelong consequences for me. My migraines have been worse when working with Mr Rosina than they have been since I was diagnosed 
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]].
 
 ## Victimisation
 
 
 
-### The Effects of this Victimisation
+## The Effects
+
+1. Mr Rosina's behaviour towards me has caused me **deep emotional distress**. In the aftermath of these incidents, and the many others than I cannot recall in enough detail to commit to a formal document, I have even been left shaking and crying. My confidence as a member of a the community, society, and university at large, has been profoundly shaken. I have had depressive episodes in the aftermath of these incidents. The enormous commitment I have made to contributing my skills and experience to the music society has felt completely unappreciated, and — as an individual — feel completely unvalued. 
+2. My physical wellbeing has also profoundly been impacted by Mr Rosina's conduct, beyond the indirect contribution of the physicological distress he has caused me to my accident of the 28th and it's lifelong consequences for me. My migraines have been worse when working with Mr Rosina than they have been since I was diagnosed, and has notably lessened over the last term where I have avoided contact with Mr Rosina entirely, in direct correlation with my stress levels, both of which can be corroborated by those close to me. 
+3. Mr Rosina's actions have left me feeling like **the society is not a welcoming, or even a safe, place for me to be within**. He has, through his conduct, effectively pushed me out of all the ensembles within which he conducts. He has also effectively barred me from being able to engage with any of the music society opportunities within which he has a non-conducting role. How could I possibly apply to perform at a Performance Platform, for instance, knowing that the person providing me feedback would be Mr Rosina? How could I possibly apply for the soloist competition, despite being an advanced recitalist who could benefit enormously from the professional opportunity to perform a concerto with a full orchestra, knowing that Mr Rosina both adjudicates the applicants, and conducts the ensemble with which you perform? I would only be **setting myself up to fail**. As such I have not engaged with these opportunities that should by all rights be available to me as a student member of the Music Society.
