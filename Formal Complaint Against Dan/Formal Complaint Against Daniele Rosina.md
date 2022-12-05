@@ -56,6 +56,8 @@ As I left the hall, **multiple members of the orchestra** came up to me afterwar
 
 To add insult to injury: 6th June just so happened to be my birthday. Mr Rosina was aware of this throughout the encounter. 
 
+The following day I went into the Music Office and had a conversation with Rachel, accounting the events of the previous day. She was especially taken aback by Mr Rosina's choice to re-engage me once 
+
 These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1.1, 2, 4, 5 and 6]]. 
 
 #### Incident 4 — 20-25th June 2022
