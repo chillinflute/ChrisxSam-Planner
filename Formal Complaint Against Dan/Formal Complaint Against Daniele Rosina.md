@@ -36,7 +36,7 @@ He was clearly holding me to a different standard to other members of the ensemb
 
 Furthermore, whilst the use of phones was particularly endemic in this particular rehearsal, it was not unique to it. I had noted, much to my chargrin, how little certain individuals were paying attention to Mr Rosina because they were on their phones. Within my remit as section principal, I had even had to ask one individual to stop using theirs constantly. I was ignored completely and antagonistically. In the past, I have endured derogatory and offensive comments being made about myself over Snapchat between two members of the woodwind section **during rehearsals** — clearly intended to be made without my knowledge but when people are hiding phones from the conductor by having them on their music stands it is impossible to ignore. 
 
-Frustrated, but otherwise willing to take a slap on the wrist since I acknowledged I was, despite the context, still somewhat in the wrong, I continued with the rehearsal without incident. When it 
+Frustrated, but otherwise willing to take a slap on the wrist since I acknowledged I was, despite the context, still somewhat in the wrong, I continued with the rehearsal without incident. When the rehearsal came to an end I hurried to pack up my things since I had very little time to make it to the CBSO centre. Mr Rosina saw me packing up and **made straight for me**, derisively continuing to comment on the phone issue ("Really Chris?" etc., etc.). Already aggravated, and stressed that he would still be pushing the issue a good 30-60 minutes after it happened and when I was visibly in a hurry, I pointed out to him that I was far from the only one using their phones that rehearsal. 
 
 #### Incident 3 — 20-25th June 2022
 
