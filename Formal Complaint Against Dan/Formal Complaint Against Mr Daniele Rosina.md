@@ -128,12 +128,14 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 ## Appendix 1
 ### Potential statement-givers
-- Mark Mingard
-- Holly Gregory
-- Amira Campbell
-- Mary Armitage
-- Madeleine Glover
-- Rosie O'Callaghan
-- Naomi Benson?
-- Tiegan Smith?
-- Joel Beazley
+- [ ] Mark Mingard
+- [ ] Holly Gregory — is going to ask around and see who else might be interested
+- [ ] Amira Campbell
+- [ ] Mary Armitage — going to write something and send it to me
+- [ ] Madeleine Glover
+- [ ] Rosie O'Callaghan
+- [ ] Naomi Benson?
+- [ ] Tiegan Smith?
+- [ ] Joel Beazley
+- [ ] Cat
+- [ ] James Mizen — has already submitted complaints, might want to submit something anon
