@@ -1,3 +1,7 @@
+---
+tags: University
+---
+
 I am herein making a formal complaint against Mr Daniele Rosina, Director of Orchestral Studies and conductor within the University of Birmingham Music Society, wherein he holds several positions of leadership and authority. This complaint is made on the grounds of **bullying**, and **victimization**, experienced most severely during the previous academic year (2021-2022), especially during interactions as a member of the Philharmonic Orchestra and Summer Festival Orchestra which he conducts, and as described within the University of Birmingham's [[University of Birmingham bullying.pdf|Harassment and Bullying Policy]], which is attached to this complaint. To contextualize my grievances with the conduct of Mr Rosina within the framework of this policy, I will refer to section headings of this document throughout. My primary purpose in the composition of this complaint is as follows:
 1. To create an account of a number of interactions I have had with Mr Rosina whilst a member of the University of Birmingham Music Society, to serve as exemplary interactions highlighting the character of my broader experience with Mr Rosina throughout my time at the University of Birmingham.  
 2. To show that these accounts reveal Mr Rosina's actions to constitute both **bullying** and **victimization** of myself, according to the [[University of Birmingham bullying.pdf|Harassment and Bullying Policy]], supported by specific passages of that document in each instance but broadly looking to show that his actions meet the criteria described in [[University of Birmingham bullying.pdf#page=6|§6.1]] and [[University of Birmingham bullying.pdf#page=7|§8.2]].
@@ -138,4 +142,4 @@ I approve evidence I have provided and attached into this complaint be used in t
 - [ ] Tiegan Smith?
 - [ ] Joel Beazley
 - [ ] Cat
-- [ ] James Mizen — has already submitted complaints, might want to submit something anon
+- [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
