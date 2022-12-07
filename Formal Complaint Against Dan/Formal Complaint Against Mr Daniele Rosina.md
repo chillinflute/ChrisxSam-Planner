@@ -4,11 +4,8 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 3. To show that these interactions were witnessed by other students, in addition to other third parties.
 	1. The latter case demonstrating that Mr Rosina's behaviour stands to threaten the good name of the University of Birmingham.
 4. To reveal that other students have suffered similar behaviour from Mr Rosina.
-<<<<<<< HEAD
 5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is neccessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the music society and the University at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
-=======
 5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is necessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the Music society and the university at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
->>>>>>> origin/main
 
 # Rationale for Formal Complaint as Course of Action
 
@@ -30,7 +27,7 @@ It is important context for the purposes of this discussion to be aware of two p
 
 Firstly, I am diagnosed with severe migraines, for which I have been prescribed Sumatriptan since 2017 (GP letter available on request). These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress. I could not say with complete certainty if Mr Rosina is aware of this, however I have had migraine episodes in rehearsal previously and indeed had to take my medication for them in order to continue playing. I recall him asking after me during one of these events and my explaining the condition. A cursory glance through the medical literature will show a litany of evidence that there is a direct causal link between stress and anxiety with the severity, frequency, and triggering of migraine attacks. 
 
-Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organisational difficulties, and some motor coordination defficiencies, for which I was allocated a **Reasonable Adjustment Plan** ([[Chris Hill Reasonable Adjustment Plan.pdf|attached]]). I know for certain that Mr Rosina is aware of this, as it was discussed to at a Orchestra Principals' Meeting, where Mr Rosina and I spoke about our differing experiences of the condition. It was at this meeting that I objected to the insinuation that members of the orchestra be harassed into using a pencil to mark down scores during rehearsals, pointing out that people with various neurodivergences can find reading visually cluttered scores difficult, and may not want to mark in as much as their neurotypical colleagues. 
+Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organisational difficulties, and some motor coordination defficiencies, for which I was allocated a **Reasonable Adjustment Plan** ([[Chris Hill Reasonable Adjustment Plan.pdf|attached]]). I know for certain that Mr Rosina is aware of this, as it was discussed to at an Orchestra Principals' Meeting, where Mr Rosina and I spoke about our differing experiences of the condition. It was at this meeting that I objected to the insinuation that members of the orchestra be harassed into using a pencil to mark down scores during rehearsals, pointing out that people with various neurodivergences can find reading visually cluttered scores difficult, and may not want to mark in as much as their neurotypical colleagues. 
 
 # The Grievances
 
