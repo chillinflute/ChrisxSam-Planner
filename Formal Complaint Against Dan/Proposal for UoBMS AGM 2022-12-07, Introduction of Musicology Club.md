@@ -7,4 +7,5 @@ The proposal is to, in partnership with an appropriate member/s of committee, es
 
 The establishment of such a group would benefit the interests, and further the stated goals, of the UoBMS in the following ways:
 
-1. 
+1. It would provide a forum for students to informally, collaboratively, and supportively share ideas.
+2. It would provide a locus for the exploration of musicological topics that aren't neccessarily coverred within the normal course of a taught degree at the University
