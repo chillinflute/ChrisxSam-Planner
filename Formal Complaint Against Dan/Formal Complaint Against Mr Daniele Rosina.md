@@ -124,4 +124,16 @@ As such, I reiterate my two primary desired elements of recourse, which are also
 1. For a formal investigation into Mr Rosina's conduct in his capacity as Director of Orchestral studies, and in his various roles within the University of Birmingham Music Society and...
 2. Should such an investigation find Mr Rosina to have acted in an unacceptable manner, that appropriate and swift action be taken against him so that his conduct will not continue to threaten the wellbeing of students and Music Society members.
 
-I approve evidence I have provided and attached into this complaint be used in the course of any such investigation. Evidence and testimony supplied to me by third parties will necessarily require their renewed consent to be used in such a manner. 
+I approve evidence I have provided and attached into this complaint be used in the course of any such investigation. Evidence and testimony supplied to me by third parties will necessarily require their renewed consent to be used in such a manner.
+
+## Appendix 1
+### Potential statement-givers
+- Mark Mingard
+- Holly Gregory
+- Amira Campbell
+- Mary Armitage
+- Madeleine Glover
+- Rosie 
+- Naomi Benson?
+- Tiegan Smith?
+- Joel Beazley
