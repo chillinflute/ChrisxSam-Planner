@@ -132,7 +132,7 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 ## Appendix 1
 ### Potential statement-givers
-- [ ] Mark Mingard
+- [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
 - [ ] Holly Gregory — is going to ask around and see who else might be interested
 - [ ] Amira Campbell
 - [ ] Mary Armitage — going to write something and send it to me
@@ -141,5 +141,5 @@ I approve evidence I have provided and attached into this complaint be used in t
 - [ ] Naomi Benson?
 - [ ] Tiegan Smith?
 - [ ] Joel Beazley
-- [ ] Cat
+- [ ] Cat Burne
 - [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
