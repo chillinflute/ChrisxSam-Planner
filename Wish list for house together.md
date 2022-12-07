@@ -23,4 +23,4 @@
 - clarinet upgrade
 
 # ...like... if we win the lottery?
-- mansion
+- mansion/castle
