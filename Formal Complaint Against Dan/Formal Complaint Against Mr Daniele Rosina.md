@@ -4,7 +4,11 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 3. To show that these interactions were witnessed by other students, in addition to other third parties.
 	1. The latter case demonstrating that Mr Rosina's behaviour stands to threaten the good name of the University of Birmingham.
 4. To reveal that other students have suffered similar behaviour from Mr Rosina.
+<<<<<<< HEAD
 5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is neccessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the music society and the University at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
+=======
+5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is necessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the Music society and the university at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
+>>>>>>> origin/main
 
 # Rationale for Formal Complaint as Course of Action
 
