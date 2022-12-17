@@ -125,7 +125,7 @@ I hope that through the course of this document I have:
 
 As such, I reiterate my two primary desired elements of recourse, which are also expressed in the [[Concern Review Form.docx|Concern Review Form]] to which this complaint is attached:
 
-1. For a formal investigation into Mr Rosina's conduct in his capacity as Director of Orchestral studies, and in his various roles within the University of Birmingham Music Society and...
+1. For a formal investigation into Mr Rosina's conduct in his capacity as Director of Orchestral Studies, and in his various roles within the University of Birmingham Music Society and...
 2. Should such an investigation find Mr Rosina to have acted in an unacceptable manner, that appropriate and swift action be taken against him so that his conduct will not continue to threaten the wellbeing of students and Music Society members.
 
 I approve evidence I have provided and attached into this complaint be used in the course of any such investigation. Evidence and testimony supplied to me by third parties will necessarily require their renewed consent to be used in such a manner.
@@ -152,3 +152,4 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 *These repeated events left him absolutely dreading the concert that evening; not because he wasn't confident with the musical material, but because even just the sight of Daniele was upsetting to him at this point, a reminder of the way he had been treated, and for fear he would be picked on again. As the accomplished concert flautist Chris was (and still is), it is such a shame that this performance will be forever tainted in his mind, despite the superb job he did with his playing of quite a challenging piece [Prok 5].* 
 
+Chris was very conflicted at the beginning of this academic year as to whether he should re-audition for orchestra: while he is, in my belief, far-and-away the best and most qualified candidate for principal flautist at the university, last years' experience was more than enough to put him off the idea. Even though 
