@@ -142,4 +142,4 @@ I approve evidence I have provided and attached into this complaint be used in t
 - [ ] Cat Burne
 - [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
 
-*Having been a close friend of Chris's throughout several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them. Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to sa*
+*Having been a close friend of Chris's throughout several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them, heightened after a few specific rehearsals. Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to greet him before he had to dash to the CBSO Centre for another one: I was quite concerned when he appeared 20 or so minutes after the rehearsal should have finished, and in quite an emotional state. 
