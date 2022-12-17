@@ -134,12 +134,12 @@ I approve evidence I have provided and attached into this complaint be used in t
 ### Potential statement-givers
 - [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
 - [ ] Holly Gregory — is going to ask around and see who else might be interested
-- [ ] Amira Campbell
+- [ ] Amira Campbell - is going to write something
 - [ ] Mary Armitage — going to write something and send it to me
 - [ ] Madeleine Glover
 - [ ] Rosie O'Callaghan
-- [ ] Naomi Benson?
-- [ ] Tiegan Smith?
 - [ ] Joel Beazley
 - [ ] Cat Burne
 - [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
+
+*Having been a close friend of Chris's throughout several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them. Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to sa*
