@@ -146,9 +146,9 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 *Since then, Chris has spoken to me about missing being in an orchestra and how not being involved has been very disappointing for him, but simultaneously, I can see how much healthier of mind he has been. He has been in a much better headspace to focus on his PhD, which he had barely been able to engage with towards the end of last year, and his migraines have been much less severe and more treatable without resorting to his prescription medication. Orchestras are meant to be fun, collaborative spaces, especially as part of a student society, but this was clearly not the atmosphere that Chris experienced last year with Daniele as the conductor. The way Chris was treated time and time again by Daniele is unacceptable, and I can only hope he will face some repercussions for his actions.*
 
-## Appendix 2 — Miscellaneous
+## Appendix __ — Miscellaneous
 
-A further individual would like to give testimony but is very busy after time of writing. They will submit their statement after the Christmas ber
+A further individual would like to give testimony but is very busy as of time of writing. They will submit their statement after the Christmas break.
 
 # Potential statement-givers
 - [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
