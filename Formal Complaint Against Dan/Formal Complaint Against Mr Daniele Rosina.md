@@ -154,6 +154,12 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 *I think an apology and a conversation is well overdue. I understood a situation in which Chris is an older student in his section, so is alienated rather than alienating. He is a fantastic flautist and a great contribution to the sound our orchestra makes. I also spend much time with professional orchestras due to my roles in arts organisation and orchestral management, and I am assured that the most hostile bigots still find jobs in the real world! Making these sorts of assertions are not productive. University orchestra is not striving to be like a youth copy of a real world orchestra, we are trying to be a high standard fun space for music making. We are not the CBSO YO or a conservatoire orchestra.*
 
+
+
+## Appendix __ — Anonymous __
+
+*I was a violinist in symphony orchestra and summer festival orchestra last academic year. The incident in question was during a rehearsal coming up to the SFO concert. Chris had an authorised absence (via Gavin) to leave rehearsal early for a teaching commitment, and upon trying to leave Dan said “Chris where are you going, we need you for another 10 minutes” and when Chris explained how he had permission to leave early for a teaching job, Dan asked him again to stay and Chris replied “if i don’t leave now, i will be late and risk losing my job” and Dan replied something like “Oh, off you go then”, to me this sounded like Dan was in a huff and this seemed an unfair and unprofessional attitude given the circumstances. In addition, throughout other rehearsals, I felt that Dan seemed to single out Chris for more criticism compared to other wind and brass players.*
+
 ## Appendix __ — Miscellaneous
 
 A further individual would like to give testimony but is very busy as of time of writing. They will submit their statement after the Christmas break.
