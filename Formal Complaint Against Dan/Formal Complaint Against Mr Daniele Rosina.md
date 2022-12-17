@@ -130,19 +130,9 @@ As such, I reiterate my two primary desired elements of recourse, which are also
 
 I approve evidence I have provided and attached into this complaint be used in the course of any such investigation. Evidence and testimony supplied to me by third parties will necessarily require their renewed consent to be used in such a manner.
 
-## Appendix 1
-### Potential statement-givers
-- [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
-- [ ] Holly Gregory — is going to ask around and see who else might be interested
-- [ ] Amira Campbell - is going to write something
-- [ ] Mary Armitage — going to write something and send it to me
-- [ ] Madeleine Glover
-- [ ] Rosie O'Callaghan
-- [ ] Joel Beazley
-- [ ] Cat Burne
-- [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
+## Appendix 1 — Anonymous A
 
-*Having been a close friend of Chris's throughout several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them, heightened hugely following a few specific rehearsals with Daniele Rosina.* 
+*Being a close friend of Chris's and having bore witness to the aftermaths of several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them, heightened hugely following a few specific rehearsals with Daniele Rosina.* 
 
 *Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to greet him before he had to dash to the CBSO Centre for another one: I was quite concerned when he appeared 20 or so minutes after the rehearsal should have finished, and in quite an emotional state. Chris was so upset that it took at least a further 10 minutes for myself and \[a few ensemble members\] to calm him down and assure him that Daniele had acted wrongly towards him. Especially following some of the nasty treatment from his peers in the woodwind section, the whole ordeal really bothered him afterwards, not to mention affected his attendance to a CBSO Chorus rehearsal, required for his bursary with them.*
 
@@ -154,4 +144,19 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 *Chris was very conflicted at the beginning of this academic year as to whether he should re-audition for orchestra: while he is, in my belief, far-and-away the best and most qualified candidate for principal flautist at the university, last year's experience was more than enough to put him off the idea. Even though the University Music Office kindly offered for Daniele not to have any input on flute auditions, the sheer prospect of having rehearsals with him and having to endure the same kind of hostile treatment again was massively offputting. This was something we discussed at length, before Chris ultimately decided that he just couldn't face a repeat of last year. 
 
-*Since then, Chris has spoken to me about missing being in an orchestra and how not being involved has been very disappointing for him, but simultaneously, I can see how much healthier of mind he has been. He has been in a much better headspace to focus on his PhD, which he had barely been able to engage with towards the end of last year, and his migraines have been much less severe and more treatable without his prescription medication. Orchestras are meant to be fun, collaborative spaces, especially as part of a student society but this was clearly not the atmosphere that Chris experienced last year with Daniele as the conductor. The way Chris was treated time and time again by Daniele is unacceptable, and I can only hope he will face some repercussions for his actions.*
+*Since then, Chris has spoken to me about missing being in an orchestra and how not being involved has been very disappointing for him, but simultaneously, I can see how much healthier of mind he has been. He has been in a much better headspace to focus on his PhD, which he had barely been able to engage with towards the end of last year, and his migraines have been much less severe and more treatable without resorting to his prescription medication. Orchestras are meant to be fun, collaborative spaces, especially as part of a student society, but this was clearly not the atmosphere that Chris experienced last year with Daniele as the conductor. The way Chris was treated time and time again by Daniele is unacceptable, and I can only hope he will face some repercussions for his actions.*
+
+## Appendix 2 — Miscellaneous
+
+A further individual would like to give testimony but is very busy after time of writing. They will submit their statement after the Christmas ber
+
+# Potential statement-givers
+- [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
+- [ ] Holly Gregory — is going to ask around and see who else might be interested
+- [ ] Amira Campbell - is going to write something
+- [ ] Mary Armitage — going to write something and send it to me
+- [ ] Madeleine Glover
+- [ ] Rosie O'Callaghan
+- [ ] Joel Beazley
+- [ ] Cat Burne
+- [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
