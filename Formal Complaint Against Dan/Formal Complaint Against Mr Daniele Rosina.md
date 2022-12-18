@@ -156,7 +156,7 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 ## Appendix  3 — Anonymous B
 
->I was a violinist in symphony orchestra and summer festival orchestra last academic year. The incident in question was during a rehearsal coming up to the SFO concert. Chris had an authorised absence (via Gavin) to leave rehearsal early for a teaching commitment, and upon trying to leave Dan said “Chris where are you going, we need you for another 10 minutes” and when Chris explained how he had permission to leave early for a teaching job, Dan asked him again to stay and Chris replied “if i don’t leave now, i will be late and risk losing my job” and Dan replied something like “Oh, off you go then”, to me this sounded like Dan was in a huff and this seemed an unfair and unprofessional attitude given the circumstances. In addition, throughout other rehearsals, I felt that Dan seemed to single out Chris for more criticism compared to other wind and brass players.
+>I was a violinist in symphony orchestra and summer festival orchestra last academic year. The incident in question was during a rehearsal coming up to the SFO concert. Chris had an authorised absence (via Gavin) to leave rehearsal early for a teaching commitment, and upon trying to leave Dan said “Chris where are you going, we need you for another 10 minutes” and when Chris explained how he had permission to leave early for a teaching job, Dan asked him again to stay and Chris replied “if I don’t leave now, I will be late and risk losing my job” and Dan replied something like “Oh, off you go then”, to me this sounded like Dan was in a huff and this seemed an unfair and unprofessional attitude given the circumstances. In addition, throughout other rehearsals, I felt that Dan seemed to single out Chris for more criticism compared to other wind and brass players.
 
 ## Appendix 4 — Anonymous C
 
@@ -174,5 +174,5 @@ A further individual would like to give testimony but is very busy as of time of
 - [ ] Madeleine Glover
 - [ ] Rosie O'Callaghan
 - [ ] Joel Beazley
-- [ ] ~Cat Burne~
+- [ ] Cat Burne
 - [x] James Mizen — has already submitted complaints, might want to submit something anonymously
