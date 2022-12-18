@@ -134,7 +134,7 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 >Being a close friend of Chris's and having bore witness to the aftermaths of several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them, heightened hugely following a few specific rehearsals with Daniele Rosina.
 >
->Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to greet him before he had to dash to the CBSO Centre for another one: I was quite concerned when he appeared 20 or so minutes after the rehearsal should have finished, and in quite an emotional state. Chris was so upset that it took at least a further 10 minutes for myself and \[a few ensemble members\] to calm him down and assure him that Daniele had acted wrongly towards him. Especially following some of the nasty treatment from his peers in the woodwind section, the whole ordeal really bothered him afterwards, not to mention affected his attendance to a CBSO Chorus rehearsal, required for his bursary with them.
+>Specifically on his birthday, 6th June, I was waiting for his orchestra rehearsal to end to greet him before he had to dash to the CBSO Centre for another one: I was quite concerned when he appeared 20 or so minutes after the rehearsal should have finished, and in quite an emotional state. Chris was so upset that it took at least a further 10 minutes for myself and a few ensemble members to calm him down and assure him that Daniele had acted wrongly towards him. Especially following some of the nasty treatment from his peers in the woodwind section, the whole ordeal really bothered him afterwards, not to mention affected his attendance to a CBSO Chorus rehearsal, required for his bursary with them.
 >
 >Leading up to the Philharmonic orchestra concert, Chris discussed with me how stressed he was to go to every rehearsal, how he felt like he was treading on eggshells and was hyper-conscious of his actions around Daniele. When the rehearsal schedule for the lead-up to the concert was released late, Chris had already made teaching commitments - I still remember his extreme panic when he realised this, and made every effort to discuss the issue with the University Music office and amend the situation as much as he could. 
 >
@@ -154,25 +154,25 @@ I approve evidence I have provided and attached into this complaint be used in t
 >
 >I think an apology and a conversation is well overdue. I understood a situation in which Chris is an older student in his section, so is alienated rather than alienating. He is a fantastic flautist and a great contribution to the sound our orchestra makes. I also spend much time with professional orchestras due to my roles in arts organisation and orchestral management, and I am assured that the most hostile bigots still find jobs in the real world! Making these sorts of assertions are not productive. University orchestra is not striving to be like a youth copy of a real world orchestra, we are trying to be a high standard fun space for music making. We are not the CBSO YO or a conservatoire orchestra.
 
-## Appendix __ — Anonymous B
+## Appendix  3 — Anonymous B
 
 >I was a violinist in symphony orchestra and summer festival orchestra last academic year. The incident in question was during a rehearsal coming up to the SFO concert. Chris had an authorised absence (via Gavin) to leave rehearsal early for a teaching commitment, and upon trying to leave Dan said “Chris where are you going, we need you for another 10 minutes” and when Chris explained how he had permission to leave early for a teaching job, Dan asked him again to stay and Chris replied “if i don’t leave now, i will be late and risk losing my job” and Dan replied something like “Oh, off you go then”, to me this sounded like Dan was in a huff and this seemed an unfair and unprofessional attitude given the circumstances. In addition, throughout other rehearsals, I felt that Dan seemed to single out Chris for more criticism compared to other wind and brass players.
 
-## Appendix __ — Anonymous C
+## Appendix 4 — Anonymous C
 
 >Having previously taken part in the university’s orchestras, I decided not to audition this year.  The orchestras are not collaborative spaces, and the culture of favouritism has made rehearsals unpleasant for many members.  It is a shame to have such an unpleasant atmosphere surrounding something so many of us love, which prevents students participating.
 
-## Appendix __ — Miscellaneous
+## Appendix 5 — Miscellaneous
 
 A further individual would like to give testimony but is very busy as of time of writing. They will submit their statement after the Christmas break.
 
 # Potential statement-givers
 - [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
 - [ ] Holly Gregory — is going to ask around and see who else might be interested
-- [ ] Amira Campbell - is going to write something
-- [ ] Mary Armitage — going to write something and send it to me
+- [x] Amira Campbell - is going to write something
+- [x] Mary Armitage — going to write something and send it to me
 - [ ] Madeleine Glover
 - [ ] Rosie O'Callaghan
 - [ ] Joel Beazley
-- [ ] Cat Burne
-- [ ] James Mizen — has already submitted complaints, might want to submit something anonymously
+- [ ] ~Cat Burne~
+- [x] James Mizen — has already submitted complaints, might want to submit something anonymously
