@@ -130,6 +130,8 @@ As such, I reiterate my two primary desired elements of recourse, which are also
 
 I approve evidence I have provided and attached into this complaint be used in the course of any such investigation. 
 
+<div style="page-break-after: always;"></div>
+
 ## Appendix 1 — Anonymous A
 
 >Being a close friend of Chris's and having bore witness to the aftermaths of several of the events of last year, I can attest to the fact that, particularly in June 2022, his stress levels were the highest I've ever seen them, heightened hugely following a few specific rehearsals with Daniele Rosina.
@@ -146,6 +148,8 @@ I approve evidence I have provided and attached into this complaint be used in t
 >
 >Since then, Chris has spoken to me about missing being in an orchestra and how not being involved has been very disappointing for him, but simultaneously, I can see how much healthier of mind he has been. He has been in a much better headspace to focus on his PhD, which he had barely been able to engage with towards the end of last year, and his migraines have been much less severe and more treatable without resorting to his prescription medication. Orchestras are meant to be fun, collaborative spaces, especially as part of a student society, but this was clearly not the atmosphere that Chris experienced last year with Daniele as the conductor. The way Chris was treated time and time again by Daniele is unacceptable, and I can only hope he will face some repercussions for his actions.
 
+<div style="page-break-after: always;"></div>
+
 ## Appendix 2 — Amira Campbell
 
 >After a conflict that took place between Daniele and Chris during a rehearsal last academic year, Daniele’s response was not exemplary. The argument between the two had clearly shaken up Chris quite a bit emotionally, and so I went to check up on him, as soon as I was comfortable I could leave I returned to rehearsal – notably a little late from the break – and continued the rehearsal. Once the rehearsal had finished, and everyone was packing up, I went up to Daniele to reassure him that Chris was okay, and that I believed that he would likely come back next rehearsal, everything all good. Daniele appeared to have little interest in this information, simply stating that Chris “alienates his section” and if he continues with his attitude he would never progress as a flautist in the real world. I would note that there was another person present during this conversation, who adamantly agreed with Daniele much to my frustration. Naturally, I then walked away from that conversation.
@@ -154,13 +158,19 @@ I approve evidence I have provided and attached into this complaint be used in t
 >
 >I think an apology and a conversation is well overdue. I understood a situation in which Chris is an older student in his section, so is alienated rather than alienating. He is a fantastic flautist and a great contribution to the sound our orchestra makes. I also spend much time with professional orchestras due to my roles in arts organisation and orchestral management, and I am assured that the most hostile bigots still find jobs in the real world! Making these sorts of assertions are not productive. University orchestra is not striving to be like a youth copy of a real world orchestra, we are trying to be a high standard fun space for music making. We are not the CBSO YO or a conservatoire orchestra.
 
+<div style="page-break-after: always;"></div>
+
 ## Appendix  3 — Anonymous B
 
 >I was a violinist in symphony orchestra and summer festival orchestra last academic year. The incident in question was during a rehearsal coming up to the SFO concert. Chris had an authorised absence (via Gavin) to leave rehearsal early for a teaching commitment, and upon trying to leave Dan said “Chris where are you going, we need you for another 10 minutes” and when Chris explained how he had permission to leave early for a teaching job, Dan asked him again to stay and Chris replied “if I don’t leave now, I will be late and risk losing my job” and Dan replied something like “Oh, off you go then”, to me this sounded like Dan was in a huff and this seemed an unfair and unprofessional attitude given the circumstances. In addition, throughout other rehearsals, I felt that Dan seemed to single out Chris for more criticism compared to other wind and brass players.
 
+<div style="page-break-after: always;"></div>
+
 ## Appendix 4 — Anonymous C
 
 >Having previously taken part in the university’s orchestras, I decided not to audition this year.  The orchestras are not collaborative spaces, and the culture of favouritism has made rehearsals unpleasant for many members.  It is a shame to have such an unpleasant atmosphere surrounding something so many of us love, which prevents students participating.
+
+<div style="page-break-after: always;"></div>
 
 ## Appendix 5 — Miscellaneous
 
