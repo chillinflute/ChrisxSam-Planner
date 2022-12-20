@@ -166,7 +166,7 @@ I approve evidence I have provided and attached into this complaint be used in t
 
 A further individual would like to give testimony but is very busy as of time of writing. They will submit their statement after the Christmas break.
 
-# Potential statement-givers
+%%# Potential statement-givers
 - [ ] Mark Mingard - is going to submit his own complaint and contribute a statement to mine
 - [ ] Holly Gregory — is going to ask around and see who else might be interested
 - [x] Amira Campbell - is going to write something
@@ -175,4 +175,4 @@ A further individual would like to give testimony but is very busy as of time of
 - [ ] Rosie O'Callaghan
 - [ ] Joel Beazley
 - [ ] Cat Burne
-- [x] James Mizen — has already submitted complaints, might want to submit something anonymously
+- [x] James Mizen — has already submitted complaints, might want to submit something anonymously%%
