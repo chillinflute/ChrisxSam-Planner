@@ -10,6 +10,8 @@ I am herein making a formal complaint against Mr Daniele Rosina, Director of Orc
 4. To reveal that other students have suffered similar behaviour from Mr Rosina.
 5. Ergo, to argue that a thorough and comprehensive investigation into the behaviour of Mr Rosina is necessary and, should my testimony prove to be accurate, swift and appropriate action taken to safeguard the members of the Music Society and the university at large, as well as the good name of the University of Birmingham as an internationally respected institution. 
 
+<div style="page-break-after: auto;"></div>
+
 # Rationale for Formal Complaint as Course of Action
 
 As described in [[University of Birmingham bullying.pdf#page=9|§11.2]], in the first instance of being subject to the grievances described [[Formal Complaint Against Mr Daniele Rosina#The Grievances|below]] I attempted to seek informal routes of resolution. As per [[University of Birmingham bullying.pdf#page=9|§11.3]], I consulted with members of the Music Office, including Gavin Allsop, Rachael Gibson, and Jo Sweet. My primary point of contact at the time was Rachael Gibson, who is no longer an employee of the University. In conversations with her, and in accordance with [[University of Birmingham bullying.pdf#page=9|§11.3]], I described the events that had taken place, often within an hour of them occurring. These accounts were recorded on pen and paper and kept, to the best of my knowledge, according to [[University of Birmingham bullying.pdf#page=9|§11.3]]. I was advised to make a formal complaint should I see fit. 
@@ -24,6 +26,8 @@ It is notable that there has been a significant gap of time between my last prob
 
 Given the profound effect that these grievances have had on my personal wellbeing and professional opportunities as a postgraduate member of the University, I am following the guidance according to [[University of Birmingham bullying.pdf#page=12|§13.4]] and submitting the **Concern Review form** [[Concern Review Form.docx|attached]].
 
+<div style="page-break-after: auto;"></div>
+
 # Important Background Information
 
 It is important context for the purposes of this discussion to be aware of two pieces of personal background information about myself. Both of these pieces of information are on University systems, as I included them in my application and registration processes.
@@ -31,6 +35,8 @@ It is important context for the purposes of this discussion to be aware of two p
 Firstly, I am diagnosed with severe migraines, for which I have been prescribed Sumatriptan since 2017 (GP letter available on request). I could not say with complete certainty if Mr Rosina is aware of this, however I have had migraine episodes in rehearsal previously and indeed had to take my medication for them in order to continue playing. I recall him asking after me during one of these events and my explaining the condition. These migraines are debilitating and whilst they can occur indiscriminately, they are often brought-on or aggravated by excessive stress. A cursory glance through the medical literature will show a litany of evidence that there is a direct causal link between stress and anxiety with the severity, frequency, and triggering of migraine attacks, which I refer to throughout the document.
 
 Secondly, I am dyspraxic/dyslexic, manifesting primarily through severe dysgraphia, organizational difficulties, and some motor coordination deficiencies, for which I was allocated a **Reasonable Adjustment Plan** ([[Chris Hill Reasonable Adjustment Plan.pdf|attached]]). I know for certain that Mr Rosina is aware of this, as it was discussed at an Orchestra Principals' Meeting, where Mr Rosina and I spoke about our differing experiences of the condition. It was at this meeting that I objected to the insinuation that members of the orchestra be harassed into using a pencil to mark down scores during rehearsals, pointing out that people with various neurodivergences can find reading visually cluttered scores difficult, and may not want to mark in as much as their neurotypical colleagues. 
+
+<div style="page-break-after: auto;"></div>
 
 # The Grievances
 
@@ -104,6 +110,8 @@ Clearly, in Mr Rosina's mind, I was accusing him of such favouritism. Of course,
 
 It is clear that such behaviour is congruent to the description of **victimization** as described in [[University of Birmingham bullying.pdf#page=7|§8.1]]. I will remind the reader that **victimization** in this manner is unlawful under harassment and discrimination legislature, as highlighted in [[University of Birmingham bullying.pdf#page=8|§8.3]].
 
+<div style="page-break-after: auto;"></div>
+
 # The Effects of these Grievances
 
 1. Mr Rosina's behaviour towards me has caused me **deep emotional distress**. In the aftermath of these incidents, and the many others that I cannot recall in enough detail to commit to a formal document, I have even been left shaking and crying. My confidence as a member of the community, Society, and university at large, has been profoundly shaken. I have experienced periods of depression in the direct aftermath of these incidents. The enormous commitment I have made to contributing my skills and experience to the Music Society has felt completely unappreciated, and — as an individual — feel completely unvalued. I feel, as a result of my experiences in rehearsals with Mr Rosina, uninspired to be part of an orchestra again, and jaded about the workplace environment of such ensembles. 
@@ -113,6 +121,8 @@ It is clear that such behaviour is congruent to the description of **victimizati
 ## Regarding The Music Society at Large
 
 I feel it important to note that, despite all that has been said above, my experience with the Music Society that hasn't involved interacting with Mr Rosina has been overwhelmingly positive. I have had some fabulous opportunities with the non-auditioned ensembles, including performing my own arrangements of music and conducting the ensembles of Saxophone Choir and Wind Band. I have also made some wonderful friends who I cherish. I also have no grievance whatsoever with any of the rest of the Music Team, past and present. Gavin Allsop, Rachael Gibson, and Jo Sweet have all been extremely helpful and considerate in their support of me when these situations have arisen. Rachael in particular was incredibly supportive and helpful throughout. I have no issue with anybody in the Music team except for Mr Rosina and nothing written here should in any way be taken to the detriment of anyone except Mr Rosina who has acted, to the best of my knowledge, completely alone in these matters. 
+
+<div style="page-break-after: auto;"></div>
 
 # Conclusions and Recourse
 
