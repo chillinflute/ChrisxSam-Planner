@@ -11,7 +11,8 @@
 [[@GilliamBryan1991RSE_]]
 
 ### POINT 2
-
+- modernist female artists - composers
+	- Elizabeth Gyring
 
 ### POINT 3
 - reception
