@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"7737f9b81483d39a","x":-775,"y":112,"width":400,"height":400,"type":"group","label":"Point 2 — "},
 		{"id":"0f99f388c91bb7d3","x":-775,"y":617,"width":400,"height":400,"type":"group","label":"Point 3 —"},
-		{"id":"b9c819cef0b5aa8d","x":-613,"y":-973,"width":1767,"height":978,"type":"group","label":"Point 1 — Female Protagonists in Wiener Moderne Opera"},
-		{"id":"d6e17308b1e0656f","x":-110,"y":-435,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Reading Notes/@GilliamBryan1991RSE_.md"},
-		{"id":"6d7d908aa8f379d6","x":-145,"y":-884,"width":400,"height":400,"color":"1","type":"group","label":"Case Studies"}
+		{"id":"b9c819cef0b5aa8d","x":-613,"y":-973,"width":1767,"height":1031,"type":"group","label":"Point 1 — Female Protagonists in Wiener Moderne Opera"},
+		{"id":"6d7d908aa8f379d6","x":-575,"y":-874,"width":693,"height":879,"color":"1","type":"group","label":"Case Studies"},
+		{"id":"d6e17308b1e0656f","x":250,"y":-452,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Reading Notes/@GilliamBryan1991RSE_.md"}
 	],
 	"edges":[]
 }
