@@ -16,11 +16,12 @@
 	- Wii
 	- PS2
 	- PS5
+- Fancy coffee setup
 
 # Long Term Attainable
 - Bari sax
-- fancy coffee setup
 - clarinet upgrade
+- Fireplace
 
 # ...like... if we win the lottery?
 - mansion/castle

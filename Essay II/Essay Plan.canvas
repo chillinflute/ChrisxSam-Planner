@@ -9,5 +9,8 @@
 		{"id":"0f99f388c91bb7d3","x":-613,"y":969,"width":400,"height":400,"type":"group","label":"Point 3 — Reception"},
 		{"id":"7737f9b81483d39a","x":-613,"y":335,"width":400,"height":400,"type":"group","label":"Point 2 — "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"028fe5e57dfe0648","fromNode":"7737f9b81483d39a","fromSide":"left","toNode":"0f99f388c91bb7d3","toSide":"left"},
+		{"id":"68749865decc821f","fromNode":"b9c819cef0b5aa8d","fromSide":"left","toNode":"0f99f388c91bb7d3","toSide":"left"}
+	]
 }
