@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"id":"dc4f1e2db0b943f9","x":-525,"y":-452,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Case Studies/Salomé.md"},
+		{"id":"3f08809a6a494621","x":-525,"y":-852,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Case Studies/Elektra.md"},
 		{"id":"7737f9b81483d39a","x":-775,"y":112,"width":400,"height":400,"type":"group","label":"Point 2 — "},
 		{"id":"0f99f388c91bb7d3","x":-775,"y":617,"width":400,"height":400,"type":"group","label":"Point 3 —"},
 		{"id":"b9c819cef0b5aa8d","x":-613,"y":-973,"width":1767,"height":1031,"type":"group","label":"Point 1 — Female Protagonists in Wiener Moderne Opera"},
