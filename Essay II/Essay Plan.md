@@ -6,7 +6,8 @@
 - trend of female protagonists in Wiener Moderne opera
 
 ### POINT 2
-- *Lulu* + *Elektra* - femme fatale characters
+- *Elektra* + *Salome*
+[[@GilliamBryan1991RSE_]]
 
 ### POINT 3
 
