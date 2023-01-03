@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"dc4f1e2db0b943f9","x":-525,"y":-452,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Case Studies/Salomé.md"},
 		{"id":"3f08809a6a494621","x":-525,"y":-852,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Case Studies/Elektra.md"},
-		{"id":"7737f9b81483d39a","x":-775,"y":112,"width":400,"height":400,"type":"group","label":"Point 2 — "},
-		{"id":"0f99f388c91bb7d3","x":-775,"y":617,"width":400,"height":400,"type":"group","label":"Point 3 —"},
 		{"id":"b9c819cef0b5aa8d","x":-613,"y":-973,"width":1767,"height":1031,"type":"group","label":"Point 1 — Female Protagonists in Wiener Moderne Opera"},
 		{"id":"6d7d908aa8f379d6","x":-575,"y":-874,"width":693,"height":879,"color":"1","type":"group","label":"Case Studies"},
 		{"id":"d6e17308b1e0656f","x":250,"y":-452,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Reading Notes/@GilliamBryan1991RSE_.md"},
-		{"id":"e722a5987ba50bf1","x":250,"y":-852,"width":592,"height":344,"type":"text","text":"# Key Points\n- Titling the work after its female protagonist\n- Female characters knowingly using their sexuality in order to manipulate the men around them\n\t- Far from a new concept, certain ancient plays play into this ised (what's that one Greek one?) but, was a rarer idea in opera\n- The implication of incestuous, forbidden sexuality \n\t- In Salomé, Herodias acknowledges the reprehensible nature of this sexuality, and yet chooses to allow it to happen anyway in order to further her aims\n- Female Characters as political actors\n- The prevalence of these female characters dying as a result of their actions"}
+		{"id":"e722a5987ba50bf1","x":250,"y":-852,"width":592,"height":344,"type":"text","text":"# Key Points\n- Titling the work after its female protagonist\n- Female characters knowingly using their sexuality in order to manipulate the men around them\n\t- Far from a new concept, certain ancient plays play into this ised (what's that one Greek one?) but, was a rarer idea in opera\n- The implication of incestuous, forbidden sexuality \n\t- In Salomé, Herodias acknowledges the reprehensible nature of this sexuality, and yet chooses to allow it to happen anyway in order to further her aims\n- Female Characters as political actors\n- The prevalence of these female characters dying as a result of their actions"},
+		{"id":"dc4f1e2db0b943f9","x":-525,"y":-425,"width":400,"height":400,"type":"file","file":"Shared/Essay II/Case Studies/Salomé.md"},
+		{"id":"0f99f388c91bb7d3","x":-613,"y":969,"width":400,"height":400,"type":"group","label":"Point 3 — Reception"},
+		{"id":"7737f9b81483d39a","x":-613,"y":335,"width":400,"height":400,"type":"group","label":"Point 2 — "}
 	],
 	"edges":[]
 }
