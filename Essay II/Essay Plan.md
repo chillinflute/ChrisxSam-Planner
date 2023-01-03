@@ -4,7 +4,9 @@
 
 ### POINT 1  
 - trend of female protagonists in Wiener Moderne opera
-- *Elektra* + *Salome*
+- *Elektra* + *Salome*, Strauss
+	- difference in portrayal - Salome is inherently sexual and sexualised in the oepra
+	- Elektra, despite the source material
 - *Lulu*
 [[@GilliamBryan1991RSE_]]
 
