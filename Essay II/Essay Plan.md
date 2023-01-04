@@ -8,7 +8,6 @@
 	- difference in portrayal - Salome is inherently sexual and sexualised in the oepra
 	- Elektra, despite the source material
 - *Lulu*
-[[@GilliamBryan1991RSE_]]
 
 ### POINT 2
 - modernist female artists - composers
