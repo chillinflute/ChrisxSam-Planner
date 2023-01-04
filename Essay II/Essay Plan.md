@@ -1,5 +1,4 @@
 ## Q2. How, and with what results, did musicians associated with the Wiener Moderne challenge prevailing views of gender?
-
 ### INTRO
 - As one of the most narrative-based forms of musical genre exemplifying modernist features, this essay will focus almost exclusively on opera
 
@@ -15,7 +14,8 @@
 ### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS
 - modernist female artists - composers
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]]
-- 
+	- 
+- modernist female artists - performers?
 
 ### POINT 3 - THE RECEPTION OF THESE OPERAS
 - reception
