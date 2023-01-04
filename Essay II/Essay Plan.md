@@ -10,11 +10,12 @@
 	- Elektra, despite the source material, is much less so - while there is still some element of femme fetale to her character, she is much less sexualised and the themes of the opera are much more focused on vengeance.
 - *Lulu*
 	- shocking deaths, etc
-	- 
+	- protagonist, everyone's deaths are as a reaction to Lulu
 
 ### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS
 - modernist female artists - composers
-	- Elizabeth Gyring
+	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]]
+- 
 
 ### POINT 3 - THE RECEPTION OF THESE OPERAS
 - reception
