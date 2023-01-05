@@ -19,7 +19,8 @@
 - *Lulu*
 
 ### POINT 3 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
-Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring|( , 2022)]] 
+
+Despite the prolific compositional output of Elizabeth Gyring (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are currently little-known and not well distributed or documented, even now [[@GuideElizabethGyring|(Washington State University Libraries, 2022)]]. There is little to no record that her works were performed or 
 
 My next example is the composer Alma Mahler-Werfel. She was able to publish some works with the support of her husband, Gustav Mahler, towards the end of their marriage, but for much of their relationship her compositional and artistic output was restricted [[@HilmesOliver2015Mm_t|(Hilmes, 2015)]]. An interesting case, due to her relationship with Mahler, which seems to be her only feature of interest among many music scholars, yet a harsh judgement seems to have been cast upon her within the academic community. Many of the articles and materials today published on the subject of Alma regard her as unfaithful, vain, academically unreliable - these conclusions all drawn from her diaries, first-hand accounts of her, etc. Most frustratingly, many of these sources I consulted in the course of this research feel interwoven with misogyny. 
 
