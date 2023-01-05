@@ -23,8 +23,8 @@
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
 	- Alma Mahler-Werfel 
 		- Some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. 
-		- An interesting case, due to her relationship with Mahler, which seems to be her only feature of interest among many music scholars, yet also a harsh judgement seems to have been cast upon her within the academic community.
-		- 
+		- An interesting case, due to her relationship with Mahler, which seems to be her only feature of interest among many music scholars, yet a harsh judgement seems to have been cast upon her within the academic community.
+		- Many of the articles and materials published on the subject of Alma regard her as 
 		- Her works have seen a revival since her time in Vienna among her increased popularity in the United States, where she moved before World War II. 
 	- Johannes Müller-Hermann - large compositional and pedagogical contributions to Viennese musical culture in the early 20th century through her position as a tutor at the New Vienna Conservatory, yet these have been mostly forgotten, this generally attributed to the Nazi ideologies in Europe that followed [[@BBCRadioBreakfast]]. Despite the fact her work, 'Sonata for Cello and Pianoforte', was showcased in the 1920s, the only reception among records was scathingly critical of her work, dismissing it purely because of her sex [[@10.2307_914127]].
 - modernist female artists - performers?
