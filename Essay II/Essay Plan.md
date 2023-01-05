@@ -14,7 +14,7 @@
 ### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 - modernist female artists - composers
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
-	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. An interesting case, due to the revival of her works in recents years and her increased popularity in the United States, where she moved before World War II.
+	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. An interesting case, due to . Her works have seen a revival in recents years among her increased popularity in the United States, where she moved before World War II. 
 	- Johannes Müller-Hermann - large compositional and pedagogical contributions to Viennese musical culture in the early 20th century through her position as a tutor at the New Vienna Conservatory, yet these have been mostly forgotten, this generally attributed to the Nazi ideologies in Europe that followed [[@BBCRadioBreakfast]]. Despite the fact her work, 'Sonata for Cello and Pianoforte', was showcased in the 1920s, the only reception among records was scathingly critical of her work, dismissing it purely because of her sex [[@10.2307_914127]].
 - modernist female artists - performers?
 
