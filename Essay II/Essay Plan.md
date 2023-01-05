@@ -11,10 +11,10 @@
 	- shocking deaths, etc
 	- protagonist, everyone's deaths are as a reaction to Lulu
 
-### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS
+### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 - modernist female artists - composers
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
-	- Alma Mahler-Werfel - some published works through husband, Mahler, but for most of their marriage her compositional and artistic output was restricted. 
+	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. 
 	- Johannes Müller-Hermann
 - modernist female artists - performers?
 
