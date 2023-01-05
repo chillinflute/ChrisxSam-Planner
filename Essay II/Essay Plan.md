@@ -15,7 +15,7 @@
 - modernist female artists - composers
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
 	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. 
-	- Johannes Müller-Hermann - 
+	- Johannes Müller-Hermann - large compositional and pedagogical contributions to Viennese musical culture in the early 20th ce
 - modernist female artists - performers?
 
 ### POINT 3 - THE RECEPTION OF THESE OPERAS
