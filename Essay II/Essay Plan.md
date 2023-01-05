@@ -11,19 +11,23 @@
 	- shocking deaths, etc
 	- protagonist, everyone's deaths are as a reaction to Lulu
 
-### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
-- modernist female artists - composers
-	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
-	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. An interesting case, due to her relationship with Mahler, which seems to be her only feature of interest of interest among many music scholars, yet also a harsh judgement seems to have been cast upon her within the academic community. Her works have seen a revival since her time in Vienna among her increased popularity in the United States, where she moved before World War II. 
-	- Johannes Müller-Hermann - large compositional and pedagogical contributions to Viennese musical culture in the early 20th century through her position as a tutor at the New Vienna Conservatory, yet these have been mostly forgotten, this generally attributed to the Nazi ideologies in Europe that followed [[@BBCRadioBreakfast]]. Despite the fact her work, 'Sonata for Cello and Pianoforte', was showcased in the 1920s, the only reception among records was scathingly critical of her work, dismissing it purely because of her sex [[@10.2307_914127]].
-- modernist female artists - performers?
-
-### POINT 3 - THE RECEPTION OF THESE OPERAS
+### POINT 2 - THE RECEPTION OF THESE OPERAS
 - *Salome* 
 	- went down well with the public
 	- critics were kinda horrified tbh, because of the themes 
 - *Elektra*
 - *Lulu*
+
+### POINT 3 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
+- modernist female artists - composers
+	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
+	- Alma Mahler-Werfel 
+		- Some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. 
+		- An interesting case, due to her relationship with Mahler, which seems to be her only feature of interest among many music scholars, yet also a harsh judgement seems to have been cast upon her within the academic community.
+		- 
+		- Her works have seen a revival since her time in Vienna among her increased popularity in the United States, where she moved before World War II. 
+	- Johannes Müller-Hermann - large compositional and pedagogical contributions to Viennese musical culture in the early 20th century through her position as a tutor at the New Vienna Conservatory, yet these have been mostly forgotten, this generally attributed to the Nazi ideologies in Europe that followed [[@BBCRadioBreakfast]]. Despite the fact her work, 'Sonata for Cello and Pianoforte', was showcased in the 1920s, the only reception among records was scathingly critical of her work, dismissing it purely because of her sex [[@10.2307_914127]].
+- modernist female artists - performers?
 
 ### CONCLUSION
 - the idea of shock factor ( 'épater la bourgeoisie' - modernist desire to shock but please with his materials) influencing a lot of these challenging views - these musicians were not necessarily 'progressive' for their time so much as looking to produce the most shocking and unexpected events for their audiences, as was a trend in music and fine arts at the time
