@@ -15,11 +15,12 @@
 - modernist female artists - composers
 	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]] 
 	- Alma Mahler-Werfel - some published works through husband Mahler, but for most of their marriage her compositional and artistic output was restricted. 
-	- Johannes Müller-Hermann
+	- Johannes Müller-Hermann - 
 - modernist female artists - performers?
 
 ### POINT 3 - THE RECEPTION OF THESE OPERAS
-- reception 
+- reception - went down well with the public
+- critics were kinda horrified tbh
 
 ### CONCLUSION
 - the idea of shock factor ( 'épater la bourgeoisie' - modernist desire to shock but please with his materials) influencing a lot of these challenging views - these musicians were not necessarily 'progressive' for their time so much as looking to produce the most shocking and unexpected events for their audiences, as was a trend in music and fine arts at the time
