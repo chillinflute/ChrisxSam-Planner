@@ -13,7 +13,7 @@
 
 ### POINT 2 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS
 - modernist female artists - composers
-	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]]
+	- Elizabeth Gyring - despite prolific compositional output (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are little-known and not well distributed or documented, even now [[@GuideElizabethGyring]]. Interestingly, a phenomenon we don't tend to see among male composers
 	- 
 - modernist female artists - performers?
 
