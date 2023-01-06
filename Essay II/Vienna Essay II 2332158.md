@@ -3,13 +3,16 @@
 - As one of the most narrative-based forms of musical genre exemplifying modernist features, this essay will focus almost exclusively on opera
 
 ### POINT 1 - PORTRAYAL OF FEMALE CHARACTERS
-- trend of female protagonists in Wiener Moderne opera
+Most notably, there was a trend of female protagonists in Wiener Moderne opera at the beginning of the twentieth century; 
+
 - *Elektra* + *Salome*, Strauss
 	- difference in portrayal - Salome is inherently sexual and sexualised in the opera. Themes centre around seduction and manipulation via these means.
 	- Elektra, despite the source material, is much less so - while there is still some element of femme fetale to her character, she is much less sexualised and the themes of the opera are much more related to vengeance.
 - *Lulu*
 	- shocking deaths, etc
 	- protagonist, everyone's deaths are as a reaction to Lulu
+
+
 
 ### POINT 2 - THE RECEPTION OF THESE OPERAS
 - *Salome* 
