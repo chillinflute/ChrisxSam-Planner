@@ -5,7 +5,7 @@ In order to assess the way in which musicians challenged views relating to gende
 - the manner in which both male and female characters were portrayed
 - how this was received by audiences, i.e. both the critical reception and the reaction of the general public
 
-As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera; programme music, and other forms that have potential to portray gendered characters, tend to be more abstract, the nature of which makes it more difficult to calculate 
+As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera; programme music, and other forms that have potential to portray gendered characters, tend to be more abstract. The difficulty with this is that it becomes more difficult to measure both the composer's intentions 
 
 
 
