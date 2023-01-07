@@ -28,7 +28,7 @@ Most notably, there was a trend of female protagonists in Wiener Moderne opera, 
 - *Elektra*
 - *Lulu*
 
-Astoundingly, *Salome* 
+Astoundingly, *Salome* was a roaring success with its first audiences 
 
 ### POINT 3 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 
