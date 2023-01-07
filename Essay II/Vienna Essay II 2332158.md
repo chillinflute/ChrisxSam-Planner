@@ -2,9 +2,10 @@
 ### INTRO
 In order to assess the way in which musicians challenged views relating to gender in the Wiener Moderne, it seems that the following must be established:
 - what the "prevailing views of gender" were, at this time
-- how both male and female characters were portrayed in 
+- the manner in which both male and female characters were portrayed
+- how this was received by audiences, i.e. both the critical reception and the reaction of the general public
 
-As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera.
+As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera; programme music, and other forms that have potential to portray gendered characters, tend to be more abstract, the nature of which makes it more difficult to calculate 
 
 
 
