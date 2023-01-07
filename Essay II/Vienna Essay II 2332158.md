@@ -5,7 +5,7 @@ In order to assess the way in which musicians challenged views relating to gende
 - the manner in which both male and female characters were portrayed
 - how this was received by audiences, i.e. both the critical reception and the reaction of the general public
 
-As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera; programme music, and other forms that have potential to portray gendered characters, tend to be more abstract. The difficulty with this is that it becomes more difficult to measure both the composer's intentions 
+As one of the most narrative-based forms of musical genre exemplifying modernist features, when considering musical examples, this essay will focus almost exclusively on opera; programme music, and other forms that have potential to portray gendered characters, tend to be more abstract. The difficulty with this is that it becomes more obscure to measure both the composer's intentions, the success with which these are portrayed, as well as the audience's internalisation of these ideas.
 
 
 
@@ -27,6 +27,8 @@ Most notably, there was a trend of female protagonists in Wiener Moderne opera, 
 	- critics were kinda horrified tbh, because of the themes 
 - *Elektra*
 - *Lulu*
+
+Astoundingly, *Salome* 
 
 ### POINT 3 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 
