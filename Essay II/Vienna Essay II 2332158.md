@@ -3,7 +3,7 @@
 - As one of the most narrative-based forms of musical genre exemplifying modernist features, this essay will focus almost exclusively on opera
 
 ### POINT 1 - PORTRAYAL OF FEMALE CHARACTERS
-Most notably, there was a trend of female protagonists in Wiener Moderne opera, beginning in the early twentieth century; the first example to discuss being *Salome*, by Richard Strauss [[@lachmannSalome|(1905)]]. The movement of modernism in music, particularly opera, was only just coming into its own, and so the themes Strauss was portraying through his music 
+Most notably, there was a trend of female protagonists in Wiener Moderne opera, beginning in the early twentieth century; the first example to discuss being *Salome*, by Richard Strauss [[@lachmannSalome|(1905)]]. The movement of modernism in music, particularly opera, was only just coming into its own, and so the themes Strauss was portraying through his music were initially very controversial - *Salome* was 
 
 - *Elektra* + *Salome*, Strauss
 	- difference in portrayal - Salome is inherently sexual and sexualised in the opera. Themes centre around seduction and manipulation via these means.
