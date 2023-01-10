@@ -10,7 +10,7 @@ A direct comparison of the presentation of women in opera to some of the female 
 ### POINT 1 - PORTRAYAL OF FEMALE CHARACTERS
 Most notably, there was a trend of female protagonists in Wiener Moderne opera, beginning in the early twentieth century; the first example to discuss being *Salome*, by Richard Strauss [[@lachmannSalome|(1905)]]. The movement of modernism in music, particularly opera, was only just coming into its own, and so the themes Strauss was portraying through his music were initially very controversial - *Salome* was, in its first instance, rejected by the Viennese Court Opera [[@rossRestNoiseListening2008|(Ross 2008)]]; the Austrian premiere of the opera instead relegated to Graz. This was for good reason: *Salome* is now regarded as a massive musical turning point in Western classical history, due to its extremes of bitonality, dissonant harmony, disjunct melody-writing and, more critically, its subject matter. Discussing biblical figures, thrusting sins such as shockingly violent suicide, incest, and necrophilia upon them, was naturally something the State Opera considered blasphemous, as they were so out-of-line with the views held by the upper class, in particular those relating to women. Female characters had never held such power in opera until this moment, rendering many of their male cast powerless.
 
-One can see this in *Salome* through the eponymous character of Salome. As the protagonist, she is seen to 
+One can see this in *Salome* through the eponymous character of Salome. As the protagonist, 
 
 - *Elektra* + *Salome*, Strauss
 	- difference in portrayal - Salome is inherently sexual and sexualised in the opera. Themes centre around seduction and manipulation via these means.
