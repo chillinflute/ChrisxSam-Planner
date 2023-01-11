@@ -14,7 +14,7 @@ One can see this in *Salome* through the eponymous character of Salome herself. 
 The character archetype of Salome could nowadays be defined as *'femme fatale'*: 
 > an attractive and seductive woman, _esp._ one who is likely to cause risk to or the downfall of anyone who becomes involved with her [[@dictionaryFemmeFatale|(Oxford English Dictionary n.d.)]]
 
-All these qualities are apparent in Salome
+All these qualities are apparent in Salome, and were quite contrary to what was expected of a woman at the time of 
 
 Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRestNoiseListening2008|(Ross 2008)]]. Despite all its controversialism and what an immense change it was from the other operas performed at the time, *Salome*'s premiere in Germany led to an influx of other performances all over Europe. However, due to how far it strayed from the popular ideas of Western Classical tradition at the time, this being late Romanticism, the critical reception of the opera was furiously disapproving [citation needed]. 
 
