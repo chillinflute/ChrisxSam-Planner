@@ -24,7 +24,7 @@ The reception of *Elektra* was similarly divided in the way of *Salome* - Straus
 
 ### HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 
-It is important to examine the success of women from this era - 
+It is important to examine the success of women from this era - considering the ways in which Strauss's heroines rejected the role as women that was expected of them and how audiences responded to this, 
 
 Despite the prolific compositional output of Elizabeth Gyring (including a full-length opera and countless other works for a plethora of ensembles and soloists), her works are currently little-known and not well-distributed or -documented, even now [[@GuideElizabethGyring|(Washington State University Libraries 2022)]]. There is little to no record that her works were performed at the time of writing and her name has been lost to time, showing the utter lack of recognition attributed to female modernist composers at the time of *Salome*, *Elektra* and *Lulu*, despite the subject matter putting women at the forefront.
 
