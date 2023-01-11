@@ -43,6 +43,6 @@ Curiously, the way Mahler-Werfel has been characterised by scholars and the medi
 ### CONCLUSION
 
 
-Another factor to consider is how the idea of shock factor played into modernist composers' creative decision-making. As previously referred to under the phrase 'épater la bourgeoisie', this was a fairly common practice un the modernist
+Another factor to consider is how the idea of shock factor played into modernist composers' creative decision-making. As previously referred to under the phrase 'épater la bourgeoisie', this was a fairly common practice during the modernist movement. Based on this, one can ascertain that these musicians were not necessarily 'progressive' for their time so much as looking to produce the most shocking and unexpected events for their audiences.
 
 'épater la bourgeoisie' - modernist desire to shock but please with his materials influencing a lot of these challenging views - these musicians were not necessarily 'progressive' for their time so much as looking to produce the most shocking and unexpected events for their audiences, as was a trend in music and fine arts at the time
