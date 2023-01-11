@@ -36,4 +36,4 @@
 ### Task list
 - Find citation for *Salome* critical reception being poor
 - Find information to construct *Elektra* citation
-- 
+- Research into which retelling of *Elektra* Strauss and Hofmannsthal based the libretto on

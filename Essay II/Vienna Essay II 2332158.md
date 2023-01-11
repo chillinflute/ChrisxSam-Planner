@@ -7,11 +7,13 @@ As one of the most narrative-based musical genres exemplifying modernist feature
 Ideas on gender in Vienna during the *fin-de-siècle* were certainly complex; in the political context of both a right-wing mayor at the time, Karl Lüger, and the aftermath of Otto Weininger's famous treatise *Geschlecht und Charakter* [[@chandlerRitualSacrificeWomen2010|(Chandler 2010)]], women were definitely still not thought of as capable of having careers in the same way as of men. It was in fact these frequent attacks on women's rights that led to the formation of activist groups, as it seemed that the state of these rights were regressing as opposed to progressing. The battle for and against equality was fierce on both sides - which made for a very charged political climate in which to present 'controversial' artwork.
 A direct comparison of the presentation of women in opera to some of the female artists that are known of from the time will be made in the course of this essay; contrasting these new ideas about gender roles and sex-related predisposition with the reality of the lives of women, in particular, composers, is essential to quantifying the differences.
 
-### POINT 1 - PORTRAYAL OF FEMALE CHARACTERS & OPERA RECEPTION
+### PORTRAYAL OF FEMALE CHARACTERS & OPERA RECEPTION
 Most notably, there was a trend of female protagonists in Wiener Moderne opera, beginning in the early twentieth century; the first example to discuss being *Salome*, by Richard Strauss [[@lachmannSalome|(1905)]]. The movement of modernism in music, particularly opera, was only just coming into its own, and so the themes Strauss was portraying through his music were initially very controversial - *Salome* was, in its first instance, rejected by the Viennese Court Opera [[@rossRestNoiseListening2008|(Ross 2008)]]; the Austrian premiere of the opera instead relegated to Graz. This was for good reason: *Salome* is now regarded as a massive musical turning point in Western classical history, due to its extremes of bitonality, dissonant harmony, disjunct melody-writing and, most critically, its subject matter. Discussing biblical figures, thrusting shocking sins such as violent suicide, incest, and necrophilia upon them, was naturally something the State Opera considered blasphemous, as they were so out-of-line with the views held by the upper class, in particular those relating to women. Female characters had never held such power in opera until this moment, rendering many of their male cast powerless.
 
 One can see this in *Salome* through the eponymous character of Salome herself. As the protagonist, the world of the opera is naturally built and structured around her, in some cases to a ridiculous point - one example of this being the guard who desires her at the beginning of the play, but dramatically kills himself at the sight of Salome expressing romantic feelings for Jochanaan. Suicide is not a new theme to opera [[@stackOPERASUBCULTURESUICIDE2002|(Stack 2002)]], but the treatment of it in *Salome* strays outrageously from the norm. The guard's death is sudden, unexpected and explicit, illustrating the concept of 'épater la bourgeoisie' that became relatively common among modernists [(Attfield 2022)]. This is not even to mention that this is a male character, acting so strongly in response to a female character, a new phenomenon for opera.
-The character archetype of Salome could now be defined as *'femme fatale'*;
+The character archetype of Salome could now be defined as *'femme fatale'*: 
+
+an attractive and seductive woman, _esp._ one who is likely to cause risk to or the downfall of anyone who becomes involved with her [[@dictionaryFemmeFatale]]
 
 Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRestNoiseListening2008|(Ross 2008)]]. Despite all its controversialism and what an immense change it was from the other operas performed at the time, *Salome*'s premiere in Germany led to an influx of other performances all over Europe. However, due to how far it strayed from the popular ideas of Western Classical tradition at the time, this being late Romanticism, the critical reception of the opera was furiously disapproving [citation needed].
 
@@ -24,13 +26,13 @@ Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRe
 
 
 
-### POINT 2 - THE RECEPTION OF THESE OPERAS
+### THE RECEPTION OF THESE OPERAS
 
 - *Elektra*
 	- divided reception between traditionalists and modernists [[@GilliamBryan1991RSE_]]
 - *Lulu*
 
-### POINT 3 - HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
+### HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 
 It is important to examine the success of women from this era - 
 
