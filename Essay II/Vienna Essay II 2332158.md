@@ -35,6 +35,6 @@ Curiously, the way Mahler-Werfel has been characterised by scholars and the medi
 
 ### CONCLUSION
 
-Considering the phenomenal audience response to *Salome* for example, it is fair to say that modernists such as Strauss were successful with their challenging views of gender
+Considering the phenomenal audience response to *Salome* for example, it is fair to say that modernists such as Strauss were successful with their challenging views of gender - whether audiences directly approved of the juxtaposition of women's portrayal to their real-life rights, they did not oppose these operas purely for their protagonist women.
 
 Another factor to consider is how the idea of shock factor played into modernist composers' creative decision-making. As previously referred to under the phrase 'épater la bourgeoisie', this was a fairly common practice during the modernist movement. Based on this, one can ascertain that these musicians were not necessarily 'progressive' for their time or even in holding of these beliefs, so much as looking to produce the most shocking and unexpected events for their audiences.
