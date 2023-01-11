@@ -13,7 +13,7 @@ Most notably, there was a trend of female protagonists in Wiener Moderne opera, 
 One can see this in *Salome* through the eponymous character of Salome herself. As the protagonist, the world of the opera is naturally built and structured around her, in some cases to a ridiculous point - one example of this being the guard who desires her at the beginning of the play, but dramatically kills himself at the sight of Salome expressing romantic feelings for Jochanaan. Suicide is not a new theme to opera [[@stackOPERASUBCULTURESUICIDE2002|(Stack 2002)]], but the treatment of it in *Salome* strays outrageously from the norm. The guard's death is sudden, unexpected and explicit, illustrating the concept of 'épater la bourgeoisie' that became relatively common among modernists [(Attfield 2022)]. This is not even to mention that this is a male character, acting so strongly in response to a female character, a new phenomenon for opera.
 The character archetype of Salome could now be defined as *'femme fatale'*;
 
-Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRestNoiseListening2008|(Ross 2008)]]. Despite all its controversialism and what an immense change it was from the other operas performed at the time, *Salome*'s premiere in Germany led to an influx of other performances all over Europe. 
+Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRestNoiseListening2008|(Ross 2008)]]. Despite all its controversialism and what an immense change it was from the other operas performed at the time, *Salome*'s premiere in Germany led to an influx of other performances all over Europe. However, due to how far it strayed from the popular ideas of Western Classical tradition at the time, this being late Romanticism, the critical reception of the opera was furiously disapproving [citation needed].
 
 
 *Elektra* [citation needed] was written several years after *Salome*, but is another example of Strauss's modernists operas portraying women in an unusual light. Despite the source material of *Elektra* implying a sexual relationship between Elektra and her father [[@aeschylusOresteia|(Aeschylus ca. 500 BCE)]], interestingly, Strauss writes the opera in exclusion of this detail. Perhaps the logic was that he wished not to create a character so rich in power due to her sexuality and seductive power in the same way he had in Salome, so as not to exhibit all of the same themes, despite the remaining commonalities between the characters. Perhaps it was simply that the particular retelling he and Hofmannsthal chose to base the libretto on also excluded this [research needed to establish which retelling this was based on]. Fundamentally though, this leads to some core differences between the characters of Salome and Elektra: though both operas are named for their (anti)-heroines and present them as powerful figures, both characters also die at the end of the opera as retribution for their actions; while Elektra is potrayed as powerful, this is not for her ability to weaponise her sexuality, as in the case of Salome, but her sheer will for vengeance.
@@ -25,9 +25,7 @@ Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRe
 
 
 ### POINT 2 - THE RECEPTION OF THESE OPERAS
-- *Salome* 
-	- went down well with the public [[@rossRestNoiseListening2008]]
-	- critics were kinda horrified tbh, because of the themes 
+
 - *Elektra*
 	- divided reception between traditionalists and modernists [[@GilliamBryan1991RSE_]]
 - *Lulu*
