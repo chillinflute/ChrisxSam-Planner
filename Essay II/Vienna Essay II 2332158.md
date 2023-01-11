@@ -21,11 +21,7 @@ Astonishingly, *Salome* was a roaring success with its first audiences [[@rossRe
 
 *Elektra* [citation needed] was written several years after *Salome*, but is another example of Strauss's modernists operas portraying women in an unusual light. Despite the source material of *Elektra* implying a sexual relationship between Elektra and her father [[@aeschylusOresteia|(Aeschylus ca. 500 BCE)]], interestingly, Strauss writes the opera in exclusion of this detail. Perhaps the logic was that he wished not to create a character so rich in power due to her sexuality and seductive power in the same way he had in Salome, so as not to exhibit all of the same themes, despite the remaining commonalities between the characters. Perhaps it was simply that the particular retelling he and Hofmannsthal chose to base the libretto on also excluded this [research needed to establish which retelling this was based on]. Fundamentally though, this leads to some core differences between the characters of Salome and Elektra: though both operas are named for their (anti)-heroines and present them as powerful figures, both characters also die at the end of the opera as retribution for their actions; while Elektra is potrayed as powerful, this is not for her ability to weaponise her sexuality, as in the case of Salome, but her sheer will for vengeance.
 
-### THE RECEPTION OF THESE OPERAS
-
-- *Elektra*
-	- divided reception between traditionalists and modernists [[@GilliamBryan1991RSE_]]
-- *Lulu*
+The reception of *Elektra* was similarly divided in the way of *Salome* - Strauss had pushed compositional features such as atonality and harmony choice even further into modernist technique than he had with *Salome*, meaning  audience reception was mo
 
 ### HOW THIS CONTRASTED TO THE SUCCESS OF FEMALE ARTISTS AT THE TIME
 
