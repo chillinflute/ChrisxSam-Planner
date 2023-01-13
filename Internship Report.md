@@ -18,7 +18,7 @@ I definitely gained some solid administrative experience and skills during this 
 
 The teamwork required was also very beneficial; attending company meetings, scribing for them, contributing data, and hearing the inner workings behind such a project was an experience I, to my surprise, quite enjoyed! I think that with a group of people that I felt more comfortable with I could have contributed more, but I believe I still handled these meetings adequately. 
 
-I also gained some leadership skills while working with the group of volunteers
+I also gained some leadership skills while working with the group of volunteers during the festival
 
 ## Is there anything you wish you could have done differently, if so why?
 There were times where I was uncertain what I was being asked to do - I wish I had had the confidence in the workplace to ask for clarification on what exactly the task was, as sometimes it left me in a state of anxiety as to whether I was doing the thing I was being asked to do. It would have allowed me to complete the task more successfully and devote more of my mental energy to the task itself. 
