@@ -41,3 +41,4 @@
 - [ ] Research into performance history of *Elektra* - when was it first performed in Austria, did it premiere in Vienna?
 - [ ] Research into performance of *Salome* in Vienna in 1918 - audience reaction?
 - [ ] Check through essay and see where citations are needed
+
