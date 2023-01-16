@@ -8,7 +8,7 @@
 	- Big desks for us both
 	- Bookshelves
 	- Chair for Sam like the one we has already
-- PS3 games (hunt ebay)
+- PS3 games (hunt ebay)/Cex
 
 # Medium Term Attainable
 - Games consoles
