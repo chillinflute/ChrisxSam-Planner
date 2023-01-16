@@ -34,10 +34,10 @@
 - the idea of shock factor ( 'épater la bourgeoisie' - modernist desire to shock but please with his materials) influencing a lot of these challenging views - these musicians were not necessarily 'progressive' for their time so much as looking to produce the most shocking and unexpected events for their audiences, as was a trend in music and fine arts at the time
 
 ### Task list
-- Find citation for *Salome* critical reception being poor
-- Find information for *Elektra* citation 
-- Find information for *Rigoletto* citation
-- Research into which retelling of *Elektra* Strauss and Hofmannsthal based the libretto on
-- Research into performance history of *Elektra* - when was it first performed in Austria, did it premiere in Vienna?
-- Research into performance of *Salome* in Vienna in 1918 - audience reaction?
-- Check through essay and see where citations are needed
+- [x] Find citation for *Salome* critical reception being poor
+- [ ] Find information for *Elektra* citation 
+- [ ] Find information for *Rigoletto* citation
+- [ ] Research into which retelling of *Elektra* Strauss and Hofmannsthal based the libretto on
+- [ ] Research into performance history of *Elektra* - when was it first performed in Austria, did it premiere in Vienna?
+- [ ] Research into performance of *Salome* in Vienna in 1918 - audience reaction?
+- [ ] Check through essay and see where citations are needed
