@@ -1,3 +1,4 @@
+
 ```leaflet
 id: flats-map
 lat: 52.4508
