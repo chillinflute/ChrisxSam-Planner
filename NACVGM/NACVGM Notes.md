@@ -10,7 +10,9 @@
 | Into the Dragon's Lair: A Sonic Tapestry of Medievalism, Gender, and Sexuality | Dana Plank            | 16:30–17:00 | ★★★            |
 | TRON's Trans Identities                                                        | James Deaville        | 19:45–20:15 | ★              |
 | [[Abstract and Realistic Representations of Voices in Video Games]]            | Elizabeth Medine-Gray | 20:15–45    | ★★★            |
-| NACVGM Concert                                                                 |                       |             |                |
+| **Saturday**                                                                   |                       |             |                |
+| NACVGM Concert                                                                 |                       | 00:30-01:30 | ★              |
+|                                                                                |                       |             |                |
 
 ## Full Programme
 
