@@ -18,7 +18,8 @@
 | Ear Candy — A theory of Sonic Addiction in Gacha Sound Design                                                       | Thomas B. Yee                     | 15:45–16:00 | ★★             |
 | "I Know That One!": Teaching Meter and Hypermeter Using Video Game Music                                            | Chandler Blount & Jordan Lenchitz | 16:00–15    | ★★★            |
 | Rhythm Games and the Theory Classroom                                                                               | Clair Nguyen                      | 16:15–30    | ★★             |
-| What Makes Trombome Champ So Funny? Ironic Juxtaposition of the Continuous with the Discrete                        | Jeremy W. Smith                   | 16:30            |                |
+| What Makes Trombome Champ So Funny? Ironic Juxtaposition of the Continuous with the Discrete                        | Jeremy W. Smith                   | 16:30–45    | ★★             |
+| Providing Historically-Informed Music for a 16th-Century                                                                                                                     |                                   |             |                |
 
 ## Full Programme
 
