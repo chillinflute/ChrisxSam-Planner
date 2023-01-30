@@ -39,7 +39,7 @@
 
 ### JSMG Guest Editor
 
-Currently co-editing an edition of the *Journal of Sound and Music in Games* on the music of Supergiant Games' *Hades* alongside Stephanie Lind, Demetrius Shahmehri, and Silvia Mantilla-Wright. [Call for papers](https://www.sssmg.org/wp/2022/11/08/call-for-proposals-hades-special-issue-for-jsmg/) has just elapsed and we are now in the process of processing abstracts. Future responsibilities will involved liasing with peer-reviewers as well as editing to the Journal's house style.  
+Currently co-editing an edition of the *Journal of Sound and Music in Games* on the music of Supergiant Games' *Hades* alongside Stephanie Lind, Demetrius Shahmehri, and Silvia Mantilla-Wright. The [call for papers](https://www.sssmg.org/wp/2022/11/08/call-for-proposals-hades-special-issue-for-jsmg/) has just elapsed and we are now in the process of processing abstracts. Future responsibilities will involved liasing with peer-reviewers as well as editing to the Journal's house style.  
 
 ### Freelance copy-editor
 
