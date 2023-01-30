@@ -47,4 +47,6 @@ Working freelance through online services including UpWork and Paperound since 2
 
 ### University of Birmingham Academic Writing Advisory Service
 
-As an Academic Writing Advisor for UoB's AWAS service, I reviewed undergraduate and postgraduate written pieces and provided feedback to help students improve their writing, focussing on helping them optimise their writing style for concision and clarity of argument, as well as checking for common language and grammar erro
+As an Academic Writing Advisor for UoB's AWAS service, I reviewed undergraduate and postgraduate written pieces and provided feedback to help students improve their writing, focussing on helping them optimise their writing style for concision and clarity of argument, as well as checking for common language and grammar errors. Whilst I was designated as AWAS's music specialist, I frequently worked with students from other disciplines including those on law and sciences degrees.
+
+Whilst working with AWAS I wrote material on best-practice methods of writing musical analyses in word-processors, which can be more limiting than marking up a score by hand. This included a guide on utilising $\TeX{}$ and its derivatives, especially $\MathJax{}$  
