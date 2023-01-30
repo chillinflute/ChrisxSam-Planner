@@ -39,6 +39,12 @@
 
 ### JSMG Guest Editor
 
-Currently co-editing an edition of the *Journal of Sound and Music in Games* on the music of Supergiant Games' *Hades* alongside Stephanie Lind, Demetrius Shahmehri, and Silvia Mantilla-Wright. [Call for papers](https://www.sssmg.org/wp/2022/11/08/call-for-proposals-hades-special-issue-for-jsmg/) has just elapsed an. 
+Currently co-editing an edition of the *Journal of Sound and Music in Games* on the music of Supergiant Games' *Hades* alongside Stephanie Lind, Demetrius Shahmehri, and Silvia Mantilla-Wright. [Call for papers](https://www.sssmg.org/wp/2022/11/08/call-for-proposals-hades-special-issue-for-jsmg/) has just elapsed and we are now in the process of processing abstracts. Future responsibilities will involved liasing with peer-reviewers as well as editing to the Journal's house style.  
 
-### 
+### Freelance copy-editor
+
+Working freelance through online services including UpWork and Paperound since 2019, I've had experience editting and proof-reading a wide range of work including journalistic pieces and academic whitepapers, in a range of subjects from the arts to STEM.
+
+### University of Birmingham Academic Writing Advisory Service
+
+As an Academic Writing Advisor for UoB's AWAS service, I reviewed undergraduate and postgraduate written pieces and provided feedback to help students improve their writing, focussing on helping them optimise their writing style for concision and clarity of argument, as well as checking for common language and grammar erro
