@@ -6,15 +6,4 @@
 		- "Likely designed and marketed to the girl audience"
 		- Most of the critics are themselves males
 		- "Male gaming virtuosity" supposition evident
-- What might the soundtrack of Super Princess Peach tell us
-	- Combination of the *kawaii* and *kakkoii* to generate a "Pink Feminism" evident in
-		- "Vibe Powers"
-		- "Music of World One (Ladida Plains)"
-		- "The Music Room"
-- Title Theme
-	- Island setting reinforced with steel pan calypso
-- Peach's emotional Powers
-	- Emotion used as core game mechanic
-		- Four emotions: Joy, Rage, Gloom, Calm used as "vibe powers"
-	- Emotions form crucial part of gameplay and integrally represented in the soundtrack
-		- A
+	- 
