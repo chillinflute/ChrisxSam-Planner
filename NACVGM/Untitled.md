@@ -17,4 +17,13 @@
 	- Emotion used as core game mechanic
 		- Four emotions: Joy, Rage, Gloom, Calm used as "vibe powers"
 	- Emotions form crucial part of gameplay and integrally represented in the soundtrack
-		- A
+		- All emotions presented as equally valid and vital for effective gameplay
+- Music of World 1 (Ladida Plains)
+	- Takes material from the main theme, but now it's a waltz!
+	- Alteration between $\substack{3 \\ 4}$ and $\substack{6 \\ 8}$ feel, implying a waltz, but also taking on influences of jazz and calypso
+	- Waltz feel connects Peach to romantic associations with the Viennese waltz
+		- This links up with her character design; long satin gloves and flowing dress, etc.
+- Music Room
+	- Area to listen back to any part of the game's music
+	- Peach as the lead singer of a rock band
+		- The more tracks the player collects, the larger the b
