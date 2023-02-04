@@ -26,4 +26,14 @@
 - Music Room
 	- Area to listen back to any part of the game's music
 	- Peach as the lead singer of a rock band
-		- The more tracks the player collects, the larger the b
+		- The more tracks the player collects, the larger the backing singers group gets
+	- Music Room soundtrack 2 takes inspiration from funk and disco
+		- Female sexuality empowered through allusions to dancefloor
+		- Peach can perform as she wishes, and she can dance side to side freely
+- Peach as paragon of "Pink Femininity"
+	- Emotions to be embraced, and let her get the job done
+	- Emotions as source of strength not weakness
+
+# Other Notes
+
+An
