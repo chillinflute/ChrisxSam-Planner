@@ -1,0 +1,1 @@
+- Videogames reiterate the marginalization, objectification, and violation of female figures within the gamez
