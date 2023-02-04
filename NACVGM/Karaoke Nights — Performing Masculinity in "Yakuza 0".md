@@ -11,3 +11,14 @@ Yakuza Franchise as an Internation Product
 - Nightlife and Karaoke
 	- Mostly form of social engagement rather than solo performance
 	- In Japan, karaoke is taken more seriously as a personal hobby and dedication rather than as a flippant nightlife activity
+- Baka Mitai
+	- Deepfake creators become widespread in the US in the Autumn of 2020
+		- Often showing unrelated characters singing the song "Baka Mitai"
+	- This reestablished the popularity of the game 
+	- Lyrics for all songs composed by Ryosuke Horii
+	- Romanji, but no English translation of lyrics
+- Steam and Youtube comments
+	- Many list the lyrics along as their review
+	- Many express that the music is a substantial part of why they like the game
+- Crossing
+	- Singing a song presented as being of a gender that is not the performer'
