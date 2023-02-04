@@ -1,2 +1,2 @@
-# *Elizabeth Medina-Gray*
+*By Elizabeth Medina-Gray*
 
