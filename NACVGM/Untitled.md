@@ -36,4 +36,6 @@
 
 # Other Notes
 
-An
+Anita Sarkeesian famously critised this game as "one big PMS joke"
+
+Brooke clearly disagrees, Peach is, for instance, the only person who isn't impacted by the effects of the vibe scepter and controls her emotions and thus the world around her
