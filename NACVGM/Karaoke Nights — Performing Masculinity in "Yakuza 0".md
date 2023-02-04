@@ -21,4 +21,10 @@ Yakuza Franchise as an Internation Product
 	- Many list the lyrics along as their review
 	- Many express that the music is a substantial part of why they like the game
 - Crossing
-	- Singing a song presented as being of a gender that is not the performer'
+	- Singing a song presented as being of a gender that is not the performer's
+- Meaning of the lyrics
+	- Sung by a woman looking back on an ex relationship
+	- IN the game, the singer looks at a meaningful photo, but unconnected to the original lyrics
+		- The photos are shown to be of significant personal trauma to the singer, but in a masculine context, illustrating social isolation 
+		- Without the context of the meaning of the song, many players can recognise that the song is mournful of social isolation, but will fail to understand the social contexts they are interacting with
+- "What Kiryu;"
