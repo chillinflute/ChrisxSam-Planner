@@ -1,4 +1,16 @@
 - Programme was in chronological order of the games' releases
 	- Progression from single 1-bit audio channel to full orchestral scores
 	- Mimics the musical progression of the classical 20th century progression — catchy and hummable to less-so and complex
+	- "The history of video game music is also the history of technology"
+- Fiske's forms of fandom
+	- Semiotic productivity
+		- meaning-making
+		- draws on the semiotic resources of a cultural commodity
+	- Enunciative productivity
+		- using semiotic forms to discuss fandom
+		- can be talking, but can also be modes of dress and manner, amongst other things
+	- Textual productivity
+		- The creation of cultural products that draw on the cultural commodity
+		- Fanfiction, fanart, cosplay, covers and fanvids all fall under this
+- Use of nostalgia to exploit audience?
 - 
