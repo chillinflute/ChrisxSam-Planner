@@ -22,7 +22,7 @@
 | Rhythm Games and the Theory Classroom                                                                               | Clair Nguyen                      | 16:15–30    | ★★             |
 | [[What Makes Trombome Champ So Funny? Ironic Juxtaposition of the Continuous with the Discrete]]                    | Jeremy W. Smith                   | 16:30–45    | ★★             |
 | Providing Historically-Informed Music for a 16th-Century Murder Mystery Narrative RPG: A Case Study                 | Tracy Cowart & Sian Ricketts      | 19:45–20:15 | ★★★            |
-| Demons, Distortion, and the Double Tresillo: Evoking Heavy Metal in the music of DOOM (1993)                        | Holly Bergeron-Dumaine            | 22:15–45    | ★★             |
+| [[Demons, Distortion, and the Double Tresillo — Evoking Heavy Metal in the music of DOOM (1993)]]                        | Holly Bergeron-Dumaine            | 22:15–45    | ★★             |
 | CONCLUSION                                                                                                          |                                   | 22:45–23:00 | ★              |
 
 ## Full Programme
