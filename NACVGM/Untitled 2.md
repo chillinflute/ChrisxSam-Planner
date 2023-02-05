@@ -1,9 +1,0 @@
-- Videogames reiterate the marginalization, objectification, and violation of female figures within the games.
-- In Super Mario Odyssey, Peach finally rejects both Mario and Bowser in the climax.
-- Super Princess Peach was the first game to present Princess Peach as the only protagonist, with the roles reversed so Peach is tasked with saving the Mario Bros who have been kidnapped by Bowser
-	- Critical Reception
-		- "Too easy for the usual gaming crowd"
-		- "Likely designed and marketed to the girl audience"
-		- Most of the critics are themselves males
-		- "Male gaming virtuosity" supposition evident
-	- 
