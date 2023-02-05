@@ -16,4 +16,8 @@
 - Fandom, two ways
 	- Affirmational fandom — creator's words are absolute, fan material re-states source material
 	- Transformative fandom — critical dialogue with source material, e.g. headcanons, AU
-- 
+- Appeal towards high-status culture via
+	- historical overview
+	- nostalgia
+	- virtuosity of composers
+- Possible future of professionalised fanwork
