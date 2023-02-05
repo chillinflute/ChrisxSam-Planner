@@ -13,4 +13,7 @@
 		- The creation of cultural products that draw on the cultural commodity
 		- Fanfiction, fanart, cosplay, covers and fanvids all fall under this
 - Use of nostalgia to exploit audience?
+- Fandom, two ways
+	- Affirmational fandom — creator's words are absolute, fan material re-states source material
+	- Transformative fandom — critical dialogue with source material, e.g. headcanons, AU
 - 
