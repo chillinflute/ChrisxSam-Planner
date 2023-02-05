@@ -1,1 +1,4 @@
+- Programme was in chronological order of the games' releases
+	- Progression from single 1-bit audio channel to full orchestral scores
+	- Mimics the musical progression of the classical 20th century progression — catchy and hummable to less-so and complex
 - 
