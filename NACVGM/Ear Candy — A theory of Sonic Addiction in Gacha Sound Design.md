@@ -6,4 +6,15 @@
 - Gacha pull experience is highly engineered in every respect to heighten sensations of anticipation and reward.
 - A semiotics of Gacha Sound
 	- Pitch and timbre
-	- D
+	- Dynamics and Gesture
+	- Rhythm
+- Pitch and Timbre
+	- Full of high-pitch, high intensity sound
+	- Bright sounds above 10kHz abound
+	- Combine with bright flashing visuals
+	- Higher frequency sounds prompt significantly higher skin-conductive responses (Dixon et al. 2014)
+	- Suggests the player always wins
+	- Special animations and music reserved for the rarest of items and unlocks
+		- The music contains more and higher pitched musical cues
+	- Losses are frequently disguised as wins through these mechanisms
+	- Interrupting 
