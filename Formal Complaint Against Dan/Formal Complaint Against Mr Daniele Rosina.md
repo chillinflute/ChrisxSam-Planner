@@ -52,7 +52,7 @@ I was upset; this felt, not like an isolated incident, but yet another example o
 
 Emotionally and physically traumatized, I went back to my parents' home in Nottingham to seek treatment with the dentist I am registered with there. I communicated that I would necessarily be absent for rehearsals for the next week or so due to the nature of the injuries making playing a wind-instrument nigh-impossible. I got some lovely emails from members of the University Music team wishing me well, but nothing from Mr Rosina, who would have been informed by way of Gavin Allsop. The only thing he was concerned with was getting me back to rehearsals as soon as possible and making me organize deputies. I heard from friends in the ensemble that **Mr Rosina intended to replace me for the upcoming concert**, so attended the rehearsal on Wednesday 9th March against my dentist's advice for fear he would use the opportunity of my absence to oust me from the ensemble entirely. Playing at this rehearsal led to exceptional pain; I was in no fit state to perform during this week, but felt that should I be absent, this would be detrimental to my place in the ensemble.
 
-These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•4 and •5]]. 
+These actions can be considered bullying under the [[University of Birmingham bullying.pdf#page=6|Harrassment and Bullying Policy §7.1•4 and •5]].
 
 #### Incident 3 — 6th June 2022
 
