@@ -1,0 +1,13 @@
+- Massive timbral difference between the synth card used to compose the music (SC-55) vs the Sound Blaster most computers of the time would be using to play the game
+- Despite Prince not favouring metal, the style used in *DOOM (1993)* has come to define the series' audio signature
+- Guitar distortion characterizes Metal
+	- "The sonification of uncontained power" (Wallmark 2018)
+	- Brutal timbral production in the moral panic around the genre
+- Similar aesthetic connotations between game and music
+- Spectrographic analysis of guitar tone
+	- Clean lines harmonically and on attack shows a "clean" sound
+	- Distortion smears these lines across both axes
+- Soundblaster card produces still very clear harmonic parallel lines, and sounds distinctly cleaner than the SC-55 which produces something decidedly noisier, and identifiably depicting a distorted electric guitar, but not fully representative of one
+- Rest of the heavy lifting to evoke the heavy metal signature is due to characteristic genre signifiers
+	- The double tresillo, as found in "At Hell's Gate"
+		- In and of itself, not an indicator of the style, but combined with the de

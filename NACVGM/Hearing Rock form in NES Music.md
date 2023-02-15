@@ -1,0 +1,15 @@
+- Rock form in Chiptunes
+	- Many scholars approach form in NES music and other chiptunes through sectional form
+- Drew Nobile's (2020) functional circuit
+- Verses
+	- More rhythmic diversity than choruses
+	- Often parallel periods, sentences, 12 bar blues, etc.
+- Chorus' are the main goal of a song's trajectory
+- Pre-choruses mostly predominant harmonies predicting the dominant harmony of the chorus
+- Different kinds of Rock forms
+	- VC
+	- CV
+	- VPC
+	- CVP
+- Correlation between game genre and its soundtrack's form
+- Rise of ambiguous form between 1991-93
