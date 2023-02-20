@@ -1,6 +1,6 @@
 # Supporting Statement
 ## Description of project
-I have already done a lot of work in advance of the conference, having conducted hours of research into mine and Chris's presentation. This has involved the more traditional route of online sources and literature reading, but also speaking to some of the more notable figures to have conducted their own research on the topic in recent years. The topic we have been researching is to do with how sound cues are used to indicate character dialogue, with an emphasis on how this affects characterisation; therefore, we researched related 
+I have already done a lot of work in advance of the conference, having conducted hours of research into mine and Chris's presentation. This has involved the more traditional route of online sources and literature reading, but also speaking to some of the more notable figures to have conducted their own research on the topic in recent years. The topic we have been researching is to do with how sound cues are used to indicate character dialogue, with an emphasis on how this affects characterisation; therefore, we discussed some of our ideas with Jenna Stoeber, an academic in the States with a specialism in media studies and a former Polygon host, and Dr Elizabeth Medina-Gray, a leading ludomusicologist working at Ithaca College in New York State. This has led me to feel confident that the research we're presenting is new and
 
 Due to the 9am start time on the first day of the conference, I plan to travel to Edinburgh the day before. 
 
