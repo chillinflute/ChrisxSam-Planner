@@ -1,6 +1,6 @@
 # Supporting Statement
 ## Description of project
-I have already done a lot of work in advance of the conference, having conducted hours of research into mine and Chris's presentation. This has involved the more traditional route of online sources and literature reading, but also 
+I have already done a lot of work in advance of the conference, having conducted hours of research into mine and Chris's presentation. This has involved the more traditional route of online sources and literature reading, but also speaking to some of the more notable figures to have conducted their own research on the topic in recent years. The topic we have been researching is to do with how sound cues are used to indicate
 
 Due to the 9am start time on the first day of the conference, I plan to travel to Edinburgh the day before. 
 
