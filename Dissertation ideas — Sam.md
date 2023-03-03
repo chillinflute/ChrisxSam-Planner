@@ -1,2 +1,3 @@
 # Ludo
-- A study of ways in which video games have been adapted into film/tv ()
+- A study of how video games and their music have been adapted into film/tv
+	- case studies of Arcane, Castlevania, 
