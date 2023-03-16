@@ -1,4 +1,8 @@
 # flute
+Ab - 1st Octave Ab fingering. Trill right hand.
+![[1stOAbTimbralFl.svg]]
+C - 1st Octave C fingering, add right hand. Trill left hand 2 and 3.
+
 
 
 # clarinet
