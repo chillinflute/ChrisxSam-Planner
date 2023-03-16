@@ -23,8 +23,9 @@ Gb - normal second register F# fingering, trill C# pinky key
 
 # alto sax
 
-Eb - 
-G
+Eb - 1st Octave Eb fingering. Trill Bottom Bb.
+![[1stOEbTimbralAS.svg]]
+G - 
 Bb
 Db
 
