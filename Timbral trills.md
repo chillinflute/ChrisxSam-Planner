@@ -25,9 +25,9 @@ Gb - normal second register F# fingering, trill C# pinky key
 
 Eb - 1st Octave Eb fingering. Trill Bottom Bb.
 ![[1stOEbTimbralAS.svg]]
-G - 
-Bb
-Db
+Bb - 1st Octave Bb bis fingering. Trill LH3
+![[1stOBbTimbralAS.svg]]
+Db - 
 
 
 # Fingering Chart Builder
