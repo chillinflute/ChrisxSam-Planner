@@ -25,11 +25,12 @@ Gb - normal second register F# fingering, trill C# pinky key
 
 Eb - 1st Octave Eb fingering. Trill Bottom Bb.
 ![[1stOEbTimbralAS.svg]]
+G - No timbral trill
 Bb - 1st Octave Bb bis fingering. Trill LH3
 ![[1stOBbTimbralAS.svg]]
-Db - 
+Db - Right hand down plus LH3. Trill bottom C key.
+![[2ndODbTimbralAS.svg]]
+Same for second octave, add octave key.
 
-
-# Fingering Chart Builder
 
 
