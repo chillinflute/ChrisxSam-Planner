@@ -23,6 +23,10 @@ Gb - normal second register F# fingering, trill C# pinky key
 
 # alto sax
 
+Eb - 
+G
+Bb
+Db
 
 
 # Fingering Chart Builder
