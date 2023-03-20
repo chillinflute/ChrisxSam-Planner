@@ -1,4 +1,4 @@
-I am herein making an official request for a Senate Review of a formal complaint made against Mr Daniele Rosina, Head of Orchestral Studies and conductor as part of the University of Birmingham Music Society (hereon: UoBMS, or simply "Music Society"). Having gone through the formal complaints procedure, involving the supplying of a statement, witness testimony, and dialogue with the Investigating Officer (IO) Prof. Aengus Ward, and receipt of the Response (hereon: "the report" or "the response") from School of Languages, Culture, Art, History, and Music (LCAHM), I am dissatisfied with the conclusions and recommendations of this complaint. Therefore, I am making this request for a Senate Review of this complaint according to the [[cop-student-concerns-complaints-20-21.pdf|Code of Practice on Student Concerns and Complaints]] (attached, hereon CoPSCC).
+I am herein making an official request for a Senate Review of a formal complaint made against Mr Daniele Rosina, Head of Orchestral Studies and conductor as part of the University of Birmingham Music Society (hereon: UoBMS, or simply "Music Society"). Having gone through the formal complaints procedure, involving the supplying of a statement, witness testimony, and dialogue with the Investigating Officer (IO) Prof. Aengus Ward, and receipt of the Response (hereon: "the report" or "the response" or "IO Report") from School of Languages, Culture, Art, History, and Music (LCAHM), I am dissatisfied with the conclusions and recommendations of this complaint. Therefore, I am making this request for a Senate Review of this complaint according to the [[cop-student-concerns-complaints-20-21.pdf|Code of Practice on Student Concerns and Complaints]] (attached, hereon CoPSCC).
 
 For the reference of the reader, I will refer throughout to relevant documents which shall be attached, by page numbers and/or section headings and bullet points (§, •) where appropriate. 
 
@@ -26,5 +26,9 @@ Unfortunately, these principles do not appear to have been implemented when asse
 
 There are multiple points where this is evident in the report:
 
-> It is not clear that this event *per se* constitutes a breach of the bullying policy, though given the combination of events mentioned, it may be reasonable that Mr. Hill felt that it did. — 
+> It is not clear that this event *per se* constitutes a breach of the bullying policy, though given the combination of events mentioned, it may be reasonable that Mr. Hill felt that it did. — [[Christopher Hill complaint School final.pdf#page=4|IO Report, pg. 4]]
+
+> It is not clear that the incident was intended to undermine, humiliate etc. Mr. Hill, although he may reasonably have experienced it this way. — [[Christopher Hill complaint School final.pdf#page=5|IO Report, pg. 5]]
+
+> While the student does indeed have a protected characteristic, and associated RAP, there is no direct evidence to suggest that the conduct which is the subject of the complaint is directly related to it; as a result, the incidents cannot themselves be considered harassment. However, they may certainly have been experienced as something similar by Mr. Hill. — [[Christopher Hill complaint School final.pdf#page=6|IO Report, pg. 6]]
 
