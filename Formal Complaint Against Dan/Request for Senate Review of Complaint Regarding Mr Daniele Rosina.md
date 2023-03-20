@@ -40,4 +40,4 @@ Therefore the IO is, in the course of the report, presenting a contradiction. On
 
 ## Concerning the Definition of Harrassment in the [[Christopher Hill complaint School final.pdf|IO Report]] vs the [[University of Birmingham bullying.pdf|HBP]]
 
-Furthermore, there is a problem specifically with the definition of Harrassment 
+Furthermore, there is a problem specifically with the definition of Harrassment as presented in the [[Christopher Hill complaint School final.pdf|IO Report]]. On [[Christopher Hill complaint School final.pdf#page=6|pg. 6]] he correctly cites 
