@@ -6,4 +6,5 @@ The issues taken with the Response provided by the IO are given on the [[Review 
 
 1. The IO fails to apply the Reasonableness Test described in the [[University of Birmingham bullying.pdf#page=6|University's Harrassment and Bullying Policy (hereon HBP) §5.2]].
 2. Whilst communication with the IO was thorough throughout, the nature of that communication meant that I was not provided with the opportunity to supply relevant information to the IO that I believe would have impacted the conclusions drawn in the School's response.
-3. 
+3. I have multiple concerns over the handling and communication of witnesses for both parties and their statements; including which witnesses were and were not considered, and the standard for witnesses and evidence being unequal for complainant and complainee.
+4. There are in the IO's report: multiple factual errors, allegations stated as facts, and overall lack of precis
