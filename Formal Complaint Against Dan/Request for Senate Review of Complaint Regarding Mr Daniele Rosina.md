@@ -46,4 +46,4 @@ Crucially, according to the definition of Victimisation according to the [[Unive
 
 ## Regarding Communication with the IO
 
-I have attached as a PDF export, for reference, the email correspondance between myself and the IO for the duration of the process. Whilst I was greatly appreciative of the regularity of the correspondance, upon reading the report 
+I have attached as a PDF export, for reference, the email correspondance between myself and the IO for the duration of the process. Whilst I was greatly appreciative of the regularity of the correspondance, upon reading the report it became clear that there are a number of issues that could have been easily resolved if that communication had asked for clarification or further information on particular matters, particularly those concerning the operation and practices of the Music Society, and matters regarding witnesses. These will be respectively be addressed in the sections 
