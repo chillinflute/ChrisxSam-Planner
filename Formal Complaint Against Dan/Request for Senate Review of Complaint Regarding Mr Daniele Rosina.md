@@ -14,7 +14,7 @@ This document will detail these issues one by one in a depth better suited to a 
 
 ## Regarding the IO
 
-I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical (and procedural) failings in the content of that report.  
+I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical and procedural failings in the content of that report.  
 
 # Regarding the "Test of Reasonableness"
 
@@ -22,4 +22,4 @@ Quoting [[University of Birmingham bullying.pdf#page=7|HBP§7.3]]:
 
 > When considering allegations of bullying, the University will apply the test of ‘reasonableness’ to determine if bullying has taken place. The test will be applied as outlined in paragraphs 5.1- 5.2 above with due regard in particular to the perception of the Complainant and whether the behaviour in question could reasonably be considered to undermine, humiliate, denigrate or injure the Complainant.
 
-Unfortunately, these principles do not appear to have been considered within the 
+Unfortunately, these principles do not appear to have been considered when assessing whether or not Bullying has occurred by Mr Rosina towards myself. This fundamentally alters the IO's assessment of whether or not the actions requested as redress can be undertaken. Furthermore, the language of the IO's report indicates that there was indeed 
