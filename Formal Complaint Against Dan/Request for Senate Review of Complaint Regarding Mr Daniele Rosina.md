@@ -26,3 +26,5 @@ Unfortunately, these principles do not appear to have been implemented when asse
 
 There are multiple points where this is evident in the report:
 
+> It is not clear that this event *per se* constitutes a breach of the bullying policy, though given the combination of events mentioned, it may be reasonable that Mr. Hill felt that it did. — 
+
