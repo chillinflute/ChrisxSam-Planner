@@ -12,11 +12,11 @@ The issues taken with the Response provided by the IO are given on the [[Review 
 
 This document will detail these issues one by one in a depth better suited to a standalone document than the limited space available in the [[Review Panel Form Christopher Hill.doc|SRPSF]].  
 
-## Regarding the IO
+### Regarding the IO
 
 I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process, and being considerate of the factors that could help me navigate the process in accordance with my [[Chris Hill Reasonable Adjustment Plan.pdf|RAP]]. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical and procedural failings in the content of that report.  
 
-# Regarding the "Test of Reasonableness"
+## Regarding the "Test of Reasonableness"
 
 Quoting [[University of Birmingham bullying.pdf#page=7|HBP§7.3]]:
 
@@ -38,11 +38,11 @@ Unless there is some form of threshold undocumented within the [[University of B
 
 Therefore the IO is, in the course of the report, presenting a contradiction. On the one hand, I have highlighted exactly the ways in which I allege I have been Bullied, Harassed, etc. by Mr Rosina, with specific cross-reference to the [[University of Birmingham bullying.pdf|HBP]]. The IO has confirmed that it may be reasonable that I should perceive Mr Rosina's as such. Simultaneously, they maintain that the conduct does not meet the standard to qualify as such. These two positions are directly contradictory, as laid out by the definition of these terms in the [[University of Birmingham bullying.pdf|HBP]]. 
 
-## Concerning Harassment
+### Concerning Harassment
 
 It should be pointed out that in my [[Formal Complaint Against Mr Daniele Rosina|Formal Complaint]] I only ever allege Harassment by Mr Rosina **in terms of** Victimisation [[Formal Complaint Against Mr Daniele Rosina|(pg. 9)]], since Victimisation is unlawful under harassment and discrimination legislature [[University of Birmingham bullying.pdf#page=8|(HBP§8.3)]]. The IO seems to have centered their understanding of the Harassment complaint instead according to my protected characteristics [[Christopher Hill complaint School final.pdf#page=6|(IO Report pg. 6)]] and associated [[Chris Hill Reasonable Adjustment Plan.pdf|RAP]], which was not the central point of my argument. I did recall an event to the IO where I felt that I was being demeaned because of that protected characteristic, but noted at the time that I hadn't included it in the [[Formal Complaint Against Mr Daniele Rosina|Formal Complaint]] because I knew I would not have the supporting evidence for that particular incident, which was why I had focussed my complaint on the incidents where I believed Bullying and Victimisation to have clearly taken place, and where I had ample enough evidence to support such a claim. 
 
 Crucially, according to the definition of Victimisation according to the [[University of Birmingham bullying.pdf#page=7|HBP§8]], there is no requirement that the complainant have any particular protected characteristic, only that the complainee believes them to "intend to make such an allegation" [[University of Birmingham bullying.pdf#page=7|(HBP§8.1)]]. Considering that Mr Rosina alleges that in Incident 3 I "made allegations of favouritism" [[Christopher Hill complaint School final.pdf#page=4|(IO Report pg. 4)]] against him — a charge that would certainly qualify a complaint of Harassment if true — he could reasonably expect that I would make a complaint. It is my belief that what followed in that confrontation, specifically regarding his threatening to bar me from the orchestra for the coming term as well as his generally threatening and agressive demeanor, was Victimisation and an attempt to scare me into not making such a complaint for fear of losing my position (as I describe in my [[Formal Complaint Against Mr Daniele Rosina#9|Formal Complaint pg. 9]]). 
 
-# Regarding Communication with the IO
+## Regarding Communication with the IO
 
