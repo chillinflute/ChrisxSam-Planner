@@ -46,3 +46,4 @@ Crucially, according to the definition of Victimisation according to the [[Unive
 
 ## Regarding Communication with the IO
 
+I have attached as a PDF export, for reference, the email correspondance between myself and the IO for the duration of the process. Whilst I was greatly appreciative of the regularity of the correspondance, upon reading the report 
