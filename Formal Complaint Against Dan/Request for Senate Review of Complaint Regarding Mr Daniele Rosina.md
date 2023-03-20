@@ -4,5 +4,6 @@ For the reference of the reader, I will refer throughout to relevant documents w
 
 The issues taken with the Response provided by the IO are given on the [[Review Panel Form Christopher Hill.doc|Senate Review Panel Submission Form]], but are listed below in brief:
 
-1. Whilst communication with the IO was thorough throughout, the nature of that communication meant that I was not provided with the opportunity to supply relevant information to the IO that I believe would have impacted the conclusions drawn in the School's response.
-2. 
+1. The IO fails to apply the Reasonableness Test described in the University's Harrassment and Bullying Policy (§5.2, hereon )
+2. Whilst communication with the IO was thorough throughout, the nature of that communication meant that I was not provided with the opportunity to supply relevant information to the IO that I believe would have impacted the conclusions drawn in the School's response.
+3. 
