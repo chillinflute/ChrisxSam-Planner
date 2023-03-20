@@ -16,4 +16,11 @@ This document will detail these issues one by one in a depth better suited to a 
 
 I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical (and procedural) failings in the content of that report. 
 
-# Regarding the R=
+# Regarding the "Test of Reasonableness"
+
+Quoting HBP§5.2:
+
+> When considering allegations of Harassment, the University will therefore apply a test of ‘reasonableness’ to determine if Harassment has taken place. That is, with due regard to the circumstances, including in particular the perception of the Complainant, could the behaviour in question ‘reasonably be considered’ to cause Harassment, e.g. could it reasonably be considered to:
+violate the Complainant’s dignity, or
+create an intimidating, hostile, degrading, humiliating or offensive environment for
+them.
