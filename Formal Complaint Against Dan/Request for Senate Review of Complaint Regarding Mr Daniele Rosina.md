@@ -4,7 +4,7 @@ For the reference of the reader, I will refer throughout to relevant documents w
 
 The issues taken with the Response provided by the IO are given on the [[Review Panel Form Christopher Hill.doc|Senate Review Panel Submission Form]] (SRPSF), but are listed below in brief:
 
-1. The IO fails to apply the Reasonableness Test described in the [[University of Birmingham bullying.pdf#page=6|University's Harrassment and Bullying Policy (hereon HBP) §5.2]].
+1. The IO fails to apply the Reasonableness Test described in the [[University of Birmingham bullying.pdf#page=6|University's harassment and Bullying Policy (hereon HBP) §5.2]].
 2. Whilst communication with the IO was thorough throughout, the nature of that communication meant that I was not provided with the opportunity to supply relevant information to the IO that I believe would have impacted the conclusions drawn in the School's response.
 3. I have multiple concerns over the handling and communication of witnesses for both parties and their statements; including which witnesses were and were not considered, and the standard for witnesses and evidence being unequal for complainant and complainee.
 4. There are in the IO's report: multiple factual errors, allegations stated as facts, an overall lack of precision regarding witness testimony, and occassions where accounts of events are presented from Mr Rosina's (and presumably his witnesses') viewpoint with no contrast against mine (and my witnesses') own, and no assertion of supporting evidence to justify taking Mr Rosina's and co.'s version of events over mine and my witnesses' own.
@@ -38,6 +38,5 @@ Unless there is some form of threshold undocumented within the [[University of B
 
 Therefore the IO is, in the course of the report, presenting a contradiction. On the one hand, I have highlighted exactly the ways in which I allege I have been Bullied, Harassed, etc. by Mr Rosina, with specific cross-reference to the [[University of Birmingham bullying.pdf|HBP]]. The IO has confirmed that it may be reasonable that I should perceive Mr Rosina's as such. Simultaneously, they maintain that the conduct does not meet the standard to qualify as such. These two positions are directly contradictory, as laid out by the definition of these terms in the [[University of Birmingham bullying.pdf|HBP]]. 
 
-## Concerning the Definition of Harrassment in the [[Christopher Hill complaint School final.pdf|IO Report]] vs the [[University of Birmingham bullying.pdf|HBP]]
+## Concerning Harassment
 
-Furthermore, there is a problem specifically with the definition of Harrassment as presented in the [[Christopher Hill complaint School final.pdf|IO Report]]. On [[Christopher Hill complaint School final.pdf#page=6|pg. 6]] he correctly cites 
