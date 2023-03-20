@@ -12,6 +12,8 @@ The issues taken with the Response provided by the IO are given on the [[Review 
 
 This document will detail these issues one by one in a depth better suited to a standalone document than the limited space available in the [[Review Panel Form Christopher Hill.doc|SRPSF]].  
 
-# Regarding the IO
+## Regarding the IO
 
-I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process. The nature of my complaint
+I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical (and procedural) failings in the content of that report. 
+
+# Regarding the R=
