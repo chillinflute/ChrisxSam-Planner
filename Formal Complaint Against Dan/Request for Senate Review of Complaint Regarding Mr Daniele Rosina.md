@@ -40,3 +40,4 @@ Therefore the IO is, in the course of the report, presenting a contradiction. On
 
 ## Concerning Harassment
 
+I feel like it should be pointed out that in my [[Formal Complaint Against Mr Daniele Rosina|Formal Complaint]] I only ever allege Harassment by Mr Rosina **in terms of** Victimisation [[Formal Complaint Against Mr Daniele Rosina|(pg. 9)]], since Victimisation is unlawful under 
