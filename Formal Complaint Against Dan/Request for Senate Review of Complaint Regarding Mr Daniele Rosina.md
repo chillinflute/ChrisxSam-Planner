@@ -58,4 +58,8 @@ As noted in the [[Christopher Hill complaint School final.pdf#page=2|IO Report p
 
 My inquiry into why the University was adopting this policy when doing so presented a real and probable threat to student wellbeing remains unanswered [[Correspondance Between Complainant and IO.pdf|(email correspondance pg. 7)]]. 
 
-Furthermore, upon further scrutiny of the [[cop-student-concerns-complaints-20-21.pdf|CoPSCC]], it seems that there is little procedural justification for demanding that witnesses be identified to the complainee. 
+Furthermore, upon further scrutiny of the [[cop-student-concerns-complaints-20-21.pdf|CoPSCC]], it seems that there is little procedural justification for demanding that witnesses be identified to the complainee. To address the relevant sections of that document:
+
+> Anonymous concerns or complaints will not be dealt with under this Code of Practice. — [[cop-student-concerns-complaints-20-21.pdf#page=3|§1.9]]
+
+This particular section 
