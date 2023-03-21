@@ -97,8 +97,6 @@ Had I been given the opportunity to provide my own character references, attesti
 
 There are multiple occurences within the document where witness testimony is presented in such a vague manner that it is impossible to draw meaningful conclusions from it. I again refer to my point about my own right to reply if others have been making aspersions against my character in the course of them giving testimony that I mentioned in the section [[#regarding anonymity of witnesses]].
 
-#### General Vagueness
-
 > \[...\] the commentary from ==members of the orchestra then present== does not contest this assertion — [[Christopher Hill complaint School final.pdf#page=4|IO Report pg. 4]]
 
 > ==Various people== present confirmed the nature of the interaction, but were not able to confirm the content of it. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]]
@@ -115,4 +113,4 @@ Regarding the 4th quote about witnesses expressing surprise for example: not onl
 
 > I understand that absences must be agreed with the University Music team, (NOT the conductor) in advance of the rehearsal by phone or email. — Philharmonic Orchestra - Member Agreement (2021/22), •3, emphasis in original
 
-This shows how misleading the report can present the facts as presented by unnamed and unspecified witnesses
+
