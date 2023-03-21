@@ -99,7 +99,7 @@ There are multiple occurences within the document where witness testimony is pre
 
 #### General Vagueness
 
-> \[...\] the commentary from members of the orchestra then present does not contest this assertion — [[Christopher Hill complaint School final.pdf#page=4|IO Report pg. 4]]
+> \[...\] the commentary from ==members of the orchestra then present== does not contest this assertion — [[Christopher Hill complaint School final.pdf#page=4|IO Report pg. 4]]
 
 > ==Various people== present confirmed the nature of the interaction, but were not able to confirm the content of it. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]]
 
@@ -107,11 +107,12 @@ There are multiple occurences within the document where witness testimony is pre
 
 > ==Several of the witnesses== expressed surprise that any absence from dress rehearsals had been asked for, or granted. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
 
-> ==Witnesses speak of== Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
+> ==Witnesses speak of== Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
 
 In all of these incidences, the language implies a general consensus of multiple parties agreeing on an absolute version of events. This, I believe, grossly misrepresents the degree of consensus about these events, especially in light of the inability of witnesses to testify against Mr Rosina anonymously. Looking over the list of witnesses, for example, only one member of the orchestra is listed, so how can there be numerous witnesses to these events? 
 
-Regarding the 4th quote about witnesses expressing surprise for example: not only is the surprise of witnesses completely inconsequential to the veracity of the claim that I did, in fact, have permission to be absent, this suffers greatly from the ommission of the witnesses concerned here. Gavin Allsop personally gave me the permission to miss a section of the dress rehearsal, as per the very same [membership agreement form](https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) that is cited in the 3rd quote. To quote the member agreement:
+Regarding the 4th quote about witnesses expressing surprise for example: not only is the surprise of witnesses completely inconsequential to the veracity of the claim that I did, in fact, have permission to be absent, this suffers greatly from the ommission of the witnesses concerned here. Gavin Allsop personally gave me the permission to miss a section of the dress rehearsal (email correspondance attached as "[[Communication from Gavin Allsop Regarding Dress Rehearsal Absence.pdf]]"), as per the very same [membership agreement form](https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) that is cited in the 3rd quote. To quote the member agreement:
 
 > I understand that absences must be agreed with the University Music team, (NOT the conductor) in advance of the rehearsal by phone or email. — Philharmonic Orchestra - Member Agreement (2021/22), •3, emphasis in original
 
+This shows how misleading the report can present the facts as presented by unnamed and unspecified witnesses
