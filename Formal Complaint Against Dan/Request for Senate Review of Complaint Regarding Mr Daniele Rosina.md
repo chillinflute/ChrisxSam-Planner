@@ -111,4 +111,7 @@ There are multiple occurences within the document where witness testimony is pre
 
 In all of these incidences, the language implies a general consensus of multiple parties agreeing on an absolute version of events. This, I believe, grossly misrepresents the degree of consensus about these events, especially in light of the inability of witnesses to testify against Mr Rosina anonymously. Looking over the list of witnesses, for example, only one member of the orchestra is listed, so how can there be numerous witnesses to these events? 
 
-Regarding the 4th quote about witnesses expressing surprise for example: this suffers greatly from the ommi
+Regarding the 4th quote about witnesses expressing surprise for example: not only is the surprise of witnesses completely inconsequential to the veracity of the claim that I did, in fact, have permission to be absent, this suffers greatly from the ommission of the witnesses concerned here. Gavin Allsop personally gave me the permission to miss a section of the dress rehearsal, as per the very same [membership agreement form](https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) that is cited in the 3rd quote. To quote the member agreement:
+
+> I understand that absences must be agreed with the University Music team, (NOT the conductor) in advance of the rehearsal by phone or email. — Philharmonic Orchestra - Member Agreement (2021/22), •3, emphasis in original
+
