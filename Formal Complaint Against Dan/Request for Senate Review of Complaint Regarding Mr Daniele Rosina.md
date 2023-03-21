@@ -95,7 +95,15 @@ Had I been given the opportunity to provide my own character references, attesti
 
 ### Vagueness and Inaccuracies Regarding Witnesses
 
-There are multiple occurences within the document where witness testimony is presented in such a vague manner that it is impossible to draw meaningful conclusions from it. I again refer to my point about my own right to reply if others have been making aspersions against my character in the course of them giving testimony that I mentioned in the section [[#regarding the anonymity of witnesses]].
+There are multiple occurences within the document where witness testimony is presented in such a vague manner that it is impossible to draw meaningful conclusions from it. I again refer to my point about my own right to reply if others have been making aspersions against my character in the course of them giving testimony that I mentioned in the section [[#regarding anonymity of witnesses]].
+
 #### General Vagueness
 
-> 
+> ==Various people== present confirmed the nature of the interaction, but were not able to confirm the content of it. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]]
+
+> For context, I have been told by ==various parties== that there is both a tacit, and explicit (https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) understanding that participation in the full concert requires full participation in the dress rehearsal. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]] 
+
+> Several of the witnesses expressed surprise that any absence from dress rehearsals had been asked for, or granted. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
+
+> Witnesses speak of Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
+
