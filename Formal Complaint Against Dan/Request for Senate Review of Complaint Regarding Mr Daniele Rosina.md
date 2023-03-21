@@ -93,3 +93,9 @@ Furthermore, I was never presented with a similar opportunity to provide charact
 
 Had I been given the opportunity to provide my own character references, attesting to my professional conduct and refuting Mr Rosina's accusations of my "argumentative" attitude and other accusations of unprofessionalism [[Christopher Hill complaint School final.pdf#page=5|(IO Report pgs. 5-6)]], I would have been able to do so. I have been a member of innumerable orchestras, many of national and international standing, over the course of my musical career, and know of a great many who could attest to my professionalism in orchestral settings, not least of all the organisers of the National Youth Wind Orchestra and National Schools Symphony Orchestra where I had extensive stints as principal chair, as well as members and staff of the City of Birmingham Symphony Orchestra, and former principal flautist of the London Symphony Orchestra and internationally acclaimed flautist, Paul Edmund-Davies, to name but a few. I mention this, not only to highlight my standing as an orchestral flautist, but to highlight how by Mr Rosina being solely able to provide character reference, the report presents a very skewed perspective on the perceptions of our characters. 
 
+### Vagueness and Inaccuracies Regarding Witnesses
+
+There are multiple occurences within the document where witness testimony is presented in such a vague manner that it is impossible to draw meaningful conclusions from it. I again refer to my point about my own right to reply if others have been making aspersions against my character in the course of them giving testimony that I mentioned in the section [[#regarding the anonymity of witnesses]].
+#### General Vagueness
+
+> 
