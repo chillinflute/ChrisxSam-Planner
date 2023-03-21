@@ -109,4 +109,4 @@ There are multiple occurences within the document where witness testimony is pre
 
 > ==Witnesses speak of== Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
 
-In all of these incidences, the language implies a general consensus of multiple parties agreeing on an absolute version of events. This, I believe, grossly misrepresents the degree of consensus about these even
+In all of these incidences, the language implies a general consensus of multiple parties agreeing on an absolute version of events. This, I believe, grossly misrepresents the degree of consensus about these events, especially in light of the inability of witnesses to testify against Mr Rosina anonymously. Looking over the list of witnesses, only one member of the orchestra is listed, so how can their be numerous witnesses to these events? 
