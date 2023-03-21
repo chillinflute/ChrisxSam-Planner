@@ -128,9 +128,12 @@ There are also several occasions where Mr Rosina's perspective is stated as fact
 
 Mr Rosina has clearly taken the very barest minimum level of accountability for his actions in response to these allegations, and has endeavoured to try and misrepresent the facts of these incidents to shed as much responsibility for his actions as possible. 
 
-The only indication of remorse for his actions is shown in [[Christopher Hill complaint School final.pdf#page=5|pg. 5]] of the report:
+The only indication of remorse for his actions is shown in [[Christopher Hill complaint School final.pdf#page=5|pgs. 5 and 6]] of the report:
 
-> Whatever the circumstances, it is clear that Mr. Rosina’s conduct on this occasion did not live up to the high standard expected of staff/student interactions – and in the course of the investigation he recognised that this was the case. — IO Report, pg. 5
+> Whatever the circumstances, it is clear that Mr. Rosina’s conduct on this occasion did not live up to the high standard expected of staff/student interactions – and in the course of the investigation he recognised that this was the case. — [[Christopher Hill complaint School final.pdf#page=5|IO Report, pg. 5]]
 
-Mr Rosina thus admits to wrongdoing towards me only on one occasion, and only with regards the spirit of his conduct (aka. shouting at me) rather than the substance of it (accusing me of making allegations I wasn't, thereby implying that I am a liar, that I am disrespectful, and belittling me in front of my peers). At all other avenues he shirks responsbility either by turning responsibility for his actions back onto me, or by blaming unfamiliarity with a process that he had no excuse to be ignorant of.
+>There is no doubt that on occasions his interactions fell below the standard which one would expect in this context, as he himself recognises, and there are recommendations in this regard below. — [[Christopher Hill complaint School final.pdf#page=6|IO Report, pg. 6]]
 
+Mr Rosina thus admits to wrongdoing towards me only on one occasion, and only with regards the **spirit** of his conduct (aka. shouting at me, or inappropriate managing of emails) rather than the **substance** of it (accusing me of making allegations I wasn't, thereby implying that I am a liar, that I am disrespectful, and belittling me in front of my peers). At all other avenues he shirks responsbility either by turning responsibility for his actions back onto me, or by blaming unfamiliarity with a process that he had no excuse to be ignorant of.
+
+This is why in addition to the items of redress stated in my [[Concern Review Form.docx]].
