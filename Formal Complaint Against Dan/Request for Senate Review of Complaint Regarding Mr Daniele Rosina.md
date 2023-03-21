@@ -114,3 +114,6 @@ Regarding the 4th quote about witnesses expressing surprise for example: not onl
 > I understand that absences must be agreed with the University Music team, (NOT the conductor) in advance of the rehearsal by phone or email. — Philharmonic Orchestra - Member Agreement (2021/22), •3, emphasis in original
 
 
+## Factual Errors and Allegations Stated as Fact
+
+There is a recurring issue here where factual information is simply inaccurate; inevitably a consequence of having incomplete information. I reiterate that had some of these issues been discussed with me in my communication with the IO subsequent to our formal meeting, I could have supplied some of the evidently missing information, which I believe substantially impacts the conclusions drawn from this report. 
