@@ -70,6 +70,8 @@ This statement seems to directly contradict the course of action taken in the co
 
 The resultant question for the Senate is then clear: if revealing the identity of witnesses to the complainee presents a real and probable threat to their welfare, and the practice of revealing witness identities to the complainee is not supported by the [[cop-student-concerns-complaints-20-21.pdf|Code of Practice]], why was that the decision made when investigating this case? 
 
+Additionally, if Mr Rosina is entitled to know what he is being accused of and by whom, I would argue that his own witness testimonies should be also revealed to me. I certainly qualify as a "key individual referred to in the complaint" and since their testimonies must pertain to their perception of my own conduct if they are to support Mr Rosina's version of events, I should therefore be entitled to the same right of reply as Mr Rosina has here been afforded.
+
 ### Regarding Lack of Witness Statement from Mark Mingard
 
 A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=17|Formal Complaint (pg. 17)]] as the individual who would be submitting a statement after Christmas, and in the [[Correspondance Between Complainant and IO.pdf#page=7|email communication (pg. 7)]], was № present in the report.
