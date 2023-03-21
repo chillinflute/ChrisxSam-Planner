@@ -132,5 +132,5 @@ The only indication of remorse for his actions is shown in [[Christopher Hill co
 
 > Whatever the circumstances, it is clear that Mr. Rosina’s conduct on this occasion did not live up to the high standard expected of staff/student interactions – and in the course of the investigation he recognised that this was the case. — IO Report, pg. 5
 
-Mr Rosina thus admits to wrongdoing towards me only on one occasion, and only with regards the spirit of his conduct (aka. shouting at me) rather than the substance of it (accusing me of making allegations I wasn't, thereby implying that I am a liar, that I am disrespectful, and belittling me in front of my peers). At all other avenues he shirks responsbility either by turning responsibility for his actions back onto me, or by blaming unfamiliarity with a process that he had no excuse to be ignorant of. 
+Mr Rosina thus admits to wrongdoing towards me only on one occasion, and only with regards the spirit of his conduct (aka. shouting at me) rather than the substance of it (accusing me of making allegations I wasn't, thereby implying that I am a liar, that I am disrespectful, and belittling me in front of my peers). At all other avenues he shirks responsbility either by turning responsibility for his actions back onto me, or by blaming unfamiliarity with a process that he had no excuse to be ignorant of.
 
