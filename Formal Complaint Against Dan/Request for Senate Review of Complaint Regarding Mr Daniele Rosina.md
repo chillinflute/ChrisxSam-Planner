@@ -146,4 +146,5 @@ Over the course of this document I hope to have highlighted the following:
 - That there is an inequality between the presentation of the complainee's account of events and my own.
 - That these errors and representations consequentially affect the conclusions and recommendations made by the IO.
 - That a closer examination of the procedure and of the impact of power dynamics between staff and students are required in order to give a fair account of a complaint such as this.
-- That
+
+I hope that, should these key ideas be communicated effectively by this document, the Senate should find that further investigation is required in order to come to a satisfactory conclusion on what actions should be taken in light of these incidents, and that such an investigation should supply both complainant and complainee the same rights to information and opportunities to present a diversity of evidence in support of their account of events. Such an investigation should also take into consideration ways in which people individuals may give evidence to a named complaint without fear of reprisals through their identity being made known to a person in a greater position of power than them and about whom they are making allegations. 
