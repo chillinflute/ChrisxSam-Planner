@@ -69,3 +69,7 @@ This particular section simply states that anonymous **concerns** or **complaint
 This statement seems to directly contradict the course of action taken in the course of this investigation. The final sentence refers, again, not to witness statements supporting the named complaint. The complainee would only, under this section, be entitled to know **a)** what the nature of the complaint was, and **b)** what the outcome of the process was. This makes much more rational sense in that it safeguards any student who might wish to testify about the complaint from potential victimisation from the complainee. 
 
 The resultant question for the Senate is then clear: if revealing the identity of witnesses to the complainee presents a real and probable threat to their welfare, and the practice of revealing witness identities to the complainee is not supported by the [[cop-student-concerns-complaints-20-21.pdf|Code of Practice]], why was that the decision made when investigating this case? 
+
+### Regarding Lack of Witness Statement from Mark Mingard
+
+A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=17|Formal Complaint (pg. 17)]] as the individual who would be submitting a statement after Christmas, and in the [[Corr|email communication (pg. 7)]]
