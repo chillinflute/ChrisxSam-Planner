@@ -62,4 +62,6 @@ Furthermore, upon further scrutiny of the [[cop-student-concerns-complaints-20-2
 
 > Anonymous concerns or complaints will not be dealt with under this Code of Practice. — [[cop-student-concerns-complaints-20-21.pdf#page=3|§1.9]]
 
-This particular section 
+This particular section simply states that anonymous **concerns** or **complaints** will not be considered, it says nothing of supporting testimony for a named complainant. 
+
+> 
