@@ -72,4 +72,11 @@ The resultant question for the Senate is then clear: if revealing the identity o
 
 ### Regarding Lack of Witness Statement from Mark Mingard
 
-A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=17|Formal Complaint (pg. 17)]] as the individual who would be submitting a statement after Christmas, and in the [[Corr|email communication (pg. 7)]]
+A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=17|Formal Complaint (pg. 17)]] as the individual who would be submitting a statement after Christmas, and in the [[Correspondance Between Complainant and IO.pdf#page=7|email communication (pg. 7)]], was № present in the report.
+
+> [!TODO]
+> Find out what's going on here. Was Mark contacted? Why didn't Aengus come to me when he didn't get a response?
+
+### Regarding Character Testimonies
+
+I had no idea until the release of the report that Mr Rosina would be receiving character testimonies from 7 different people, from within the University and without. It particularly alarms me to note that among those listed teachers from the 
