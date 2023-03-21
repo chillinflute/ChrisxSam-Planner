@@ -64,4 +64,8 @@ Furthermore, upon further scrutiny of the [[cop-student-concerns-complaints-20-2
 
 This particular section simply states that anonymous **concerns** or **complaints** will not be considered, it says nothing of supporting testimony for a named complainant. 
 
-> 
+> All information received as a result of an investigation into a concern or a complaint will remain confidential to those involved in the process and those who may need to be consulted in order to reach an appropriate outcome. However, it should be noted that, in the interests of natural justice, key individuals referred to in the complaint will be informed of the complaint and outcome. — [[cop-student-concerns-complaints-20-21.pdf#page=3|§1.7]]
+
+This statement seems to directly contradict the course of action taken in the course of this investigation. The final sentence refers, again, not to witness statements supporting the named complaint. The complainee would only, under this section, be entitled to know a) what the nature of the complaint was, and b) what the outcome of the process was. 
+
+This only makes sense. By means of comparison (although by no means am I comparing the severity of these different kinds of complaint)
