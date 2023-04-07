@@ -86,7 +86,7 @@ On discussion with this witness it transpires that whilst he was initially conta
 
 >[!TODO] Get the email logs from Mark
 
-Mr Mingard and myself feel that this request for testimony was not pursued with an appropriate degree of persistence. Upon struggling to contact Mr Mingard, for example, why did the IO at some point during our frequent correspondence ask me whether or not Mr Mingard was still willing to supply testimony? Nor did he ask me to get in contact with Mr Mingard on his behalf so I could 
+Mr Mingard and myself feel that this request for testimony was not pursued with an appropriate degree of persistence. Upon struggling to contact Mr Mingard, for example, why did the IO at some point during our frequent correspondence ask me whether or not Mr Mingard was still willing to supply testimony? Nor did he ask me to get in contact with Mr Mingard on his behalf so I could facilitate finding a good line of communication between them?
 
 ### Regarding Character Testimonies
 
