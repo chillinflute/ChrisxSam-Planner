@@ -82,8 +82,7 @@ Additionally, if Mr Rosina is entitled to know what he is being accused of and b
 
 A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=17|Formal Complaint (pg. 17)]] as the individual who would be submitting a statement after Christmas, and in the [[Correspondance Between Complainant and IO.pdf#page=7|email communication (pg. 7)]], was not present in the report.
 
-> [!TODO]
-> Find out what's going on here. Was Mark contacted? Why didn't Aengus come to me when he didn't get a response?
+On discussion with this witness it transpires that whilst he was initially contacted for his testimony, to which he sent a reply, the responding email bounced. The exact technological problem at fault is not clear, although seemingly some kind of server error caused the issue. 
 
 ### Regarding Character Testimonies
 
