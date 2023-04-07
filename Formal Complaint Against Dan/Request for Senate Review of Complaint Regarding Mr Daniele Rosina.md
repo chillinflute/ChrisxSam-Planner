@@ -100,15 +100,15 @@ Had I been given the opportunity to provide my own character references, attesti
 
 There are multiple occurences within the document where witness testimony is presented in such a vague manner that it is impossible to draw meaningful conclusions from it. I again refer to my point about my own right to reply if others have been making aspersions against my character in the course of them giving testimony that I mentioned in the section [[#regarding anonymity of witnesses]].
 
-> \[...\] the commentary from ==members of the orchestra then present== does not contest this assertion — [[Christopher Hill complaint School final.pdf#page=4|IO Report pg. 4]]
+> \[...\] the commentary from ==members of the orchestra then present== does not contest this assertion — [[Christopher Hill complaint School final.pdf#page=4|IO Report pg. 4]] (emphasis own)
 
-> ==Various people== present confirmed the nature of the interaction, but were not able to confirm the content of it. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]]
+> ==Various people== present confirmed the nature of the interaction, but were not able to confirm the content of it. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]] (emphasis own)
 
-> For context, I have been told by ==various parties== that there is both a tacit, and explicit (https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) understanding that participation in the full concert requires full participation in the dress rehearsal. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]] 
+> For context, I have been told by ==various parties== that there is both a tacit, and explicit (https://docs.google.com/forms/d/e/1FAIpQLSddKRs7qcaOatA0KQLyvGEtumWsFykZ4h2WA9dn0XQNzYEvcQ/viewform) understanding that participation in the full concert requires full participation in the dress rehearsal. — [[Christopher Hill complaint School final.pdf#page=5|IO Report pg. 5]] (emphasis own)
 
-> ==Several of the witnesses== expressed surprise that any absence from dress rehearsals had been asked for, or granted. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
+> ==Several of the witnesses== expressed surprise that any absence from dress rehearsals had been asked for, or granted. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] (emphasis own)
 
-> ==Witnesses speak of== Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] 
+> ==Witnesses speak of== Mr. Rosina’s tone of voice and clear exasperation which caused the orchestra to fall silent, and Mr. Hill’s disrespectful tone in addressing Mr. Rosina. — [[Christopher Hill complaint School final.pdf#page=6|IO Report pg. 6]] (emphasis own)
 
 In all of these incidences, the language implies a general consensus of multiple parties agreeing on an absolute version of events. This, I believe, grossly misrepresents the degree of consensus about these events, especially in light of the inability of witnesses to testify against Mr Rosina anonymously. Looking over the list of witnesses, for example, only one member of the orchestra is listed, so how can there be numerous witnesses to these events? 
 
