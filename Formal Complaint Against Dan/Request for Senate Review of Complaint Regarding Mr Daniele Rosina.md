@@ -84,9 +84,9 @@ A witness statement from Mark Mingard, mentioned in my [[Formal Complaint Agains
 
 On discussion with this witness, it transpires that whilst he was initially contacted for his testimony, to which he sent a reply, the responding email bounced. The exact technological problem at fault is not clear, although seemingly some kind of server error caused the issue. 
 
->[!TODO] Get the email logs from Mark
-
 Mr Mingard and I feel that this request for testimony was not pursued with an appropriate degree of persistence. Upon struggling to contact Mr Mingard, for example, why did the IO at some point during our frequent correspondence ask me whether or not Mr Mingard was still willing to supply testimony? Nor did he ask me to get in contact with Mr Mingard on his behalf so I, sould facilitate finding a good line of communication between them?
+
+Mr Mingard has provided a statement which is attached to this complaint: [[Mark Mingard Statement.odt]]. 
 
 ### Regarding the Treatment of the Testimony of Amira Campbell
 
