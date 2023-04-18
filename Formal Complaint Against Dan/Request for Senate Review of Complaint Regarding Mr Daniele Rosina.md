@@ -12,6 +12,28 @@ The issues taken with the Response provided by the IO are given on the [[Review 
 
 This document will detail these issues one by one in a depth better suited to a standalone document than the limited space available in the [[Review Panel Form Christopher Hill.doc|SRPSF]].  
 
+### Attached Documentation
+
+The following is a list by filename of all the attached documentation attached to this complaint in support thereof (including this document):
+
+```
+Amira Campbell Statement.docx
+Chris Hill Reasonable Adjustment Plan.pdf
+Christopher Hill complaint School final.pdf
+Communication from Gavin Allsop Regarding Dress Rehearsal Absence.pdf
+Concern Review Form.doc
+cop-student-concerns-complaints-20-21.pdf
+Correspondance Between Complainant and IO.pdf
+Formal Complaint Against Mr Daniele Rosina.pdf
+Fwd Advice on piece for Soloist competition.pdf
+Fwd_ Advice on piece for Soloist competition.eml
+Mark Mingard Statement.odt
+RE_ This week schedule (Jun22).eml
+Record of interview with Chris Hill 6 Fbnruary 2023.docx
+Review Panel Form Christopher Hill.doc
+University of Birmingham bullying.pdf
+```
+
 ### Regarding the IO
 
 I would like it known that I have no personal complaint against the IO. Throughout the course of this process they were exemplary in their kindness and consideration of my case, and discussions with them were as pleasant as a discussion of such a distressing nature could be reasonably made to be, and they were particularly good at detailing the steps of the formal process, and being considerate of the factors that could help me navigate the process in accordance with my [[Chris Hill Reasonable Adjustment Plan.pdf|RAP]]. The nature of my complaint here regarding their report is purely to do with what I see as failings of the report produced by them, matters of the process of producing said report, and what I see as logical and procedural failings in the content of that report.  
