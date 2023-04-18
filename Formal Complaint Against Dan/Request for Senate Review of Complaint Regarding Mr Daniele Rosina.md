@@ -118,7 +118,9 @@ Despite the IO having a face-to-face meeting with Ms Campbell, as well as subseq
 
 Ms Campbell has provided a statement which is attached to this complaint: [[Amira Campbell Statement.docx]]. 
 
-### Regarding the Treatment of the Testimony of Sam Pollacc
+### Regarding the Treatment of the Testimony of Sam Pollacco
+
+Ms Pollacco similarly feels as if her testimony, supplied to the IO via email (see [[FW_ Complaint by Chris Hill.eml]]), was disregarded, as it seems to her to have had little impact on the presentation of the events by the IO in the report. 
 
 ### Regarding Character Testimonies
 
