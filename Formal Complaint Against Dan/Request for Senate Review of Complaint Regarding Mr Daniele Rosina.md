@@ -27,6 +27,7 @@ Correspondance Between Complainant and IO.pdf
 Formal Complaint Against Mr Daniele Rosina.pdf
 Fwd Advice on piece for Soloist competition.pdf
 Fwd_ Advice on piece for Soloist competition.eml
+FW_ Complaint by Chris Hill.eml
 Mark Mingard Statement.odt
 RE_ This week schedule (Jun22).eml
 Record of interview with Chris Hill 6 Fbnruary 2023.docx
@@ -116,6 +117,8 @@ Mr Mingard has provided a statement which is attached to this complaint: [[Mark 
 Despite the IO having a face-to-face meeting with Ms Campbell, as well as subsequent email correspondence, the key points of concern raised in those communications were not significantly addressed in the IO report. This is not merely my own opinion as the complainant, but one shared with Ms Campbell, who showed pronounced concern at the minimal impact her testimony had seemingly made on the findings of the IO. 
 
 Ms Campbell has provided a statement which is attached to this complaint: [[Amira Campbell Statement.docx]]. 
+
+### Regarding the Treatment of the Testimony of Sam Pollacc
 
 ### Regarding Character Testimonies
 
