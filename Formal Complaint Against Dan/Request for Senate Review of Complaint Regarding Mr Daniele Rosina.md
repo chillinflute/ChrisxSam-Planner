@@ -88,6 +88,10 @@ On discussion with this witness, it transpires that whilst he was initially cont
 
 Mr Mingard and I feel that this request for testimony was not pursued with an appropriate degree of persistence. Upon struggling to contact Mr Mingard, for example, why did the IO at some point during our frequent correspondence ask me whether or not Mr Mingard was still willing to supply testimony? Nor did he ask me to get in contact with Mr Mingard on his behalf so I, sould facilitate finding a good line of communication between them?
 
+### Regarding the Treatment of the Testimony of Amira Campbell
+
+
+
 ### Regarding Character Testimonies
 
 I had no idea until the release of the report that Mr Rosina would be receiving character testimonies from 7 different people, from within the University and externally. It particularly alarms me to note that among those listed are 3 teachers from the Royal Birmingham Conservatoire. Whilst I can understand that testimony from Mr Rosina's work colleagues makes sense as a good measure of his professional character, this also raises the very distinct possibility that my complaint has been discussed by Mr Rosina with music professionals outside the University, which is exactly among the fears I express of professional repercussions for making this complaint that I raise in my [[Formal Complaint Against Mr Daniele Rosina.pdf#page=2|Formal Complaint (pg. 2)]], and that many others cited as their reason to wish to remain anonymous. 
