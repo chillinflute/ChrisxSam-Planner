@@ -90,7 +90,9 @@ Mr Mingard has provided a statement which is attached to this complaint: [[Mark 
 
 ### Regarding the Treatment of the Testimony of Amira Campbell
 
-Despite the IO having a face-to-face meeting with Ms Campbell, as well as subsequent email correspondance, the key points of concern raised in those communications were not significantly addressed in the IO report. This is not merely my own opinion as the complainant, but one shared with Ms Campbell who showed pronounced concern at the minimal impact her testimony had seemingly made on the findings of the IO wh
+Despite the IO having a face-to-face meeting with Ms Campbell, as well as subsequent email correspondance, the key points of concern raised in those communications were not significantly addressed in the IO report. This is not merely my own opinion as the complainant, but one shared with Ms Campbell who showed pronounced concern at the minimal impact her testimony had seemingly made on the findings of the IO. 
+
+Ms Campbell has provided a statement which is attached to this complaint: [[Amira Campbell Statement.docx]]. 
 
 ### Regarding Character Testimonies
 
