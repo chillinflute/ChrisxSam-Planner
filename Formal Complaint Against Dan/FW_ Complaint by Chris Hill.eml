@@ -1,0 +1,698 @@
+Received: from LOYP265MB2127.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:121::11)
+ by LNXP265MB1689.GBRP265.PROD.OUTLOOK.COM with HTTPS; Tue, 21 Mar 2023
+ 01:08:59 +0000
+Received: from LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:121::13)
+ by LOYP265MB2127.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:121::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6178.37; Tue, 21 Mar
+ 2023 01:08:59 +0000
+Received: from LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::a8a0:d254:4c97:d5ab]) by LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::a8a0:d254:4c97:d5ab%3]) with mapi id 15.20.6178.037; Tue, 21 Mar 2023
+ 01:08:59 +0000
+From: "Samantha Pollacco (BMus Music)" <sep158@student.bham.ac.uk>
+To: "Christopher Hill (PhD Performance Practice FT)"
+	<CJH956@student.bham.ac.uk>
+Subject: FW: Complaint by Chris Hill
+Thread-Topic: Complaint by Chris Hill
+Thread-Index: AdlKynFSu5zIV1xsQqqFHaD8r0zEmwABcDkbADj/x+cD92AjgQ==
+Date: Tue, 21 Mar 2023 01:08:59 +0000
+Message-ID:
+	<LOYP265MB2271C31431D0D654F0E35E37FD819@LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM>
+References:
+	<CWXP265MB527424C266DC375F6CD6C820AFAF9@CWXP265MB5274.GBRP265.PROD.OUTLOOK.COM>
+ <LOYP265MB227151A77CC3E50D6C10DE3DFDAF9@LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM>
+ <CWXP265MB52742ADB8AB2E2F08D542BF8AFAC9@CWXP265MB5274.GBRP265.PROD.OUTLOOK.COM>
+In-Reply-To:
+	<CWXP265MB52742ADB8AB2E2F08D542BF8AFAC9@CWXP265MB5274.GBRP265.PROD.OUTLOOK.COM>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	6d46dd89-a045-40f8-2514-08db29a8d9f1
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=student.bham.ac.uk;
+x-ms-office365-filtering-correlation-id: 6d46dd89-a045-40f8-2514-08db29a8d9f1
+x-ms-traffictypediagnostic: LOYP265MB2271:EE_|LOYP265MB2127:EE_
+x-ms-exchange-transport-crosstenantheadersstamped: LOYP265MB2127
+x-forefront-antispam-report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+x-microsoft-antispam: BCL:0;
+x-ms-exchange-crosstenant-originalarrivaltime: 21 Mar 2023 01:08:59.0137 (UTC)
+x-ms-exchange-crosstenant-network-message-id:
+	6d46dd89-a045-40f8-2514-08db29a8d9f1
+x-ms-exchange-crosstenant-id: b024cacf-dede-4241-a15c-3c97d553e9f3
+x-ms-exchange-crosstenant-fromentityheader: Hosted
+x-ms-exchange-crosstenant-authas: Internal
+x-ms-exchange-crosstenant-authsource: LOYP265MB2271.GBRP265.PROD.OUTLOOK.COM
+x-ms-exchange-crosstenant-mailboxtype: HOSTED
+x-ms-exchange-crosstenant-userprincipalname:
+	F55UhYz6PHIHyKVm588dTJ8wRCtItL0bNeJ0oOHH4UMq/TkI38/b9ykbMK/S6Pt9RC4e69A/K5IcghdESmRdXBwEU/BQssi/CAofIicd8tc=
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+	/BKz20wH+e2QQqfFgFvOE5Dmy6liYwKItSZyJJUgL4qVOAIMS/BHh/W/OON5P8+i0Zjog4HLX61D55s+buMuTttCr5pY1fEqIq7AQAxMuUglwwb12ulK2V8tuGj8IjWA0EY8N8XclmkKCjC6AtoBcVdpPWt4ojuwn14kG1PAA14GZjzExlqw10FPg92ZQyR95h/mv1uH3TCxNHkQXH65Lx8IYsaHpWMEotVQSUNT8Bmqrmrh6nErQ/jVUPebjzSC7B37R+WKESR7wMph1x14vAcLnFTt90nku0u6isrs+TMaIKa/okbICkIL4pfXmNRoLlCbgcE8CkG4vLOR2qI68Ig6jE0n/qWSRdLC3Yda1Koa0tzuxxVzOcNAfGXSIk+ldaY6QkveBkqXxQpWeAcpQkWKuSFoAhIz7RsiULnIa818CgxoenT/qg1TnHDUp/kd3dsNZ5//SoqZ2nTQvpFZnin8ALzDnsRSBtF0LIpkwpcrWQVgVQCMO0QIPgFAwFjMiWkcblDDoyrony5Sh8uQjg7UE0lO/OxZTP/eHD0vgxUFsTqpOnRx+Ncy0d/zPzveO0C1IQaeQVHpRJUr1d5c/bAl9KTCQuuyRsKvmF5R0o45G2v4epyajULUjweVnRbWNENqFDl2Baw/9RPBX9RFir0jGBnrLS+rtvVbQ8asvc/+AgOMZAFR+qXKk7a3xDoCYzTt8UwWmrcgdbO6Tym6a1GjGFHkYOrAB+PWo/pw0UfOLwmQJ2eAJKy9XKwBu+gF
+Content-Type: multipart/alternative;
+	boundary="_000_LOYP265MB2271C31431D0D654F0E35E37FD819LOYP265MB2271GBRP_"
+MIME-Version: 1.0
+
+--_000_LOYP265MB2271C31431D0D654F0E35E37FD819LOYP265MB2271GBRP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+From: Aengus Ward (Modern Languages) <a.m.m.ward@bham.ac.uk>
+Date: Tuesday, 28 February 2023 at 20:36
+To: Samantha Pollacco (BMus Music) <sep158@student.bham.ac.uk>
+Subject: Re: Complaint by Chris Hill
+Dear Sam,
+
+Yes, thank you for that. This is more than enough detail, so thank you very=
+ much for being so thorough. I'll make sure I go through it very carefully =
+and if there is anything else that occurs to me for clarification, I'll get=
+ back in touch.
+
+Thanks again for your time.
+
+Aengus
+________________________________
+From: Samantha Pollacco (BMus Music) <sep158@student.bham.ac.uk>
+Sent: 27 February 2023 19:49
+To: Aengus Ward (Modern Languages) <a.m.m.ward@bham.ac.uk>
+Subject: Re: Complaint by Chris Hill
+
+
+Hi Aengus,
+
+
+
+Thank you for your email. Yes, I have spoken to Chris at length about this =
+situation and am happy to give you my account of last year=92s events.
+
+
+
+I wrote quite a thorough statement for Chris=92s formal complaint document =
+(I believe mine is the first one, Appendix 1), though at the time I was hop=
+ing to keep my name anonymous; I thought giving a statement for Chris might=
+ affect my potential involvement in one of the university=92s orchestras, a=
+nd for the foreseeable should I want a performance career. I am also on the=
+ Music Society Committee, and so feel obligated as such to keep any relatio=
+nship with Mr Rosina cordial. However, if this is the only way in which the=
+ system will allow me to give my account then so be it. I can only hope tha=
+t your investigation will mitigate those risks.
+
+
+
+The statement I have already written is in Chris=92s big complaint document=
+, as I say =97 it was more an attempt to summarise the effects I had seen i=
+n Chris over the year than an exact account of the events (I was not in the=
+ orchestra last year, after all, and so witnessed a limited amount of Mr Ro=
+sina=92s behaviour), but I am more than happy to precisely describe what I =
+witnessed on the days in question. I will try to be as thorough as I can, s=
+o I apologise for any overlap with my previous statement.
+
+
+
+The events of 6th June were the clearest incidence in which I saw Mr Rosina=
+=92s harassment. I was hoping to catch Chris before he had to dash off afte=
+r orchestra rehearsal, just so I could greet him as it was his birthday. He=
+=92d confided in me that he had been worried before the rehearsal about nee=
+ding to leave it promptly as he had a CBSO Chorus rehearsal afterwards, and=
+ since they awarded him a bursary to take part, it was important that he ge=
+t there in time (I think orchestra finished at 6:30pm and his next rehearsa=
+l started at 6:45pm at the CBSO Centre, so there just wasn=92t enough time =
+for Chris to arrive punctually even if he did leave immediately). When it r=
+eached 6:45pm and Chris still hadn=92t come out of the Elgar (several other=
+ orchestra members had left, but not Chris), I was getting concerned, so I =
+went into the hall to see if he was alright. I opened the door to the hall =
+and Chris and Mr Rosina were right there in a very heated exchange. I don=
+=92t remember many details of the conversation as I was a bit taken aback a=
+nd didn=92t wish to interrupt, but the manner of each of them was quite cle=
+ar: Mr Rosina seemed very accusatory and agitated, whereas Chris more calm =
+but somewhat exasperated. The only exact comment I can recall is something =
+to the effect of Mr Rosina asking Chris if he was accusing him of favouriti=
+sm and Chris dismissing this, seeming in a hurry to leave. I thought it bes=
+t that I leave the hall again, not really knowing the context and not wanti=
+ng any part in the confrontation.
+
+                While I waited outside again, there was a further 5 minutes=
+ before Chris emerged, in which time I spoke to a few members of the orches=
+tra who had seen the events of the rehearsal (and the ongoing interaction a=
+s they departed) and expressed sympathy for Chris, despite Chris, as a post=
+grad, not being particularly socially integrated with them. When Chris fina=
+lly walked out, he was visibly very upset and frustrated; it took several o=
+f us to speak to him and reassure him before he was in any state to cycle (=
+these were mostly Chris=92s friends and I, Amira Campbell and Mark Mingard =
+were also there and were the only ones willing to give their names when Chr=
+is began writing his complaint =97 there were at least a further three memb=
+ers of orchestra present but I don=92t think I can give their names, as the=
+y didn=92t want to be involved with Chris=92s complaint in case it jeopardi=
+sed their position in orchestra, or, indeed, their professional careers). W=
+e were very conscious of Chris=92s bike accident a few months prior and wer=
+e determined that he didn=92t leave until he was in a better frame of mind,=
+ which took somewhere between 10 and 40 minutes (I wasn=92t checking the cl=
+ock naturally, but I recall because I had a rehearsal at 8pm and Chris had =
+only definitely departed half an hour or so before that).
+
+The whole fiasco left Chris very bothered and upset =97 we discussed it lat=
+er that evening after both of our rehearsals had ended, and Chris decided h=
+e would recount the events to Rachael Gibson the following day. I was prese=
+nt for this meeting, as moral support. I believe the result of this meeting=
+ was a little vague: Chris was advised to avoid Mr Rosina as much as was po=
+ssible (despite the biweekly, then practically daily, rehearsals the week o=
+f the concert), and it was implied that Mr Rosina would be spoken to about =
+the incident. I imagine a more precise minutes of the meeting was taken, as=
+ Rachael did take notes to put on the University Music system.
+
+
+
+I have less to recount, really, about June 24th; I did not witness any of M=
+r Rosina=92s behaviour, I can only testify to the state it left Chris in af=
+terwards. I was holding a workspace for Chris in the Bramall, so that when =
+Chris left the rehearsal (to my memory, he had had to leave early to teach,=
+ but had sorted all of this through Gavin) he could immediately attend to h=
+is teaching commitments, which he delivered over Zoom. Due to this, when Ch=
+ris had again not appeared in good time, I couldn=92t really leave the work=
+ area, as it would only delay Chris further when he did arrive. Finally Chr=
+is appeared, a few minutes after I expected him, and I can honestly say I=
+=92ve never seen him so anxious, humiliated and distressed =97 he had a pan=
+ic attack at this point. All I could do was comfort him, help him to breath=
+e, and hope to get him into his lesson in enough of a composed state to get=
+ through it, as there wasn=92t time to discuss it yet and I knew some of Ch=
+ris=92s concern was due to his role as a tutor and not wanting to let down =
+his pupils. I sat opposite Chris as he taught his lesson, then we discussed=
+ the events of the rehearsal (I won=92t go into the events themselves, as I=
+ did not bear witness to them and I imagine Chris has already described the=
+m to you): he expressed his mental exhaustion, frustration and desperately =
+not wanting to perform in the concert that evening as a result of this but =
+feeling obliged to, and we, again, decided that he should speak to Rachael =
+about what had happened, who then persuaded him that he should perform but,=
+ again, avoid Mr Rosina at all costs. I couldn=92t attend the concert, as I=
+ had been ill with COVID recently, but I heard that there were no further c=
+onfrontations.
+
+                This was the end of the direct incidents with Mr Rosina, to=
+ my knowledge. I know Chris followed up with University Music, but they wer=
+e limited in what they could do. All of this led to Chris deciding ultimate=
+ly not to re-audition for his role as principal flute in orchestra again. I=
+ may be biased, as we are close, but with two fellowships in flute performa=
+nce and a long experience of playing in high-standard orchestras, it just s=
+eems such a shame for the university orchestra to have lost out on such a p=
+roficient player. Chris is probably too modest to have brought up to you ju=
+st how skilled a player he is, but in my honest view, he is by far the most=
+ qualified candidate for the role, which he had carried out for almost two =
+years before this whole debacle. His performance standard aside, as a stude=
+nt at the university, he should feel able to audition and take part in thes=
+e ensembles, but the thought of last year=92s incidents continuing was enou=
+gh for Chris to back out of the ensemble. In the end, I also ended up withd=
+rawing my application for orchestra in September, as I was worried that pur=
+ely by association I might be rejected/treated unfairly by Mr Rosina (this =
+is a common feeling in the Music Society =97 again, I can=92t mention names=
+ of people that don=92t want to be involved in this, but the orchestra has =
+faced a problem where the most talented players are hesitant to audition du=
+e to their knowledge that they are not liked by Mr Rosina). Chris and I are=
+ also keen chamber musicians, playing in a saxophone quartet and as a duo, =
+but due to these past incidents we haven=92t felt confident that should we =
+take part in things like chamber platforms that only Mr Rosina presides ove=
+r, we would get any valuable feedback.
+
+
+
+I hope this is enough detail on the incidents in question, as well as the s=
+ituation, as I understand it, since =97 if you have any other questions, I =
+would be happy to answer them.
+
+
+
+All the best,
+
+Sam
+
+
+
+From: Aengus Ward (Modern Languages) <a.m.m.ward@bham.ac.uk>
+Date: Monday, 27 February 2023 at 16:42
+To: Samantha Pollacco (BMus Music) <sep158@student.bham.ac.uk>
+Subject: Complaint by Chris Hill
+
+Dear Sam (if I may),
+
+
+
+I am Professor Aengus Ward, Deputy Head of School of the School of Language=
+s, Cultures, Art History and Music here at the University of Birmingham. As=
+ you may have heard, Dan Rosina is subject to a complaint made by a postgra=
+duate student, and member of the University Orchestra, Chris Hill and I hav=
+e been tasked to investigate. Chris has suggested I contact you as he says =
+you were present on at least one of the occasions which give rise to the co=
+mplaint =96 and in particular, the dress rehearsal for the university conce=
+rt on 24th June last year. The substance of the complaint is that Dan engag=
+ed in activity which can be construed as bullying and harassment of Chris H=
+ill. I would be grateful if you were able to give me your view of the incid=
+ent that occurred that day, and any other relevant information.
+
+
+
+All the best,
+
+
+
+Aengus
+
+
+
+
+
+
+
+Professor Aengus Ward (he/him)
+
+
+
+Department of Modern Languages
+
+Schoool of Languages, Cultures, Art History and Music
+
+College of Arts and Law
+
+University of Birmingham
+
+Birmingham B15 2TT
+
+
+
+Estoria de Espanna Digital<estoria.bham.ac.uk>
+
+Transcribe Estoria<transcribeestoria.bham.ac.uk>
+
+@EstoriadEspanna<https://twitter.com/estoriadespanna?lang=3Den>
+
+
+
+
+
+
+
+--_000_LOYP265MB2271C31431D0D654F0E35E37FD819LOYP265MB2271GBRP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Book Antiqua";
+	panose-1:2 4 6 2 5 3 5 3 3 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin:0cm;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-GB" link=3D"#0563C1" vlink=3D"purple" style=3D"word-wrap:b=
+reak-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-US"><o:p>&nbs=
+p;</o:p></span></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-size:12.0pt;color:black">From:
+</span></b><span style=3D"font-size:12.0pt;color:black">Aengus Ward (Modern=
+ Languages) &lt;a.m.m.ward@bham.ac.uk&gt;<br>
+<b>Date: </b>Tuesday, 28 February 2023 at 20:36<br>
+<b>To: </b>Samantha Pollacco (BMus Music) &lt;sep158@student.bham.ac.uk&gt;=
+<br>
+<b>Subject: </b>Re: Complaint by Chris Hill<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black">Dear Sam,&nbsp;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black">Yes, thank you for that. This is more than enough detai=
+l, so thank you very much for being so thorough. I'll make sure I go throug=
+h it very carefully and if there is anything
+ else that occurs to me for clarification, I'll get back in touch.<o:p></o:=
+p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black">Thanks again for your time.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+12.0pt;color:black">Aengus&nbsp;<o:p></o:p></span></p>
+</div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"0" width=3D"100%" align=3D"center">
+</div>
+<div id=3D"divRplyFwdMsg">
+<p class=3D"MsoNormal"><b><span style=3D"color:black">From:</span></b><span=
+ style=3D"color:black"> Samantha Pollacco (BMus Music) &lt;sep158@student.b=
+ham.ac.uk&gt;<br>
+<b>Sent:</b> 27 February 2023 19:49<br>
+<b>To:</b> Aengus Ward (Modern Languages) &lt;a.m.m.ward@bham.ac.uk&gt;<br>
+<b>Subject:</b> Re: Complaint by Chris Hill</span> <o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">Hi Aengus,</span><=
+o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">Thank you for your=
+ email. Yes, I have spoken to Chris at length about this situation and am h=
+appy to give you my account of last year=92s events.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">I wrote quite a th=
+orough statement for Chris=92s formal complaint document (I believe mine is=
+ the first one, Appendix 1), though at the time I was hoping to keep my nam=
+e anonymous; I thought giving a statement
+ for Chris might affect my potential involvement in one of the university=
+=92s orchestras, and for the foreseeable should I want a performance career=
+. I am also on the Music Society Committee, and so feel obligated as such t=
+o keep any relationship with Mr Rosina
+ cordial. However, if this is the only way in which the system will allow m=
+e to give my account then so be it. I can only hope that your investigation=
+ will mitigate those risks.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">The statement I ha=
+ve already written is in Chris=92s big complaint document, as I say =97 it =
+was more an attempt to summarise the effects I had seen in Chris over the y=
+ear than an exact account of the events
+ (I was not in the orchestra last year, after all, and so witnessed a limit=
+ed amount of Mr Rosina=92s behaviour), but I am more than happy to precisel=
+y describe what I witnessed on the days in question. I will try to be as th=
+orough as I can, so I apologise for
+ any overlap with my previous statement.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">The events of 6<su=
+p>th</sup> June were the clearest incidence in which I saw Mr Rosina=92s ha=
+rassment. I was hoping to catch Chris before he had to dash off after orche=
+stra rehearsal, just so I could greet
+ him as it was his birthday. He=92d confided in me that he had been worried=
+ before the rehearsal about needing to leave it promptly as he had a CBSO C=
+horus rehearsal afterwards, and since they awarded him a bursary to take pa=
+rt, it was important that he get there
+ in time (I think orchestra finished at 6:30pm and his next rehearsal start=
+ed at 6:45pm at the CBSO Centre, so there just wasn=92t enough time for Chr=
+is to arrive punctually even if he did leave immediately). When it reached =
+6:45pm and Chris still hadn=92t come
+ out of the Elgar (several other orchestra members had left, but not Chris)=
+, I was getting concerned, so I went into the hall to see if he was alright=
+. I opened the door to the hall and Chris and Mr Rosina were right there in=
+ a very heated exchange. I don=92t
+ remember many details of the conversation as I was a bit taken aback and d=
+idn=92t wish to interrupt, but the manner of each of them was quite clear: =
+Mr Rosina seemed very accusatory and agitated, whereas Chris more calm but =
+somewhat exasperated. The only exact
+ comment I can recall is something to the effect of Mr Rosina asking Chris =
+if he was accusing him of favouritism and Chris dismissing this, seeming in=
+ a hurry to leave. I thought it best that I leave the hall again, not reall=
+y knowing the context and not wanting
+ any part in the confrontation.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wh=
+ile I waited outside again, there was a further 5 minutes before Chris emer=
+ged, in which time I spoke to a few members of the orchestra who had seen t=
+he events of the rehearsal (and the
+ ongoing interaction as they departed) and expressed sympathy for Chris, de=
+spite Chris, as a postgrad, not being particularly socially integrated with=
+ them. When Chris finally walked out, he was visibly very upset and frustra=
+ted; it took several of us to speak
+ to him and reassure him before he was in any state to cycle (these were mo=
+stly Chris=92s friends and I, Amira Campbell and Mark Mingard were also the=
+re and were the only ones willing to give their names when Chris began writ=
+ing his complaint =97 there were at
+ least a further three members of orchestra present but I don=92t think I c=
+an give their names, as they didn=92t want to be involved with Chris=92s co=
+mplaint in case it jeopardised their position in orchestra, or, indeed, the=
+ir professional careers). We were very
+ conscious of Chris=92s bike accident a few months prior and were determine=
+d that he didn=92t leave until he was in a better frame of mind, which took=
+ somewhere between 10 and 40 minutes (I wasn=92t checking the clock natural=
+ly, but I recall because I had a rehearsal
+ at 8pm and Chris had only definitely departed half an hour or so before th=
+at). </span>
+<o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"text-indent:36.0pt"><span style=3D"font-si=
+ze:11.0pt">The whole fiasco left Chris very bothered and upset =97 we discu=
+ssed it later that evening after both of our rehearsals had ended, and Chri=
+s decided he would recount the events to
+ Rachael Gibson the following day. I was present for this meeting, as moral=
+ support. I believe the result of this meeting was a little vague: Chris wa=
+s advised to avoid Mr Rosina as much as was possible (despite the biweekly,=
+ then practically daily, rehearsals
+ the week of the concert), and it was implied that Mr Rosina would be spoke=
+n to about the incident. I imagine a more precise minutes of the meeting wa=
+s taken, as Rachael did take notes to put on the University Music system.</=
+span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">I have less to rec=
+ount, really, about June 24<sup>th</sup>; I did not witness any of Mr Rosin=
+a=92s behaviour, I can only testify to the state it left Chris in afterward=
+s. I was holding a workspace for Chris
+ in the Bramall, so that when Chris left the rehearsal (to my memory, he ha=
+d had to leave early to teach, but had sorted all of this through Gavin) he=
+ could immediately attend to his teaching commitments, which he delivered o=
+ver Zoom. Due to this, when Chris
+ had again not appeared in good time, I couldn=92t really leave the work ar=
+ea, as it would only delay Chris further when he did arrive. Finally Chris =
+appeared, a few minutes after I expected him, and I can honestly say I=92ve=
+ never seen him so anxious, humiliated
+ and distressed =97 he had a panic attack at this point. All I could do was=
+ comfort him, help him to breathe, and hope to get him into his lesson in e=
+nough of a composed state to get through it, as there wasn=92t time to disc=
+uss it yet and I knew some of Chris=92s
+ concern was due to his role as a tutor and not wanting to let down his pup=
+ils. I sat opposite Chris as he taught his lesson, then we discussed the ev=
+ents of the rehearsal (I won=92t go into the events themselves, as I did no=
+t bear witness to them and I imagine
+ Chris has already described them to you): he expressed his mental exhausti=
+on, frustration and desperately not wanting to perform in the concert that =
+evening as a result of this but feeling obliged to, and we, again, decided =
+that he should speak to Rachael
+ about what had happened, who then persuaded him that he should perform but=
+, again, avoid Mr Rosina at all costs. I couldn=92t attend the concert, as =
+I had been ill with COVID recently, but I heard that there were no further =
+confrontations.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Th=
+is was the end of the direct incidents with Mr Rosina, to my knowledge. I k=
+now Chris followed up with University Music, but they were limited in what =
+they could do. All of this led to Chris
+ deciding ultimately not to re-audition for his role as principal flute in =
+orchestra again.&nbsp;I may be biased, as we are close, but with two fellow=
+ships in flute performance and a long experience of playing in high-standar=
+d orchestras, it just seems such a shame
+ for the university orchestra to have lost out on such a proficient player.=
+ Chris is probably too modest to have brought up to you just how skilled a =
+player he is, but in my honest view, he is by far the most qualified candid=
+ate for the role, which he had carried
+ out for almost two years before this whole debacle. His performance standa=
+rd aside, as a student at the university, he should feel able to audition a=
+nd take part in these ensembles, but the thought of last year=92s incidents=
+ continuing was enough for Chris to
+ back out of the ensemble. In the end, I also ended up withdrawing my appli=
+cation for orchestra in September, as I was worried that purely by associat=
+ion I might be rejected/treated unfairly by Mr Rosina (this is a common fee=
+ling in the Music Society =97 again,
+ I can=92t mention names of people that don=92t want to be involved in this=
+, but the orchestra has faced a problem where the most talented players are=
+ hesitant to audition due to their knowledge that they are not liked by Mr =
+Rosina). Chris and I are also keen chamber
+ musicians, playing in a saxophone quartet and as a duo, but due to these p=
+ast incidents we haven=92t felt confident that should we take part in thing=
+s like chamber platforms that only Mr Rosina presides over, we would get an=
+y valuable feedback.</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">I hope this is eno=
+ugh detail on the incidents in question, as well as the situation, as I und=
+erstand it, since =97 if you have any other questions, I would be happy to =
+answer them.
+</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">All the best,</spa=
+n><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">Sam</span><o:p></o=
+:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"xmsonormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fo=
+nt-size:12.0pt;color:black">From:
+</span></b><span style=3D"font-size:12.0pt;color:black">Aengus Ward (Modern=
+ Languages) &lt;a.m.m.ward@bham.ac.uk&gt;<br>
+<b>Date: </b>Monday, 27 February 2023 at 16:42<br>
+<b>To: </b>Samantha Pollacco (BMus Music) &lt;sep158@student.bham.ac.uk&gt;=
+<br>
+<b>Subject: </b>Complaint by Chris Hill</span><o:p></o:p></p>
+</div>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">Dear Sam (if I may),</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">I am Professor Aengus Ward, Deputy Head of School =
+of the School of Languages, Cultures, Art History and Music here at the Uni=
+versity of Birmingham. As you may have heard,
+ Dan Rosina is subject to a complaint made by a postgraduate student, and m=
+ember of the University Orchestra, Chris Hill and I have been tasked to inv=
+estigate. Chris has suggested I contact you as he says you were present on =
+at least one of the occasions which
+ give rise to the complaint =96 and in particular, the dress rehearsal for =
+the university concert on 24<sup>th</sup> June last year. The substance of =
+the complaint is that Dan engaged in activity which can be construed as bul=
+lying and harassment of Chris Hill.
+ I would be grateful if you were able to give me your view of the incident =
+that occurred that day, and any other relevant information.
+</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">All the best,</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">Aengus</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:12.0pt;font-family:&quot;B=
+ook Antiqua&quot;,serif">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"margin-bottom:7.5pt;line-height:20.25pt;ba=
+ckground:white">
+<b><span lang=3D"EN" style=3D"font-size:11.0pt;font-family:&quot;Arial&quot=
+;,sans-serif;color:#434343">Professor Aengus Ward (he/him)</span></b><b><sp=
+an lang=3D"EN" style=3D"font-size:13.5pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:#434343">
+</span></b><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#434343">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#434343">Department of Modern Languages</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">Schoool of Languages, Cultures, Art History and Music</s=
+pan><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">College of Arts and Law</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">University of Birmingham</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"ES" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">Birmingham B15 2TT</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"ES" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><a href=3D"estoria.bham.=
+ac.uk"><span lang=3D"ES" style=3D"font-size:11.0pt;line-height:115%;font-fa=
+mily:&quot;Arial&quot;,sans-serif;color:blue">Estoria de Espanna Digital</s=
+pan></a><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><a href=3D"transcribeest=
+oria.bham.ac.uk"><span lang=3D"EN" style=3D"font-size:11.0pt;line-height:11=
+5%;font-family:&quot;Arial&quot;,sans-serif;color:blue">Transcribe Estoria<=
+/span></a><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><a href=3D"https://twitt=
+er.com/estoriadespanna?lang=3Den"><span lang=3D"EN" style=3D"font-size:11.0=
+pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;color:blue">@E=
+storiadEspanna</span></a><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404040">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal" style=3D"line-height:115%"><span lang=3D"EN" style=
+=3D"font-size:11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#434343;background:white">&nbsp;</span><o:p></o:p></p>
+<p class=3D"xmsonormal"><span style=3D"font-size:11.0pt">&nbsp;</span><o:p>=
+</o:p></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_LOYP265MB2271C31431D0D654F0E35E37FD819LOYP265MB2271GBRP_--
