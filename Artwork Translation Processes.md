@@ -18,7 +18,4 @@ Score -- Studied by some --> Audience
 Art -- Is observed --> Audience
 Musicians & Recording -- Listens to performance --> Audience
 ```
-```mermaid
-graph TD
-a --> b
-```
+
