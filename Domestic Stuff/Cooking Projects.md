@@ -19,5 +19,5 @@
 # Recipes
 
 ```dataview
-LIST FROM "Domestic Stuff/Recipes"
+LIST FROM "Shared/Domestic Stuff/Recipes"
 ```
