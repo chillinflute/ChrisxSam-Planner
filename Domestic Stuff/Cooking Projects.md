@@ -34,5 +34,4 @@
 
 ```dataview
 LIST FROM "Shared/Domestic Stuff/Recipes"
-SORT file.name ASC
 ```
