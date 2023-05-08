@@ -2,7 +2,11 @@
 
 ## Jar 1 (3L Kilner)
 
-- 
+- Purple [[Sauerkraut]]
+	- Full jar
+	- Started: [[2023-05-08]]
+	- Ready min: [[2023-05-22]]
+	- Save part as present for Steven and Amy, reserve in newly bought Kilner jar
 - ~~Cauliflower, Carrot, and Mooli~~
 	- ~~Matured~~
 
