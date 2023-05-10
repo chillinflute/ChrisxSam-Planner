@@ -2,6 +2,8 @@
 
 Your essay should make specific reference to your chosen jazz recordings through the use of notated musical examples and must meet the learning outcomes below.
 
+---
+
 # Introduction (500 words)
 
 It is only natural that musicologists attempt to establish distinctions between different styles of music. When certain pieces of music evoke different reactions in us and attract different audiences to them, it can be tempting to approach the evaluation of *why*, by breaking down the musical features that contribute to that effect. 
@@ -10,6 +12,7 @@ This essay will attempt to carry out a positivist analysis of two case studies o
 
 # Main Body
 ## To Whom It May Concern — Horace Silver and the Jazz Messengers (1955) (500 words)
+### Notes
 - HARD BOP
 - Alternating genres in A, B and C sections
 	- Flamenco (A) — slightly unsettling harmony, very minor. Alternating unison phrases in frontline
@@ -23,6 +26,7 @@ This essay will attempt to carry out a positivist analysis of two case studies o
 - Structure: Head (AABA), Solos, Head (AABA)
 - *Sources:*
 	- https://www.sheetmusicdirect.com/se/ID_No/502420/Product.aspx
+### Body
 
 What is commonly referred to as "hard bop" emerged in the mid-1950s ([[@rosenthalHardBopBegins1994|Rosenthal, 1994]]). It is said to have been a response to bebop, with its musicians wanting to reinstate some of jazz's African-American roots that they felt had been lost in contemporal performance [citation]. Thus, we can see some of the same features in hard bop, as those in both blues, and gospel styles. 
 
@@ -33,6 +37,7 @@ Figure 1
 
 
 ## Straphangin' — The Brecker Brothers (1981) (500 words)
+### Notes
 - JAZZ FUSION
 - The exploring of various different genres
 	- Rock-inspired funk — funky, syncopated bassline, heavy backbeat, interesting harmony (slightly strange tbh), semiquaver shuffle — section B, then C for the riff
@@ -55,6 +60,7 @@ Figure 1
 - *Sources:*
 	- https://www.youtube.com/watch?v=g8hANATkUkQ
 	- wikipedia
+### Body
 
 Whilst jazz fusion had already been fairly well-established by the 1980s — with Weather Report and Miles Davis having released albums pioneering the style a decade earlier ([[@madsen2021significant|Madsen, 2021]]) — fusion by nature offered a greater level of exploration and experimentation than any form of jazz that came before. Hybridising multiple genres leaves more elements at the disposal of the performer, meaning that such an umbrella term as "jazz fusion" opens the door to some vastly differing results. 
 
@@ -65,6 +71,7 @@ This transitions into a laid-back funk groove, through a held tension chord (V w
 For the solos, a riff is used to transition into the chord progression, and also to bridge between the solos. The chord progression at this point entirely follows jazz norms, filled with familiar cycle of fifths movement and ii-V-I patterns. Both Michael Brecker and Randy Brecker, despite their similar backgrounds, have vastly different approaches to improvising. Michael opens his solo with long syncopated guide tones, a soulful depth to his tone colour, and seamless direction from chord to chord. 
 
 ## Discussion of defining genres & some good criticial musicology (500 words)
+### Notes
 -> jazz fusion as a style is difficult to define concretely with musical features; it's more conceptual and practice-based than that, and encapsulates so many different, already-broad styles within it that to call any particular style emblematic would be inaccurate
 
 represented not through necessary and sufficient conditions of musical features — critical musicology vibes, THIS IS HOW YOU "GET GOOD GRADES"
@@ -72,6 +79,7 @@ represented not through necessary and sufficient conditions of musical features 
 the connection to style/genre is not straightforward, hybridisation of each jazz style
 
 social function of drawing together cultural practices
+### Body
 
 Gabbard's work on the jazz canon feels especially relevant to the conversation of epitomising jazz 'genre'; genre/style were applied retrospectively to jazz by historiographers, and can only have been compiled by utilising the broad strokes of the canon, thus intrinsically linking these conversations. Looking at Gabbard, his article *The Jazz Canon and Its Consequences* ([[@gabbard1995jazz|1995]]) discusses the necessary intersection of jazz and critical analysis, critising the formalist approach of "canonising based in an aesthetic of unity and coherence" (pg. 12). This discussion has long been held in relation to the broader Western art music canon, Kerman having instigated similar critiques against his musicologist contemporaries ([[@doi_10.1086_448101|1980]]). It becomes difficult to argue that the same should not be true of jazz. As Gabbard points out, value should not be placed on an artwork based on how well it exhibits the thematic structures expected of its style — leading us back to the way in which we evaluate jazz. Taking a posivist approach to analysis validates inherently flawed formalist ideas, therefore utilising another approach to considering these pieces is better at encompassing factors such as the backgrounds of the musicians involved, the performance/recording venue, and the attitudes to jazz, as a social construct, at the time.
 
