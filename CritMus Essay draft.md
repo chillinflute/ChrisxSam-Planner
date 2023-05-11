@@ -1,5 +1,5 @@
 ## intro
-Much of the world remains to be investigated ethnomusicologically. One location that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and previous rule means that its folk music draws from and develops on other traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles.
+Much of the world remains to be investigated ethnomusicologically %%why do you think?%%. One location that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and ==previous rule==%%history? dunno this doesn't read right somehow%% means that its folk music draws from and develops on other traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles.
 
 This thesis requires huge concentration on how cultural and national identity is cultivated through the means of music. [some bullshit]
 
