@@ -29,7 +29,7 @@ This essay will attempt to carry out a positivist analysis of two case studies o
 ### Body
 What is commonly referred to as "hard bop" emerged in the mid-1950s ([[@rosenthalHardBopBegins1994|Rosenthal, 1994]]). It is said to have been a response to bebop, with its musicians wanting to reinstate some of jazz's African-American roots that they felt had been lost in contemporary performance [citation]. Thus, we can see some of the same features in hard bop, as those in both blues, and gospel styles. 
 
-%%introduce the piece — the album, history%%
+'To Whom It May Concern' is one of eight tracks on the album *Horace Silver and the Jazz Messengers* [citation]. Comprising mostly Silver's own compositions ([[@silver2007let|Silver, 2007]]), the album is considered one of the primary influences on the hard bop movement away from bebop.
 
 'To Whom It May Concern' consists of alternating sections that contrast quite profoundly with each other. The head itself follows an AABA structure, before moving to a new progression (C) for the various solos. In the head, the A section explores a dark, minor sound with some inspiration from ==flamenco rhythms==, before moving to a distinctive rhumba groove for the B section. Much of the change in feel comes from the drumkit; the A section melody has a rather sparse kit part, mostly following the rhythm of the frontline and the fill connecting the two consecutive A sections only being ==on the floor tom, indicating the dark Latin influences==. In the B section, the familiar rhumba rhythm (see Figure 1) in the piano grounds the style, Art Blakey then emphasising this with the cymbals in the build-up to the end of the section. 
 
