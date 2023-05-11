@@ -1,11 +1,11 @@
 ## intro
-Much of the world remains to be investigated ethnomusicologically %%why do you think?%%. One location that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and ==previous rule==%%history? dunno this doesn't read right somehow%% means that its folk music draws from and develops on other traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles.
+Much of the world remains to be investigated ethnomusicologically %%why do you think?%%. One location that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and ==previous rule==%%history? dunno this doesn't read right somehow%% means that its folk music draws from and develops on other %%varied%% traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles. %%is there anything to be said about Malta's status as being situated somewhere between Western, Eastern, and African cultural spheres and how that might have affected its emergent music?%%
 
-This thesis requires huge concentration on how cultural and national identity is cultivated through the means of music. [some bullshit]
+This thesis requires huge%%?%% concentration on how cultural and national identity is cultivated through the means of music. [some bullshit]
 
 ## historical bullshit
-- Previous rule of lots of different countries — Byzantian, Knights of St John, the French, the English — yet influences seem to draw predominantly from Arabic & North African musical traditions ([[@chircopOralTraditionHistorical1993|Chircop, 1993]])
-- Were not forcibly colonised by the English — the English helped them fight the French, and so were welcomed to assume sovereignty over the island
+- Previous rule of lots of different countries — The Byzantines, Knights of St John %%not a country%%, the French, the English — yet influences seem to draw predominantly from Arabic & North African musical traditions ([[@chircopOralTraditionHistorical1993|Chircop, 1993]])
+- Were not forcibly colonised by the English — the English helped them fight the French, and so were welcomed to assume the island as a protectorate 
 - British rule began in about 1800; as an anciently multicultural nation, Malta had already developed many of its musical traditions from previous inhabitors
 -> ==how might ethnomusicologists study this==
 
