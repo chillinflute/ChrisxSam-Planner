@@ -1,16 +1,16 @@
 ## intro
-Much of the world remains to be investigated ethnomusicologically: %%why%%. One culture that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and history of rulers means that its folk music draws from and develops on other varied traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles. Often referred to in the European world as the "gateway to Africa", Malta has historically been considered strategically placed for trade and other such access to Africa, particular
-%%is there anything to be said about Malta's status as being situated somewhere between Western, Eastern, and African cultural spheres and how that might have affected its emergent music?%%
+Much of the world remains to be investigated ethnomusicologically: %%why%%. One culture that has yet to see extensive research or thorough examination of its musical traditions is Malta. Malta provides an interesting, relatively untapped example: the intersectionality of different cultures that Malta consists of due to its geographical location and history of rulers means that its folk music draws from and develops on other varied traditions. These different influences have come to create a "sonic signature" of Malta through the hybridisation of various other folk styles. Often referred to in the European world as the "gateway to Africa", Malta has historically been considered strategically placed for as both a trade and military outpost. Due to its being on the edge of several broader cultural communities (Western Europe, Eastern Europe, Middle East, North Africa), this has lead to a status of intersecting cultural spheres, thus affecting the traditions developed there.
 
-This thesis requires huge%%?%% concentration on how cultural and national identity is cultivated through the means of music. [some bullshit]
+In proving this thesis, a concentration on how cultural and national identity is cultivated through the means of music will be required. [some bullshit]
 
 ## historical bullshit
-- Previous rule of lots of different countries — The Byzantines, Knights of St John %%not a country%%, the French, the English — yet influences seem to draw predominantly from Arabic & North African musical traditions ([[@chircopOralTraditionHistorical1993|Chircop, 1993]])
+- Previous rule of lots of different countries/organisations — The Byzantines, Knights of St John %%not a country%%, the French, the English — yet influences seem to draw predominantly from Arabic & North African musical traditions ([[@chircopOralTraditionHistorical1993|Chircop, 1993]])
 - Were not forcibly colonised by the English — the English helped them fight the French, and so were welcomed to assume the island as a protectorate 
 - British rule began in about 1800; as an anciently multicultural nation, Malta had already developed many of its musical traditions from previous inhabitors
+- independent since 1974
 -> ==how might ethnomusicologists study this==
 
-
+As stated, in brief, Malta has been under rule from a variety of nations and organisations — to list just a few, this includes the Byzantine Empire, the Knights of St John (who in of themselves were a massively multicultural group), England, and France. 
 
 ## how creativity & identity might yield "sonic signature"
 fuck if i know
