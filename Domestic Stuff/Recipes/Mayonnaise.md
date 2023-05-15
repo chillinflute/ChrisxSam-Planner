@@ -17,4 +17,5 @@ From [Adam Ragusea](https://www.youtube.com/watch?v=fqHqEGGz1tE)
 - Add egg yolks to bowl
 - Whisk in, ***Very Slowly***, the oil until the emulsion begins to form
 - Add crushed garlic and mustard, incorporate, and continue adding oil
-- Add lemon juice to loosen emulsion when thick until desired quantity reached, or when emulsion loosens rather than thickens on addition of more oil
+- Add lemon juice to loosen emulsion when thick 
+- Whisk until desired quantity reached, or when emulsion loosens rather than thickens on addition of more oil
