@@ -1,6 +1,6 @@
 # Varient Recipe 1 — Garlic Mayo ("French" [[Aioli]])
 
-From [Adam Ragusea](https://www.youtube.com/watch?v=fqHqEGGz1tE) 
+Modified from [Adam Ragusea](https://www.youtube.com/watch?v=fqHqEGGz1tE) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqHqEGGz1tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
