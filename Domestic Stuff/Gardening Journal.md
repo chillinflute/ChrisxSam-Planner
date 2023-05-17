@@ -20,19 +20,24 @@
 
 ### Pot 1 (Leftmost)
 
-- Chives.
+- Chives
 
 ### Pot 2 
 
-- Parsley 
+- Parsley
 
 ### Pot 3
 
-Vacant
+- Coriander
+	- Planted whole (but very wilted)
+		- [[2023-05-17]]
+	- Will have to see if it perks up in a bigger pot
 
-### Pot 4
+### Pot 4 (Rightmost)
 
-Vacant
+- Basil
+	- Planted whole
+		- [[2023-05-17]] 
 
 ## Big Brown Pot
 
@@ -40,4 +45,17 @@ Dead chili plant. Something unidentified (probably a salad leaf of some kind) gr
 
 ## Tap Pot
 
-Vacant, no soil. 
+- Mustard
+	- Planted from seed
+		- [[2023-05-17]]
+	- Estimated grow-time: ≈4 weeks ([[2023-06-14]])
+		- Maturity reached: ≈6 weeks ([[2023-06-28]])
+	- Fresh soil
+- ~~Vacant, no soil. ~~
+
+## Seed-beds
+
+- Alfalfa ×2
+	- Planted from seed
+		- [[2023-05-17]]
+	- Estimated grow-time: 
