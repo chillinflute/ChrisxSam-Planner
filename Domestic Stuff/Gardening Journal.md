@@ -2,37 +2,44 @@
 
 ## Planting 🌱 
 
-- [ ] Mustard and other greens to go in planters 
+- [x] Mustard and other greens to go in planters 
 
 ## Equipment 🧰
 
-- [ ] Trowel
+- [x] Trowel
 - [ ] Find rest of planters?
-- [ ] Potting soil
+- [x] Potting soil
 
 # Pots 🪴
 
 ## Round Brown Pot
 
-- [[2023-05-07]] Mixed spicy salad leaves.
+- Mixed spicy salad leaves.
+	- Planted from seed
+		- [[2023-05-07]]
 
 ## 4-Slot-Pot
 
 ### Pot 1 (Leftmost)
 
-- Chives.
+- Chives
 
 ### Pot 2 
 
-- Parsley 
+- Parsley
 
 ### Pot 3
 
-Vacant
+- Coriander
+	- Planted whole (but very wilted)
+		- [[2023-05-17]]
+	- Will have to see if it perks up in a bigger pot
 
-### Pot 4
+### Pot 4 (Rightmost)
 
-Vacant
+- Basil
+	- Planted whole
+		- [[2023-05-17]] 
 
 ## Big Brown Pot
 
@@ -40,4 +47,19 @@ Dead chili plant. Something unidentified (probably a salad leaf of some kind) gr
 
 ## Tap Pot
 
-Vacant, no soil. 
+- Mustard
+	- Planted from seed
+		- [[2023-05-17]]
+	- Estimated grow-time: ≈4 weeks ([[2023-06-14]])
+		- Maturity reached: ≈6 weeks ([[2023-06-28]])
+	- Fresh soil
+- ~~Vacant, no soil. ~~
+
+## Seed-beds
+
+- Alfalfa ×2
+	- Planted from seed
+		- [[2023-05-17]]
+	- Estimated grow-time: ≈40 days ([[2023-06-26]])
+		- Maturity reached: ≈60 days ([[2023-07-16]])
+	- Beds have no drainage holes and alfalfa doesn't like too much water. **Do not overwater!**

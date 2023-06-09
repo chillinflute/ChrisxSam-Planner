@@ -7,6 +7,7 @@
 	- Started: [[2023-05-08]]
 	- Ready min: [[2023-05-22]]
 	- Save part as present for Steven and Amy, reserve in newly bought Kilner jar
+		- Portion jarred for this purpose on \[date on label]
 - ~~Cauliflower, Carrot, and Mooli~~
 	- ~~Matured~~
 
@@ -21,12 +22,12 @@
 	- Full Jar
 	- Started: [[2023-05-08]]
 	- Ready min: [[2023-05-10]]
-- [[Kimchi]] B
-	- ⅓ full jar
-	- Added liquid from previous ferment
-	- Started: [[2023-05-08]]
-	- Ready min: [[2023-05-10]]
-	- Should probably eat first to prevent easier spoilage due to air gap
+- ~~[[Kimchi]] B~~
+	- ~~⅓ full jar~~
+	- ~~Added liquid from previous ferment~~
+	- ~~Started: [[2023-05-08]]~~
+	- ~~Ready min: [[2023-05-10]]~~
+	- ~~Should probably eat first to prevent easier spoilage due to air gap~~
 - ~~Matured~~
 - ~~Vacant~~
 
