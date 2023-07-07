@@ -2,26 +2,27 @@
 
 ## Jar 1 (3L Kilner)
 
-- Purple [[Sauerkraut]]
-	- Full jar
-	- Started: [[2023-05-08]]
-	- Ready min: [[2023-05-22]]
-	- Save part as present for Steven and Amy, reserve in newly bought Kilner jar
-		- Portion jarred for this purpose on \[date on label]
+- ~~Purple [[Sauerkraut]]~~
+	- ~~Full jar~~
+	- ~~Started: [[2023-05-08]]~~
+	- ~~Ready min: [[2023-05-22]]~~
+	- ~~Save part as present for Steven and Amy, reserve in newly bought Kilner jar~~
+		- ~~Portion jarred for this purpose on \[date on label]~~
+	- ~~Too little liquid led to spoilage in large jar which had to be discarded~~
 - ~~Cauliflower, Carrot, and Mooli~~
 	- ~~Matured~~
 
 ## Jar 2 (Loose lid — Mustard Jar)
 
-- Dijon-style whole grain mustard
-	- Matured
+- ~~Dijon-style whole grain mustard~~
+	- ~~Matured~~
 
 ## Jars 3a,b (Red Lids)
 
-- [[Kimchi]] A
-	- Full Jar
-	- Started: [[2023-05-08]]
-	- Ready min: [[2023-05-10]]
+- ~~[[Kimchi]] A~~
+	- ~~Full Jar~~
+	- ~~Started: [[2023-05-08]]~~
+	- ~~Ready min: [[2023-05-10]]~~
 - ~~[[Kimchi]] B~~
 	- ~~⅓ full jar~~
 	- ~~Added liquid from previous ferment~~
