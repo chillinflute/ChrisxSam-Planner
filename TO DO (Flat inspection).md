@@ -1,0 +1,11 @@
+- [x] #task Clean bathroom surfaces
+- [x] #task Put bleach down plugholes (bathroom sink, bath, both kitchen sink holes)
+- [x] #task Thorough hoover ✅ 2023-07-17
+- [x] #task Put away laundry horses ✅ 2023-07-17
+- [x] #task Get as much laundry done as possible ✅ 2023-07-17
+- [x] #task Put away piles of laundry/ironing in bedroom ✅ 2023-07-17
+- [x] #task Dust corners of the room with feather duster (it's under the bed)
+- [x] #task Make sure kitchen is clean & tidy ✅ 2023-07-17
+- [ ] #task Clean oven, with oven cleaner
+- [ ] #task Clear up any crap on the balcony
+- [x] #task Make sure all instruments are under the bed/in the wardrobe ✅ 2023-07-17
