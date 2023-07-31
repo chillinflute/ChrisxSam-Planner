@@ -7,5 +7,5 @@
 - [x] #task Dust corners of the room with feather duster (it's under the bed)
 - [x] #task Make sure kitchen is clean & tidy ✅ 2023-07-17
 - [ ] #task Clean oven, with oven cleaner
-- [ ] #task Clear up any crap on the balcony
+- [x] #task Clear up any crap on the balcony ✅ 2023-07-31
 - [x] #task Make sure all instruments are under the bed/in the wardrobe ✅ 2023-07-17
