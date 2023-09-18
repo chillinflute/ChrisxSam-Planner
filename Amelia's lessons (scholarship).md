@@ -1,0 +1,5 @@
+- online 1hr — £30
+- in-person 2hr (24th August) — £70
+- online 2hr (14th September) — £60
+
+current total = £160
