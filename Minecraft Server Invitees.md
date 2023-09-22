@@ -1,7 +1,7 @@
-- [ ] T & Mathew
-- [ ] Table for Ball (Mae, Isaac, Holly, etc.)
+- [x] T & Mathew
+- [x] Table for Ball (Mae, Isaac, Holly, etc.)
 - [ ] Josh
-- [ ] Dib & Becky
+- [x] Dib & Becky
 - [ ] Tea party chat
-- [ ] Dani
-- [ ] Viv and Bronte
+- [x] Dani
+- [x] Viv and Bronte
