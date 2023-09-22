@@ -5,7 +5,7 @@ Fuck this is literally our talk
 Realistic vs Abstract representations of voices
 
 - Voice-acted vs Beep speech
-	- Beep speech also interpretted as typing?
+	- Beep speech also interpreted as typing?
 - In Scholarship
 	- Realistic representations of voices vs abstract
 - Goal
@@ -20,7 +20,7 @@ Ok it's fine it's not quite the same
 		- "phones" = speech sounds
 	- Linguistic meaning
 	- Translates or duplicates visual text
-	- Degree of technological mediation is relaisitc for the given character
+	- Degree of technological mediation is realistic for the given character
 	- Phoenix Wright vs Life is Strange as realistic vs abstract on these principles
 	- If there is linguistic meaning or translates text, players will expect to understand communication happening in the depiction of the voice
 - Kane "The Model of the Voice"
@@ -60,4 +60,3 @@ Ok it's fine it's not quite the same
 		- She delves into how the use of abstraction can be used to communicate narrative
 	- Ours is more focussed specifically on characterisation
 		- Her example of Volfred might well be key, definitely need to add *Pyre* to the case study list
-- 
