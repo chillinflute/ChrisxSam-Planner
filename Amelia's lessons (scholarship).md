@@ -11,5 +11,5 @@ current total = £220
 inPerson/hr = £35
 online/hr = £30
 
-
+sum(1hr*online, 2hr*in-person) => 
 ```
