@@ -8,5 +8,8 @@ current total = £220
 
 
 ```math
-inPerson/hr = 
+inPerson/hr = £35
+online/hr = £30
+
+
 ```
