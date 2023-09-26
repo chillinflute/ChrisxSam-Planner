@@ -5,3 +5,8 @@
 - online 2hr (26th September)
 
 current total = £220
+
+
+```math
+inPerson/hr = 
+```
