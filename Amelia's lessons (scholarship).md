@@ -3,6 +3,7 @@
 - online 2hr (14th September) 
 - online 2hr (19th September) 
 - online 2hr (26th September)
+- online 2hr (3rd October)
 
 
 ```math
