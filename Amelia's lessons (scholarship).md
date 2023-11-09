@@ -7,6 +7,7 @@
 - online 2hr (10th October)
 - online 2 hr (17th October)
 - online 1 ½ hr (24th October)
+- online 2hr (7th November)
 
 
 ```math
@@ -15,7 +16,7 @@ inPerson = £35/hr
 online = £30/hr
 
 # Lesson total
-lessonTotal = sum(1hr online, 2hr inPerson, 6.75 * 2hr online)
+lessonTotal = sum(1hr online, 2hr inPerson, 7 * 2hr online, 1 * 1.5hr online)
 
 # Total Grant Remaining
 £500 - lessonTotal 
